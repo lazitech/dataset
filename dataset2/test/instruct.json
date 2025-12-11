@@ -1,0 +1,2510 @@
+[
+  {
+    "id": "test_digit_0_001",
+    "image": "test_images/test_digit_0_001.png",
+    "conversations": [
+      {
+        "from": "human",
+        "value": "<image>\nWhat color is the foreground element?"
+      },
+      {
+        "from": "gpt",
+        "value": "orange number 0."
+      }
+    ],
+    "gt_info": {
+      "color": "orange",
+      "label": "0",
+      "category": "digit"
+    }
+  },
+  {
+    "id": "test_digit_0_002",
+    "image": "test_images/test_digit_0_002.png",
+    "conversations": [
+      {
+        "from": "human",
+        "value": "<image>\nDescribe the object's color and shape."
+      },
+      {
+        "from": "gpt",
+        "value": "It is a purple number 0."
+      }
+    ],
+    "gt_info": {
+      "color": "purple",
+      "label": "0",
+      "category": "digit"
+    }
+  },
+  {
+    "id": "test_digit_1_001",
+    "image": "test_images/test_digit_1_001.png",
+    "conversations": [
+      {
+        "from": "human",
+        "value": "<image>\nPlease identify the character or shape and its color."
+      },
+      {
+        "from": "gpt",
+        "value": "It is a green number 1."
+      }
+    ],
+    "gt_info": {
+      "color": "green",
+      "label": "1",
+      "category": "digit"
+    }
+  },
+  {
+    "id": "test_digit_1_002",
+    "image": "test_images/test_digit_1_002.png",
+    "conversations": [
+      {
+        "from": "human",
+        "value": "<image>\nDescribe the object's color and shape."
+      },
+      {
+        "from": "gpt",
+        "value": "It is a yellow number 1."
+      }
+    ],
+    "gt_info": {
+      "color": "yellow",
+      "label": "1",
+      "category": "digit"
+    }
+  },
+  {
+    "id": "test_digit_2_001",
+    "image": "test_images/test_digit_2_001.png",
+    "conversations": [
+      {
+        "from": "human",
+        "value": "<image>\nDescribe the object's color and shape."
+      },
+      {
+        "from": "gpt",
+        "value": "It is a yellow number 2."
+      }
+    ],
+    "gt_info": {
+      "color": "yellow",
+      "label": "2",
+      "category": "digit"
+    }
+  },
+  {
+    "id": "test_digit_2_002",
+    "image": "test_images/test_digit_2_002.png",
+    "conversations": [
+      {
+        "from": "human",
+        "value": "<image>\nIdentify the color and the item shown."
+      },
+      {
+        "from": "gpt",
+        "value": "maroon number 2."
+      }
+    ],
+    "gt_info": {
+      "color": "maroon",
+      "label": "2",
+      "category": "digit"
+    }
+  },
+  {
+    "id": "test_digit_3_001",
+    "image": "test_images/test_digit_3_001.png",
+    "conversations": [
+      {
+        "from": "human",
+        "value": "<image>\nPlease identify the character or shape and its color."
+      },
+      {
+        "from": "gpt",
+        "value": "The object is a white number 3."
+      }
+    ],
+    "gt_info": {
+      "color": "white",
+      "label": "3",
+      "category": "digit"
+    }
+  },
+  {
+    "id": "test_digit_3_002",
+    "image": "test_images/test_digit_3_002.png",
+    "conversations": [
+      {
+        "from": "human",
+        "value": "<image>\nIdentify the color and the item shown."
+      },
+      {
+        "from": "gpt",
+        "value": "It is a maroon number 3."
+      }
+    ],
+    "gt_info": {
+      "color": "maroon",
+      "label": "3",
+      "category": "digit"
+    }
+  },
+  {
+    "id": "test_digit_4_001",
+    "image": "test_images/test_digit_4_001.png",
+    "conversations": [
+      {
+        "from": "human",
+        "value": "<image>\nPlease identify the character or shape and its color."
+      },
+      {
+        "from": "gpt",
+        "value": "red number 4."
+      }
+    ],
+    "gt_info": {
+      "color": "red",
+      "label": "4",
+      "category": "digit"
+    }
+  },
+  {
+    "id": "test_digit_4_002",
+    "image": "test_images/test_digit_4_002.png",
+    "conversations": [
+      {
+        "from": "human",
+        "value": "<image>\nDescribe the object's color and shape."
+      },
+      {
+        "from": "gpt",
+        "value": "olive number 4."
+      }
+    ],
+    "gt_info": {
+      "color": "olive",
+      "label": "4",
+      "category": "digit"
+    }
+  },
+  {
+    "id": "test_digit_5_001",
+    "image": "test_images/test_digit_5_001.png",
+    "conversations": [
+      {
+        "from": "human",
+        "value": "<image>\nWhat color is the foreground element?"
+      },
+      {
+        "from": "gpt",
+        "value": "It is a yellow number 5."
+      }
+    ],
+    "gt_info": {
+      "color": "yellow",
+      "label": "5",
+      "category": "digit"
+    }
+  },
+  {
+    "id": "test_digit_5_002",
+    "image": "test_images/test_digit_5_002.png",
+    "conversations": [
+      {
+        "from": "human",
+        "value": "<image>\nWhat color is the foreground element?"
+      },
+      {
+        "from": "gpt",
+        "value": "white number 5."
+      }
+    ],
+    "gt_info": {
+      "color": "white",
+      "label": "5",
+      "category": "digit"
+    }
+  },
+  {
+    "id": "test_digit_6_001",
+    "image": "test_images/test_digit_6_001.png",
+    "conversations": [
+      {
+        "from": "human",
+        "value": "<image>\nWhat is the color and the object in this image?"
+      },
+      {
+        "from": "gpt",
+        "value": "red number 6."
+      }
+    ],
+    "gt_info": {
+      "color": "red",
+      "label": "6",
+      "category": "digit"
+    }
+  },
+  {
+    "id": "test_digit_6_002",
+    "image": "test_images/test_digit_6_002.png",
+    "conversations": [
+      {
+        "from": "human",
+        "value": "<image>\nWhat color is the foreground element?"
+      },
+      {
+        "from": "gpt",
+        "value": "teal number 6."
+      }
+    ],
+    "gt_info": {
+      "color": "teal",
+      "label": "6",
+      "category": "digit"
+    }
+  },
+  {
+    "id": "test_digit_7_001",
+    "image": "test_images/test_digit_7_001.png",
+    "conversations": [
+      {
+        "from": "human",
+        "value": "<image>\nWhat color is the foreground element?"
+      },
+      {
+        "from": "gpt",
+        "value": "The object is a black number 7."
+      }
+    ],
+    "gt_info": {
+      "color": "black",
+      "label": "7",
+      "category": "digit"
+    }
+  },
+  {
+    "id": "test_digit_7_002",
+    "image": "test_images/test_digit_7_002.png",
+    "conversations": [
+      {
+        "from": "human",
+        "value": "<image>\nPlease identify the character or shape and its color."
+      },
+      {
+        "from": "gpt",
+        "value": "It is a black number 7."
+      }
+    ],
+    "gt_info": {
+      "color": "black",
+      "label": "7",
+      "category": "digit"
+    }
+  },
+  {
+    "id": "test_digit_8_001",
+    "image": "test_images/test_digit_8_001.png",
+    "conversations": [
+      {
+        "from": "human",
+        "value": "<image>\nDescribe the object's color and shape."
+      },
+      {
+        "from": "gpt",
+        "value": "The object is a brown number 8."
+      }
+    ],
+    "gt_info": {
+      "color": "brown",
+      "label": "8",
+      "category": "digit"
+    }
+  },
+  {
+    "id": "test_digit_8_002",
+    "image": "test_images/test_digit_8_002.png",
+    "conversations": [
+      {
+        "from": "human",
+        "value": "<image>\nDescribe the object's color and shape."
+      },
+      {
+        "from": "gpt",
+        "value": "The object is a brown number 8."
+      }
+    ],
+    "gt_info": {
+      "color": "brown",
+      "label": "8",
+      "category": "digit"
+    }
+  },
+  {
+    "id": "test_digit_9_001",
+    "image": "test_images/test_digit_9_001.png",
+    "conversations": [
+      {
+        "from": "human",
+        "value": "<image>\nDescribe the object's color and shape."
+      },
+      {
+        "from": "gpt",
+        "value": "It is a black number 9."
+      }
+    ],
+    "gt_info": {
+      "color": "black",
+      "label": "9",
+      "category": "digit"
+    }
+  },
+  {
+    "id": "test_digit_9_002",
+    "image": "test_images/test_digit_9_002.png",
+    "conversations": [
+      {
+        "from": "human",
+        "value": "<image>\nPlease identify the character or shape and its color."
+      },
+      {
+        "from": "gpt",
+        "value": "The object is a teal number 9."
+      }
+    ],
+    "gt_info": {
+      "color": "teal",
+      "label": "9",
+      "category": "digit"
+    }
+  },
+  {
+    "id": "test_char_upper_A_001",
+    "image": "test_images/test_char_upper_A_001.png",
+    "conversations": [
+      {
+        "from": "human",
+        "value": "<image>\nWhat is the color and the object in this image?"
+      },
+      {
+        "from": "gpt",
+        "value": "It is a brown character 'A'."
+      }
+    ],
+    "gt_info": {
+      "color": "brown",
+      "label": "A",
+      "category": "char_upper"
+    }
+  },
+  {
+    "id": "test_char_upper_A_002",
+    "image": "test_images/test_char_upper_A_002.png",
+    "conversations": [
+      {
+        "from": "human",
+        "value": "<image>\nWhat color is the foreground element?"
+      },
+      {
+        "from": "gpt",
+        "value": "brown character 'A'."
+      }
+    ],
+    "gt_info": {
+      "color": "brown",
+      "label": "A",
+      "category": "char_upper"
+    }
+  },
+  {
+    "id": "test_char_upper_B_001",
+    "image": "test_images/test_char_upper_B_001.png",
+    "conversations": [
+      {
+        "from": "human",
+        "value": "<image>\nWhat is the color and the object in this image?"
+      },
+      {
+        "from": "gpt",
+        "value": "The object is a maroon character 'B'."
+      }
+    ],
+    "gt_info": {
+      "color": "maroon",
+      "label": "B",
+      "category": "char_upper"
+    }
+  },
+  {
+    "id": "test_char_upper_B_002",
+    "image": "test_images/test_char_upper_B_002.png",
+    "conversations": [
+      {
+        "from": "human",
+        "value": "<image>\nPlease identify the character or shape and its color."
+      },
+      {
+        "from": "gpt",
+        "value": "The object is a black character 'B'."
+      }
+    ],
+    "gt_info": {
+      "color": "black",
+      "label": "B",
+      "category": "char_upper"
+    }
+  },
+  {
+    "id": "test_char_upper_C_001",
+    "image": "test_images/test_char_upper_C_001.png",
+    "conversations": [
+      {
+        "from": "human",
+        "value": "<image>\nPlease identify the character or shape and its color."
+      },
+      {
+        "from": "gpt",
+        "value": "It is a pink character 'C'."
+      }
+    ],
+    "gt_info": {
+      "color": "pink",
+      "label": "C",
+      "category": "char_upper"
+    }
+  },
+  {
+    "id": "test_char_upper_C_002",
+    "image": "test_images/test_char_upper_C_002.png",
+    "conversations": [
+      {
+        "from": "human",
+        "value": "<image>\nIdentify the color and the item shown."
+      },
+      {
+        "from": "gpt",
+        "value": "The object is a olive character 'C'."
+      }
+    ],
+    "gt_info": {
+      "color": "olive",
+      "label": "C",
+      "category": "char_upper"
+    }
+  },
+  {
+    "id": "test_char_upper_D_001",
+    "image": "test_images/test_char_upper_D_001.png",
+    "conversations": [
+      {
+        "from": "human",
+        "value": "<image>\nPlease identify the character or shape and its color."
+      },
+      {
+        "from": "gpt",
+        "value": "The object is a pink character 'D'."
+      }
+    ],
+    "gt_info": {
+      "color": "pink",
+      "label": "D",
+      "category": "char_upper"
+    }
+  },
+  {
+    "id": "test_char_upper_D_002",
+    "image": "test_images/test_char_upper_D_002.png",
+    "conversations": [
+      {
+        "from": "human",
+        "value": "<image>\nDescribe the object's color and shape."
+      },
+      {
+        "from": "gpt",
+        "value": "The object is a gray character 'D'."
+      }
+    ],
+    "gt_info": {
+      "color": "gray",
+      "label": "D",
+      "category": "char_upper"
+    }
+  },
+  {
+    "id": "test_char_upper_E_001",
+    "image": "test_images/test_char_upper_E_001.png",
+    "conversations": [
+      {
+        "from": "human",
+        "value": "<image>\nWhat color is the foreground element?"
+      },
+      {
+        "from": "gpt",
+        "value": "It is a black character 'E'."
+      }
+    ],
+    "gt_info": {
+      "color": "black",
+      "label": "E",
+      "category": "char_upper"
+    }
+  },
+  {
+    "id": "test_char_upper_E_002",
+    "image": "test_images/test_char_upper_E_002.png",
+    "conversations": [
+      {
+        "from": "human",
+        "value": "<image>\nWhat is the color and the object in this image?"
+      },
+      {
+        "from": "gpt",
+        "value": "cyan character 'E'."
+      }
+    ],
+    "gt_info": {
+      "color": "cyan",
+      "label": "E",
+      "category": "char_upper"
+    }
+  },
+  {
+    "id": "test_char_upper_F_001",
+    "image": "test_images/test_char_upper_F_001.png",
+    "conversations": [
+      {
+        "from": "human",
+        "value": "<image>\nPlease identify the character or shape and its color."
+      },
+      {
+        "from": "gpt",
+        "value": "It is a brown character 'F'."
+      }
+    ],
+    "gt_info": {
+      "color": "brown",
+      "label": "F",
+      "category": "char_upper"
+    }
+  },
+  {
+    "id": "test_char_upper_F_002",
+    "image": "test_images/test_char_upper_F_002.png",
+    "conversations": [
+      {
+        "from": "human",
+        "value": "<image>\nPlease identify the character or shape and its color."
+      },
+      {
+        "from": "gpt",
+        "value": "pink character 'F'."
+      }
+    ],
+    "gt_info": {
+      "color": "pink",
+      "label": "F",
+      "category": "char_upper"
+    }
+  },
+  {
+    "id": "test_char_upper_G_001",
+    "image": "test_images/test_char_upper_G_001.png",
+    "conversations": [
+      {
+        "from": "human",
+        "value": "<image>\nDescribe the object's color and shape."
+      },
+      {
+        "from": "gpt",
+        "value": "teal character 'G'."
+      }
+    ],
+    "gt_info": {
+      "color": "teal",
+      "label": "G",
+      "category": "char_upper"
+    }
+  },
+  {
+    "id": "test_char_upper_G_002",
+    "image": "test_images/test_char_upper_G_002.png",
+    "conversations": [
+      {
+        "from": "human",
+        "value": "<image>\nPlease identify the character or shape and its color."
+      },
+      {
+        "from": "gpt",
+        "value": "It is a yellow character 'G'."
+      }
+    ],
+    "gt_info": {
+      "color": "yellow",
+      "label": "G",
+      "category": "char_upper"
+    }
+  },
+  {
+    "id": "test_char_upper_H_001",
+    "image": "test_images/test_char_upper_H_001.png",
+    "conversations": [
+      {
+        "from": "human",
+        "value": "<image>\nWhat is the color and the object in this image?"
+      },
+      {
+        "from": "gpt",
+        "value": "The object is a gray character 'H'."
+      }
+    ],
+    "gt_info": {
+      "color": "gray",
+      "label": "H",
+      "category": "char_upper"
+    }
+  },
+  {
+    "id": "test_char_upper_H_002",
+    "image": "test_images/test_char_upper_H_002.png",
+    "conversations": [
+      {
+        "from": "human",
+        "value": "<image>\nPlease identify the character or shape and its color."
+      },
+      {
+        "from": "gpt",
+        "value": "gray character 'H'."
+      }
+    ],
+    "gt_info": {
+      "color": "gray",
+      "label": "H",
+      "category": "char_upper"
+    }
+  },
+  {
+    "id": "test_char_upper_I_001",
+    "image": "test_images/test_char_upper_I_001.png",
+    "conversations": [
+      {
+        "from": "human",
+        "value": "<image>\nWhat color is the foreground element?"
+      },
+      {
+        "from": "gpt",
+        "value": "purple character 'I'."
+      }
+    ],
+    "gt_info": {
+      "color": "purple",
+      "label": "I",
+      "category": "char_upper"
+    }
+  },
+  {
+    "id": "test_char_upper_I_002",
+    "image": "test_images/test_char_upper_I_002.png",
+    "conversations": [
+      {
+        "from": "human",
+        "value": "<image>\nWhat is the color and the object in this image?"
+      },
+      {
+        "from": "gpt",
+        "value": "blue character 'I'."
+      }
+    ],
+    "gt_info": {
+      "color": "blue",
+      "label": "I",
+      "category": "char_upper"
+    }
+  },
+  {
+    "id": "test_char_upper_J_001",
+    "image": "test_images/test_char_upper_J_001.png",
+    "conversations": [
+      {
+        "from": "human",
+        "value": "<image>\nWhat is the color and the object in this image?"
+      },
+      {
+        "from": "gpt",
+        "value": "cyan character 'J'."
+      }
+    ],
+    "gt_info": {
+      "color": "cyan",
+      "label": "J",
+      "category": "char_upper"
+    }
+  },
+  {
+    "id": "test_char_upper_J_002",
+    "image": "test_images/test_char_upper_J_002.png",
+    "conversations": [
+      {
+        "from": "human",
+        "value": "<image>\nWhat color is the foreground element?"
+      },
+      {
+        "from": "gpt",
+        "value": "The object is a teal character 'J'."
+      }
+    ],
+    "gt_info": {
+      "color": "teal",
+      "label": "J",
+      "category": "char_upper"
+    }
+  },
+  {
+    "id": "test_char_upper_K_001",
+    "image": "test_images/test_char_upper_K_001.png",
+    "conversations": [
+      {
+        "from": "human",
+        "value": "<image>\nPlease identify the character or shape and its color."
+      },
+      {
+        "from": "gpt",
+        "value": "The object is a olive character 'K'."
+      }
+    ],
+    "gt_info": {
+      "color": "olive",
+      "label": "K",
+      "category": "char_upper"
+    }
+  },
+  {
+    "id": "test_char_upper_K_002",
+    "image": "test_images/test_char_upper_K_002.png",
+    "conversations": [
+      {
+        "from": "human",
+        "value": "<image>\nIdentify the color and the item shown."
+      },
+      {
+        "from": "gpt",
+        "value": "It is a navy character 'K'."
+      }
+    ],
+    "gt_info": {
+      "color": "navy",
+      "label": "K",
+      "category": "char_upper"
+    }
+  },
+  {
+    "id": "test_char_upper_L_001",
+    "image": "test_images/test_char_upper_L_001.png",
+    "conversations": [
+      {
+        "from": "human",
+        "value": "<image>\nWhat is the color and the object in this image?"
+      },
+      {
+        "from": "gpt",
+        "value": "The object is a white character 'L'."
+      }
+    ],
+    "gt_info": {
+      "color": "white",
+      "label": "L",
+      "category": "char_upper"
+    }
+  },
+  {
+    "id": "test_char_upper_L_002",
+    "image": "test_images/test_char_upper_L_002.png",
+    "conversations": [
+      {
+        "from": "human",
+        "value": "<image>\nPlease identify the character or shape and its color."
+      },
+      {
+        "from": "gpt",
+        "value": "brown character 'L'."
+      }
+    ],
+    "gt_info": {
+      "color": "brown",
+      "label": "L",
+      "category": "char_upper"
+    }
+  },
+  {
+    "id": "test_char_upper_M_001",
+    "image": "test_images/test_char_upper_M_001.png",
+    "conversations": [
+      {
+        "from": "human",
+        "value": "<image>\nPlease identify the character or shape and its color."
+      },
+      {
+        "from": "gpt",
+        "value": "The object is a blue character 'M'."
+      }
+    ],
+    "gt_info": {
+      "color": "blue",
+      "label": "M",
+      "category": "char_upper"
+    }
+  },
+  {
+    "id": "test_char_upper_M_002",
+    "image": "test_images/test_char_upper_M_002.png",
+    "conversations": [
+      {
+        "from": "human",
+        "value": "<image>\nIdentify the color and the item shown."
+      },
+      {
+        "from": "gpt",
+        "value": "It is a orange character 'M'."
+      }
+    ],
+    "gt_info": {
+      "color": "orange",
+      "label": "M",
+      "category": "char_upper"
+    }
+  },
+  {
+    "id": "test_char_upper_N_001",
+    "image": "test_images/test_char_upper_N_001.png",
+    "conversations": [
+      {
+        "from": "human",
+        "value": "<image>\nDescribe the object's color and shape."
+      },
+      {
+        "from": "gpt",
+        "value": "It is a purple character 'N'."
+      }
+    ],
+    "gt_info": {
+      "color": "purple",
+      "label": "N",
+      "category": "char_upper"
+    }
+  },
+  {
+    "id": "test_char_upper_N_002",
+    "image": "test_images/test_char_upper_N_002.png",
+    "conversations": [
+      {
+        "from": "human",
+        "value": "<image>\nWhat is the color and the object in this image?"
+      },
+      {
+        "from": "gpt",
+        "value": "It is a orange character 'N'."
+      }
+    ],
+    "gt_info": {
+      "color": "orange",
+      "label": "N",
+      "category": "char_upper"
+    }
+  },
+  {
+    "id": "test_char_upper_O_001",
+    "image": "test_images/test_char_upper_O_001.png",
+    "conversations": [
+      {
+        "from": "human",
+        "value": "<image>\nPlease identify the character or shape and its color."
+      },
+      {
+        "from": "gpt",
+        "value": "orange character 'O'."
+      }
+    ],
+    "gt_info": {
+      "color": "orange",
+      "label": "O",
+      "category": "char_upper"
+    }
+  },
+  {
+    "id": "test_char_upper_O_002",
+    "image": "test_images/test_char_upper_O_002.png",
+    "conversations": [
+      {
+        "from": "human",
+        "value": "<image>\nWhat is the color and the object in this image?"
+      },
+      {
+        "from": "gpt",
+        "value": "It is a yellow character 'O'."
+      }
+    ],
+    "gt_info": {
+      "color": "yellow",
+      "label": "O",
+      "category": "char_upper"
+    }
+  },
+  {
+    "id": "test_char_upper_P_001",
+    "image": "test_images/test_char_upper_P_001.png",
+    "conversations": [
+      {
+        "from": "human",
+        "value": "<image>\nIdentify the color and the item shown."
+      },
+      {
+        "from": "gpt",
+        "value": "purple character 'P'."
+      }
+    ],
+    "gt_info": {
+      "color": "purple",
+      "label": "P",
+      "category": "char_upper"
+    }
+  },
+  {
+    "id": "test_char_upper_P_002",
+    "image": "test_images/test_char_upper_P_002.png",
+    "conversations": [
+      {
+        "from": "human",
+        "value": "<image>\nWhat color is the foreground element?"
+      },
+      {
+        "from": "gpt",
+        "value": "The object is a purple character 'P'."
+      }
+    ],
+    "gt_info": {
+      "color": "purple",
+      "label": "P",
+      "category": "char_upper"
+    }
+  },
+  {
+    "id": "test_char_upper_Q_001",
+    "image": "test_images/test_char_upper_Q_001.png",
+    "conversations": [
+      {
+        "from": "human",
+        "value": "<image>\nIdentify the color and the item shown."
+      },
+      {
+        "from": "gpt",
+        "value": "It is a navy character 'Q'."
+      }
+    ],
+    "gt_info": {
+      "color": "navy",
+      "label": "Q",
+      "category": "char_upper"
+    }
+  },
+  {
+    "id": "test_char_upper_Q_002",
+    "image": "test_images/test_char_upper_Q_002.png",
+    "conversations": [
+      {
+        "from": "human",
+        "value": "<image>\nWhat color is the foreground element?"
+      },
+      {
+        "from": "gpt",
+        "value": "It is a brown character 'Q'."
+      }
+    ],
+    "gt_info": {
+      "color": "brown",
+      "label": "Q",
+      "category": "char_upper"
+    }
+  },
+  {
+    "id": "test_char_upper_R_001",
+    "image": "test_images/test_char_upper_R_001.png",
+    "conversations": [
+      {
+        "from": "human",
+        "value": "<image>\nPlease identify the character or shape and its color."
+      },
+      {
+        "from": "gpt",
+        "value": "gray character 'R'."
+      }
+    ],
+    "gt_info": {
+      "color": "gray",
+      "label": "R",
+      "category": "char_upper"
+    }
+  },
+  {
+    "id": "test_char_upper_R_002",
+    "image": "test_images/test_char_upper_R_002.png",
+    "conversations": [
+      {
+        "from": "human",
+        "value": "<image>\nIdentify the color and the item shown."
+      },
+      {
+        "from": "gpt",
+        "value": "The object is a teal character 'R'."
+      }
+    ],
+    "gt_info": {
+      "color": "teal",
+      "label": "R",
+      "category": "char_upper"
+    }
+  },
+  {
+    "id": "test_char_upper_S_001",
+    "image": "test_images/test_char_upper_S_001.png",
+    "conversations": [
+      {
+        "from": "human",
+        "value": "<image>\nPlease identify the character or shape and its color."
+      },
+      {
+        "from": "gpt",
+        "value": "yellow character 'S'."
+      }
+    ],
+    "gt_info": {
+      "color": "yellow",
+      "label": "S",
+      "category": "char_upper"
+    }
+  },
+  {
+    "id": "test_char_upper_S_002",
+    "image": "test_images/test_char_upper_S_002.png",
+    "conversations": [
+      {
+        "from": "human",
+        "value": "<image>\nIdentify the color and the item shown."
+      },
+      {
+        "from": "gpt",
+        "value": "It is a blue character 'S'."
+      }
+    ],
+    "gt_info": {
+      "color": "blue",
+      "label": "S",
+      "category": "char_upper"
+    }
+  },
+  {
+    "id": "test_char_upper_T_001",
+    "image": "test_images/test_char_upper_T_001.png",
+    "conversations": [
+      {
+        "from": "human",
+        "value": "<image>\nWhat color is the foreground element?"
+      },
+      {
+        "from": "gpt",
+        "value": "The object is a red character 'T'."
+      }
+    ],
+    "gt_info": {
+      "color": "red",
+      "label": "T",
+      "category": "char_upper"
+    }
+  },
+  {
+    "id": "test_char_upper_T_002",
+    "image": "test_images/test_char_upper_T_002.png",
+    "conversations": [
+      {
+        "from": "human",
+        "value": "<image>\nPlease identify the character or shape and its color."
+      },
+      {
+        "from": "gpt",
+        "value": "It is a blue character 'T'."
+      }
+    ],
+    "gt_info": {
+      "color": "blue",
+      "label": "T",
+      "category": "char_upper"
+    }
+  },
+  {
+    "id": "test_char_upper_U_001",
+    "image": "test_images/test_char_upper_U_001.png",
+    "conversations": [
+      {
+        "from": "human",
+        "value": "<image>\nIdentify the color and the item shown."
+      },
+      {
+        "from": "gpt",
+        "value": "It is a brown character 'U'."
+      }
+    ],
+    "gt_info": {
+      "color": "brown",
+      "label": "U",
+      "category": "char_upper"
+    }
+  },
+  {
+    "id": "test_char_upper_U_002",
+    "image": "test_images/test_char_upper_U_002.png",
+    "conversations": [
+      {
+        "from": "human",
+        "value": "<image>\nPlease identify the character or shape and its color."
+      },
+      {
+        "from": "gpt",
+        "value": "The object is a gray character 'U'."
+      }
+    ],
+    "gt_info": {
+      "color": "gray",
+      "label": "U",
+      "category": "char_upper"
+    }
+  },
+  {
+    "id": "test_char_upper_V_001",
+    "image": "test_images/test_char_upper_V_001.png",
+    "conversations": [
+      {
+        "from": "human",
+        "value": "<image>\nWhat is the color and the object in this image?"
+      },
+      {
+        "from": "gpt",
+        "value": "The object is a teal character 'V'."
+      }
+    ],
+    "gt_info": {
+      "color": "teal",
+      "label": "V",
+      "category": "char_upper"
+    }
+  },
+  {
+    "id": "test_char_upper_V_002",
+    "image": "test_images/test_char_upper_V_002.png",
+    "conversations": [
+      {
+        "from": "human",
+        "value": "<image>\nIdentify the color and the item shown."
+      },
+      {
+        "from": "gpt",
+        "value": "The object is a black character 'V'."
+      }
+    ],
+    "gt_info": {
+      "color": "black",
+      "label": "V",
+      "category": "char_upper"
+    }
+  },
+  {
+    "id": "test_char_upper_W_001",
+    "image": "test_images/test_char_upper_W_001.png",
+    "conversations": [
+      {
+        "from": "human",
+        "value": "<image>\nWhat is the color and the object in this image?"
+      },
+      {
+        "from": "gpt",
+        "value": "olive character 'W'."
+      }
+    ],
+    "gt_info": {
+      "color": "olive",
+      "label": "W",
+      "category": "char_upper"
+    }
+  },
+  {
+    "id": "test_char_upper_W_002",
+    "image": "test_images/test_char_upper_W_002.png",
+    "conversations": [
+      {
+        "from": "human",
+        "value": "<image>\nWhat color is the foreground element?"
+      },
+      {
+        "from": "gpt",
+        "value": "It is a white character 'W'."
+      }
+    ],
+    "gt_info": {
+      "color": "white",
+      "label": "W",
+      "category": "char_upper"
+    }
+  },
+  {
+    "id": "test_char_upper_X_001",
+    "image": "test_images/test_char_upper_X_001.png",
+    "conversations": [
+      {
+        "from": "human",
+        "value": "<image>\nIdentify the color and the item shown."
+      },
+      {
+        "from": "gpt",
+        "value": "The object is a purple character 'X'."
+      }
+    ],
+    "gt_info": {
+      "color": "purple",
+      "label": "X",
+      "category": "char_upper"
+    }
+  },
+  {
+    "id": "test_char_upper_X_002",
+    "image": "test_images/test_char_upper_X_002.png",
+    "conversations": [
+      {
+        "from": "human",
+        "value": "<image>\nPlease identify the character or shape and its color."
+      },
+      {
+        "from": "gpt",
+        "value": "The object is a maroon character 'X'."
+      }
+    ],
+    "gt_info": {
+      "color": "maroon",
+      "label": "X",
+      "category": "char_upper"
+    }
+  },
+  {
+    "id": "test_char_upper_Y_001",
+    "image": "test_images/test_char_upper_Y_001.png",
+    "conversations": [
+      {
+        "from": "human",
+        "value": "<image>\nWhat is the color and the object in this image?"
+      },
+      {
+        "from": "gpt",
+        "value": "The object is a black character 'Y'."
+      }
+    ],
+    "gt_info": {
+      "color": "black",
+      "label": "Y",
+      "category": "char_upper"
+    }
+  },
+  {
+    "id": "test_char_upper_Y_002",
+    "image": "test_images/test_char_upper_Y_002.png",
+    "conversations": [
+      {
+        "from": "human",
+        "value": "<image>\nWhat is the color and the object in this image?"
+      },
+      {
+        "from": "gpt",
+        "value": "It is a yellow character 'Y'."
+      }
+    ],
+    "gt_info": {
+      "color": "yellow",
+      "label": "Y",
+      "category": "char_upper"
+    }
+  },
+  {
+    "id": "test_char_upper_Z_001",
+    "image": "test_images/test_char_upper_Z_001.png",
+    "conversations": [
+      {
+        "from": "human",
+        "value": "<image>\nDescribe the object's color and shape."
+      },
+      {
+        "from": "gpt",
+        "value": "The object is a gray character 'Z'."
+      }
+    ],
+    "gt_info": {
+      "color": "gray",
+      "label": "Z",
+      "category": "char_upper"
+    }
+  },
+  {
+    "id": "test_char_upper_Z_002",
+    "image": "test_images/test_char_upper_Z_002.png",
+    "conversations": [
+      {
+        "from": "human",
+        "value": "<image>\nWhat color is the foreground element?"
+      },
+      {
+        "from": "gpt",
+        "value": "It is a black character 'Z'."
+      }
+    ],
+    "gt_info": {
+      "color": "black",
+      "label": "Z",
+      "category": "char_upper"
+    }
+  },
+  {
+    "id": "test_char_lower_a_001",
+    "image": "test_images/test_char_lower_a_001.png",
+    "conversations": [
+      {
+        "from": "human",
+        "value": "<image>\nPlease identify the character or shape and its color."
+      },
+      {
+        "from": "gpt",
+        "value": "It is a black character 'a'."
+      }
+    ],
+    "gt_info": {
+      "color": "black",
+      "label": "a",
+      "category": "char_lower"
+    }
+  },
+  {
+    "id": "test_char_lower_a_002",
+    "image": "test_images/test_char_lower_a_002.png",
+    "conversations": [
+      {
+        "from": "human",
+        "value": "<image>\nIdentify the color and the item shown."
+      },
+      {
+        "from": "gpt",
+        "value": "white character 'a'."
+      }
+    ],
+    "gt_info": {
+      "color": "white",
+      "label": "a",
+      "category": "char_lower"
+    }
+  },
+  {
+    "id": "test_char_lower_b_001",
+    "image": "test_images/test_char_lower_b_001.png",
+    "conversations": [
+      {
+        "from": "human",
+        "value": "<image>\nPlease identify the character or shape and its color."
+      },
+      {
+        "from": "gpt",
+        "value": "purple character 'b'."
+      }
+    ],
+    "gt_info": {
+      "color": "purple",
+      "label": "b",
+      "category": "char_lower"
+    }
+  },
+  {
+    "id": "test_char_lower_b_002",
+    "image": "test_images/test_char_lower_b_002.png",
+    "conversations": [
+      {
+        "from": "human",
+        "value": "<image>\nWhat color is the foreground element?"
+      },
+      {
+        "from": "gpt",
+        "value": "The object is a orange character 'b'."
+      }
+    ],
+    "gt_info": {
+      "color": "orange",
+      "label": "b",
+      "category": "char_lower"
+    }
+  },
+  {
+    "id": "test_char_lower_c_001",
+    "image": "test_images/test_char_lower_c_001.png",
+    "conversations": [
+      {
+        "from": "human",
+        "value": "<image>\nWhat is the color and the object in this image?"
+      },
+      {
+        "from": "gpt",
+        "value": "pink character 'c'."
+      }
+    ],
+    "gt_info": {
+      "color": "pink",
+      "label": "c",
+      "category": "char_lower"
+    }
+  },
+  {
+    "id": "test_char_lower_c_002",
+    "image": "test_images/test_char_lower_c_002.png",
+    "conversations": [
+      {
+        "from": "human",
+        "value": "<image>\nDescribe the object's color and shape."
+      },
+      {
+        "from": "gpt",
+        "value": "red character 'c'."
+      }
+    ],
+    "gt_info": {
+      "color": "red",
+      "label": "c",
+      "category": "char_lower"
+    }
+  },
+  {
+    "id": "test_char_lower_d_001",
+    "image": "test_images/test_char_lower_d_001.png",
+    "conversations": [
+      {
+        "from": "human",
+        "value": "<image>\nWhat color is the foreground element?"
+      },
+      {
+        "from": "gpt",
+        "value": "It is a pink character 'd'."
+      }
+    ],
+    "gt_info": {
+      "color": "pink",
+      "label": "d",
+      "category": "char_lower"
+    }
+  },
+  {
+    "id": "test_char_lower_d_002",
+    "image": "test_images/test_char_lower_d_002.png",
+    "conversations": [
+      {
+        "from": "human",
+        "value": "<image>\nIdentify the color and the item shown."
+      },
+      {
+        "from": "gpt",
+        "value": "The object is a olive character 'd'."
+      }
+    ],
+    "gt_info": {
+      "color": "olive",
+      "label": "d",
+      "category": "char_lower"
+    }
+  },
+  {
+    "id": "test_char_lower_e_001",
+    "image": "test_images/test_char_lower_e_001.png",
+    "conversations": [
+      {
+        "from": "human",
+        "value": "<image>\nIdentify the color and the item shown."
+      },
+      {
+        "from": "gpt",
+        "value": "It is a olive character 'e'."
+      }
+    ],
+    "gt_info": {
+      "color": "olive",
+      "label": "e",
+      "category": "char_lower"
+    }
+  },
+  {
+    "id": "test_char_lower_e_002",
+    "image": "test_images/test_char_lower_e_002.png",
+    "conversations": [
+      {
+        "from": "human",
+        "value": "<image>\nDescribe the object's color and shape."
+      },
+      {
+        "from": "gpt",
+        "value": "The object is a black character 'e'."
+      }
+    ],
+    "gt_info": {
+      "color": "black",
+      "label": "e",
+      "category": "char_lower"
+    }
+  },
+  {
+    "id": "test_char_lower_f_001",
+    "image": "test_images/test_char_lower_f_001.png",
+    "conversations": [
+      {
+        "from": "human",
+        "value": "<image>\nPlease identify the character or shape and its color."
+      },
+      {
+        "from": "gpt",
+        "value": "yellow character 'f'."
+      }
+    ],
+    "gt_info": {
+      "color": "yellow",
+      "label": "f",
+      "category": "char_lower"
+    }
+  },
+  {
+    "id": "test_char_lower_f_002",
+    "image": "test_images/test_char_lower_f_002.png",
+    "conversations": [
+      {
+        "from": "human",
+        "value": "<image>\nWhat is the color and the object in this image?"
+      },
+      {
+        "from": "gpt",
+        "value": "navy character 'f'."
+      }
+    ],
+    "gt_info": {
+      "color": "navy",
+      "label": "f",
+      "category": "char_lower"
+    }
+  },
+  {
+    "id": "test_char_lower_g_001",
+    "image": "test_images/test_char_lower_g_001.png",
+    "conversations": [
+      {
+        "from": "human",
+        "value": "<image>\nDescribe the object's color and shape."
+      },
+      {
+        "from": "gpt",
+        "value": "pink character 'g'."
+      }
+    ],
+    "gt_info": {
+      "color": "pink",
+      "label": "g",
+      "category": "char_lower"
+    }
+  },
+  {
+    "id": "test_char_lower_g_002",
+    "image": "test_images/test_char_lower_g_002.png",
+    "conversations": [
+      {
+        "from": "human",
+        "value": "<image>\nDescribe the object's color and shape."
+      },
+      {
+        "from": "gpt",
+        "value": "white character 'g'."
+      }
+    ],
+    "gt_info": {
+      "color": "white",
+      "label": "g",
+      "category": "char_lower"
+    }
+  },
+  {
+    "id": "test_char_lower_h_001",
+    "image": "test_images/test_char_lower_h_001.png",
+    "conversations": [
+      {
+        "from": "human",
+        "value": "<image>\nWhat color is the foreground element?"
+      },
+      {
+        "from": "gpt",
+        "value": "It is a green character 'h'."
+      }
+    ],
+    "gt_info": {
+      "color": "green",
+      "label": "h",
+      "category": "char_lower"
+    }
+  },
+  {
+    "id": "test_char_lower_h_002",
+    "image": "test_images/test_char_lower_h_002.png",
+    "conversations": [
+      {
+        "from": "human",
+        "value": "<image>\nWhat color is the foreground element?"
+      },
+      {
+        "from": "gpt",
+        "value": "maroon character 'h'."
+      }
+    ],
+    "gt_info": {
+      "color": "maroon",
+      "label": "h",
+      "category": "char_lower"
+    }
+  },
+  {
+    "id": "test_char_lower_i_001",
+    "image": "test_images/test_char_lower_i_001.png",
+    "conversations": [
+      {
+        "from": "human",
+        "value": "<image>\nIdentify the color and the item shown."
+      },
+      {
+        "from": "gpt",
+        "value": "The object is a cyan character 'i'."
+      }
+    ],
+    "gt_info": {
+      "color": "cyan",
+      "label": "i",
+      "category": "char_lower"
+    }
+  },
+  {
+    "id": "test_char_lower_i_002",
+    "image": "test_images/test_char_lower_i_002.png",
+    "conversations": [
+      {
+        "from": "human",
+        "value": "<image>\nWhat is the color and the object in this image?"
+      },
+      {
+        "from": "gpt",
+        "value": "It is a orange character 'i'."
+      }
+    ],
+    "gt_info": {
+      "color": "orange",
+      "label": "i",
+      "category": "char_lower"
+    }
+  },
+  {
+    "id": "test_char_lower_j_001",
+    "image": "test_images/test_char_lower_j_001.png",
+    "conversations": [
+      {
+        "from": "human",
+        "value": "<image>\nWhat is the color and the object in this image?"
+      },
+      {
+        "from": "gpt",
+        "value": "It is a navy character 'j'."
+      }
+    ],
+    "gt_info": {
+      "color": "navy",
+      "label": "j",
+      "category": "char_lower"
+    }
+  },
+  {
+    "id": "test_char_lower_j_002",
+    "image": "test_images/test_char_lower_j_002.png",
+    "conversations": [
+      {
+        "from": "human",
+        "value": "<image>\nPlease identify the character or shape and its color."
+      },
+      {
+        "from": "gpt",
+        "value": "The object is a yellow character 'j'."
+      }
+    ],
+    "gt_info": {
+      "color": "yellow",
+      "label": "j",
+      "category": "char_lower"
+    }
+  },
+  {
+    "id": "test_char_lower_k_001",
+    "image": "test_images/test_char_lower_k_001.png",
+    "conversations": [
+      {
+        "from": "human",
+        "value": "<image>\nIdentify the color and the item shown."
+      },
+      {
+        "from": "gpt",
+        "value": "maroon character 'k'."
+      }
+    ],
+    "gt_info": {
+      "color": "maroon",
+      "label": "k",
+      "category": "char_lower"
+    }
+  },
+  {
+    "id": "test_char_lower_k_002",
+    "image": "test_images/test_char_lower_k_002.png",
+    "conversations": [
+      {
+        "from": "human",
+        "value": "<image>\nIdentify the color and the item shown."
+      },
+      {
+        "from": "gpt",
+        "value": "pink character 'k'."
+      }
+    ],
+    "gt_info": {
+      "color": "pink",
+      "label": "k",
+      "category": "char_lower"
+    }
+  },
+  {
+    "id": "test_char_lower_l_001",
+    "image": "test_images/test_char_lower_l_001.png",
+    "conversations": [
+      {
+        "from": "human",
+        "value": "<image>\nDescribe the object's color and shape."
+      },
+      {
+        "from": "gpt",
+        "value": "The object is a maroon character 'l'."
+      }
+    ],
+    "gt_info": {
+      "color": "maroon",
+      "label": "l",
+      "category": "char_lower"
+    }
+  },
+  {
+    "id": "test_char_lower_l_002",
+    "image": "test_images/test_char_lower_l_002.png",
+    "conversations": [
+      {
+        "from": "human",
+        "value": "<image>\nWhat color is the foreground element?"
+      },
+      {
+        "from": "gpt",
+        "value": "The object is a brown character 'l'."
+      }
+    ],
+    "gt_info": {
+      "color": "brown",
+      "label": "l",
+      "category": "char_lower"
+    }
+  },
+  {
+    "id": "test_char_lower_m_001",
+    "image": "test_images/test_char_lower_m_001.png",
+    "conversations": [
+      {
+        "from": "human",
+        "value": "<image>\nDescribe the object's color and shape."
+      },
+      {
+        "from": "gpt",
+        "value": "It is a brown character 'm'."
+      }
+    ],
+    "gt_info": {
+      "color": "brown",
+      "label": "m",
+      "category": "char_lower"
+    }
+  },
+  {
+    "id": "test_char_lower_m_002",
+    "image": "test_images/test_char_lower_m_002.png",
+    "conversations": [
+      {
+        "from": "human",
+        "value": "<image>\nDescribe the object's color and shape."
+      },
+      {
+        "from": "gpt",
+        "value": "green character 'm'."
+      }
+    ],
+    "gt_info": {
+      "color": "green",
+      "label": "m",
+      "category": "char_lower"
+    }
+  },
+  {
+    "id": "test_char_lower_n_001",
+    "image": "test_images/test_char_lower_n_001.png",
+    "conversations": [
+      {
+        "from": "human",
+        "value": "<image>\nWhat color is the foreground element?"
+      },
+      {
+        "from": "gpt",
+        "value": "The object is a green character 'n'."
+      }
+    ],
+    "gt_info": {
+      "color": "green",
+      "label": "n",
+      "category": "char_lower"
+    }
+  },
+  {
+    "id": "test_char_lower_n_002",
+    "image": "test_images/test_char_lower_n_002.png",
+    "conversations": [
+      {
+        "from": "human",
+        "value": "<image>\nWhat color is the foreground element?"
+      },
+      {
+        "from": "gpt",
+        "value": "The object is a white character 'n'."
+      }
+    ],
+    "gt_info": {
+      "color": "white",
+      "label": "n",
+      "category": "char_lower"
+    }
+  },
+  {
+    "id": "test_char_lower_o_001",
+    "image": "test_images/test_char_lower_o_001.png",
+    "conversations": [
+      {
+        "from": "human",
+        "value": "<image>\nDescribe the object's color and shape."
+      },
+      {
+        "from": "gpt",
+        "value": "The object is a gray character 'o'."
+      }
+    ],
+    "gt_info": {
+      "color": "gray",
+      "label": "o",
+      "category": "char_lower"
+    }
+  },
+  {
+    "id": "test_char_lower_o_002",
+    "image": "test_images/test_char_lower_o_002.png",
+    "conversations": [
+      {
+        "from": "human",
+        "value": "<image>\nWhat is the color and the object in this image?"
+      },
+      {
+        "from": "gpt",
+        "value": "The object is a brown character 'o'."
+      }
+    ],
+    "gt_info": {
+      "color": "brown",
+      "label": "o",
+      "category": "char_lower"
+    }
+  },
+  {
+    "id": "test_char_lower_p_001",
+    "image": "test_images/test_char_lower_p_001.png",
+    "conversations": [
+      {
+        "from": "human",
+        "value": "<image>\nWhat color is the foreground element?"
+      },
+      {
+        "from": "gpt",
+        "value": "It is a red character 'p'."
+      }
+    ],
+    "gt_info": {
+      "color": "red",
+      "label": "p",
+      "category": "char_lower"
+    }
+  },
+  {
+    "id": "test_char_lower_p_002",
+    "image": "test_images/test_char_lower_p_002.png",
+    "conversations": [
+      {
+        "from": "human",
+        "value": "<image>\nWhat is the color and the object in this image?"
+      },
+      {
+        "from": "gpt",
+        "value": "The object is a orange character 'p'."
+      }
+    ],
+    "gt_info": {
+      "color": "orange",
+      "label": "p",
+      "category": "char_lower"
+    }
+  },
+  {
+    "id": "test_char_lower_q_001",
+    "image": "test_images/test_char_lower_q_001.png",
+    "conversations": [
+      {
+        "from": "human",
+        "value": "<image>\nWhat color is the foreground element?"
+      },
+      {
+        "from": "gpt",
+        "value": "It is a green character 'q'."
+      }
+    ],
+    "gt_info": {
+      "color": "green",
+      "label": "q",
+      "category": "char_lower"
+    }
+  },
+  {
+    "id": "test_char_lower_q_002",
+    "image": "test_images/test_char_lower_q_002.png",
+    "conversations": [
+      {
+        "from": "human",
+        "value": "<image>\nWhat color is the foreground element?"
+      },
+      {
+        "from": "gpt",
+        "value": "The object is a olive character 'q'."
+      }
+    ],
+    "gt_info": {
+      "color": "olive",
+      "label": "q",
+      "category": "char_lower"
+    }
+  },
+  {
+    "id": "test_char_lower_r_001",
+    "image": "test_images/test_char_lower_r_001.png",
+    "conversations": [
+      {
+        "from": "human",
+        "value": "<image>\nWhat is the color and the object in this image?"
+      },
+      {
+        "from": "gpt",
+        "value": "yellow character 'r'."
+      }
+    ],
+    "gt_info": {
+      "color": "yellow",
+      "label": "r",
+      "category": "char_lower"
+    }
+  },
+  {
+    "id": "test_char_lower_r_002",
+    "image": "test_images/test_char_lower_r_002.png",
+    "conversations": [
+      {
+        "from": "human",
+        "value": "<image>\nWhat is the color and the object in this image?"
+      },
+      {
+        "from": "gpt",
+        "value": "It is a purple character 'r'."
+      }
+    ],
+    "gt_info": {
+      "color": "purple",
+      "label": "r",
+      "category": "char_lower"
+    }
+  },
+  {
+    "id": "test_char_lower_s_001",
+    "image": "test_images/test_char_lower_s_001.png",
+    "conversations": [
+      {
+        "from": "human",
+        "value": "<image>\nDescribe the object's color and shape."
+      },
+      {
+        "from": "gpt",
+        "value": "olive character 's'."
+      }
+    ],
+    "gt_info": {
+      "color": "olive",
+      "label": "s",
+      "category": "char_lower"
+    }
+  },
+  {
+    "id": "test_char_lower_s_002",
+    "image": "test_images/test_char_lower_s_002.png",
+    "conversations": [
+      {
+        "from": "human",
+        "value": "<image>\nWhat is the color and the object in this image?"
+      },
+      {
+        "from": "gpt",
+        "value": "It is a yellow character 's'."
+      }
+    ],
+    "gt_info": {
+      "color": "yellow",
+      "label": "s",
+      "category": "char_lower"
+    }
+  },
+  {
+    "id": "test_char_lower_t_001",
+    "image": "test_images/test_char_lower_t_001.png",
+    "conversations": [
+      {
+        "from": "human",
+        "value": "<image>\nWhat color is the foreground element?"
+      },
+      {
+        "from": "gpt",
+        "value": "red character 't'."
+      }
+    ],
+    "gt_info": {
+      "color": "red",
+      "label": "t",
+      "category": "char_lower"
+    }
+  },
+  {
+    "id": "test_char_lower_t_002",
+    "image": "test_images/test_char_lower_t_002.png",
+    "conversations": [
+      {
+        "from": "human",
+        "value": "<image>\nWhat is the color and the object in this image?"
+      },
+      {
+        "from": "gpt",
+        "value": "It is a red character 't'."
+      }
+    ],
+    "gt_info": {
+      "color": "red",
+      "label": "t",
+      "category": "char_lower"
+    }
+  },
+  {
+    "id": "test_char_lower_u_001",
+    "image": "test_images/test_char_lower_u_001.png",
+    "conversations": [
+      {
+        "from": "human",
+        "value": "<image>\nWhat color is the foreground element?"
+      },
+      {
+        "from": "gpt",
+        "value": "red character 'u'."
+      }
+    ],
+    "gt_info": {
+      "color": "red",
+      "label": "u",
+      "category": "char_lower"
+    }
+  },
+  {
+    "id": "test_char_lower_u_002",
+    "image": "test_images/test_char_lower_u_002.png",
+    "conversations": [
+      {
+        "from": "human",
+        "value": "<image>\nIdentify the color and the item shown."
+      },
+      {
+        "from": "gpt",
+        "value": "It is a purple character 'u'."
+      }
+    ],
+    "gt_info": {
+      "color": "purple",
+      "label": "u",
+      "category": "char_lower"
+    }
+  },
+  {
+    "id": "test_char_lower_v_001",
+    "image": "test_images/test_char_lower_v_001.png",
+    "conversations": [
+      {
+        "from": "human",
+        "value": "<image>\nIdentify the color and the item shown."
+      },
+      {
+        "from": "gpt",
+        "value": "It is a brown character 'v'."
+      }
+    ],
+    "gt_info": {
+      "color": "brown",
+      "label": "v",
+      "category": "char_lower"
+    }
+  },
+  {
+    "id": "test_char_lower_v_002",
+    "image": "test_images/test_char_lower_v_002.png",
+    "conversations": [
+      {
+        "from": "human",
+        "value": "<image>\nIdentify the color and the item shown."
+      },
+      {
+        "from": "gpt",
+        "value": "The object is a pink character 'v'."
+      }
+    ],
+    "gt_info": {
+      "color": "pink",
+      "label": "v",
+      "category": "char_lower"
+    }
+  },
+  {
+    "id": "test_char_lower_w_001",
+    "image": "test_images/test_char_lower_w_001.png",
+    "conversations": [
+      {
+        "from": "human",
+        "value": "<image>\nIdentify the color and the item shown."
+      },
+      {
+        "from": "gpt",
+        "value": "yellow character 'w'."
+      }
+    ],
+    "gt_info": {
+      "color": "yellow",
+      "label": "w",
+      "category": "char_lower"
+    }
+  },
+  {
+    "id": "test_char_lower_w_002",
+    "image": "test_images/test_char_lower_w_002.png",
+    "conversations": [
+      {
+        "from": "human",
+        "value": "<image>\nPlease identify the character or shape and its color."
+      },
+      {
+        "from": "gpt",
+        "value": "brown character 'w'."
+      }
+    ],
+    "gt_info": {
+      "color": "brown",
+      "label": "w",
+      "category": "char_lower"
+    }
+  },
+  {
+    "id": "test_char_lower_x_001",
+    "image": "test_images/test_char_lower_x_001.png",
+    "conversations": [
+      {
+        "from": "human",
+        "value": "<image>\nDescribe the object's color and shape."
+      },
+      {
+        "from": "gpt",
+        "value": "It is a yellow character 'x'."
+      }
+    ],
+    "gt_info": {
+      "color": "yellow",
+      "label": "x",
+      "category": "char_lower"
+    }
+  },
+  {
+    "id": "test_char_lower_x_002",
+    "image": "test_images/test_char_lower_x_002.png",
+    "conversations": [
+      {
+        "from": "human",
+        "value": "<image>\nDescribe the object's color and shape."
+      },
+      {
+        "from": "gpt",
+        "value": "The object is a pink character 'x'."
+      }
+    ],
+    "gt_info": {
+      "color": "pink",
+      "label": "x",
+      "category": "char_lower"
+    }
+  },
+  {
+    "id": "test_char_lower_y_001",
+    "image": "test_images/test_char_lower_y_001.png",
+    "conversations": [
+      {
+        "from": "human",
+        "value": "<image>\nWhat color is the foreground element?"
+      },
+      {
+        "from": "gpt",
+        "value": "cyan character 'y'."
+      }
+    ],
+    "gt_info": {
+      "color": "cyan",
+      "label": "y",
+      "category": "char_lower"
+    }
+  },
+  {
+    "id": "test_char_lower_y_002",
+    "image": "test_images/test_char_lower_y_002.png",
+    "conversations": [
+      {
+        "from": "human",
+        "value": "<image>\nWhat is the color and the object in this image?"
+      },
+      {
+        "from": "gpt",
+        "value": "The object is a brown character 'y'."
+      }
+    ],
+    "gt_info": {
+      "color": "brown",
+      "label": "y",
+      "category": "char_lower"
+    }
+  },
+  {
+    "id": "test_char_lower_z_001",
+    "image": "test_images/test_char_lower_z_001.png",
+    "conversations": [
+      {
+        "from": "human",
+        "value": "<image>\nWhat is the color and the object in this image?"
+      },
+      {
+        "from": "gpt",
+        "value": "It is a blue character 'z'."
+      }
+    ],
+    "gt_info": {
+      "color": "blue",
+      "label": "z",
+      "category": "char_lower"
+    }
+  },
+  {
+    "id": "test_char_lower_z_002",
+    "image": "test_images/test_char_lower_z_002.png",
+    "conversations": [
+      {
+        "from": "human",
+        "value": "<image>\nDescribe the object's color and shape."
+      },
+      {
+        "from": "gpt",
+        "value": "It is a pink character 'z'."
+      }
+    ],
+    "gt_info": {
+      "color": "pink",
+      "label": "z",
+      "category": "char_lower"
+    }
+  },
+  {
+    "id": "test_shape_triangle_001",
+    "image": "test_images/test_shape_triangle_001.png",
+    "conversations": [
+      {
+        "from": "human",
+        "value": "<image>\nIdentify the color and the item shown."
+      },
+      {
+        "from": "gpt",
+        "value": "purple triangle."
+      }
+    ],
+    "gt_info": {
+      "color": "purple",
+      "label": "triangle",
+      "category": "shape"
+    }
+  },
+  {
+    "id": "test_shape_triangle_002",
+    "image": "test_images/test_shape_triangle_002.png",
+    "conversations": [
+      {
+        "from": "human",
+        "value": "<image>\nWhat color is the foreground element?"
+      },
+      {
+        "from": "gpt",
+        "value": "pink triangle."
+      }
+    ],
+    "gt_info": {
+      "color": "pink",
+      "label": "triangle",
+      "category": "shape"
+    }
+  },
+  {
+    "id": "test_shape_circle_001",
+    "image": "test_images/test_shape_circle_001.png",
+    "conversations": [
+      {
+        "from": "human",
+        "value": "<image>\nWhat color is the foreground element?"
+      },
+      {
+        "from": "gpt",
+        "value": "The object is a olive circle."
+      }
+    ],
+    "gt_info": {
+      "color": "olive",
+      "label": "circle",
+      "category": "shape"
+    }
+  },
+  {
+    "id": "test_shape_circle_002",
+    "image": "test_images/test_shape_circle_002.png",
+    "conversations": [
+      {
+        "from": "human",
+        "value": "<image>\nWhat is the color and the object in this image?"
+      },
+      {
+        "from": "gpt",
+        "value": "The object is a olive circle."
+      }
+    ],
+    "gt_info": {
+      "color": "olive",
+      "label": "circle",
+      "category": "shape"
+    }
+  },
+  {
+    "id": "test_shape_star_001",
+    "image": "test_images/test_shape_star_001.png",
+    "conversations": [
+      {
+        "from": "human",
+        "value": "<image>\nWhat color is the foreground element?"
+      },
+      {
+        "from": "gpt",
+        "value": "It is a navy star."
+      }
+    ],
+    "gt_info": {
+      "color": "navy",
+      "label": "star",
+      "category": "shape"
+    }
+  },
+  {
+    "id": "test_shape_star_002",
+    "image": "test_images/test_shape_star_002.png",
+    "conversations": [
+      {
+        "from": "human",
+        "value": "<image>\nDescribe the object's color and shape."
+      },
+      {
+        "from": "gpt",
+        "value": "gray star."
+      }
+    ],
+    "gt_info": {
+      "color": "gray",
+      "label": "star",
+      "category": "shape"
+    }
+  },
+  {
+    "id": "test_shape_square_001",
+    "image": "test_images/test_shape_square_001.png",
+    "conversations": [
+      {
+        "from": "human",
+        "value": "<image>\nDescribe the object's color and shape."
+      },
+      {
+        "from": "gpt",
+        "value": "maroon square."
+      }
+    ],
+    "gt_info": {
+      "color": "maroon",
+      "label": "square",
+      "category": "shape"
+    }
+  },
+  {
+    "id": "test_shape_square_002",
+    "image": "test_images/test_shape_square_002.png",
+    "conversations": [
+      {
+        "from": "human",
+        "value": "<image>\nIdentify the color and the item shown."
+      },
+      {
+        "from": "gpt",
+        "value": "gray square."
+      }
+    ],
+    "gt_info": {
+      "color": "gray",
+      "label": "square",
+      "category": "shape"
+    }
+  }
+]

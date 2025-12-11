@@ -1,0 +1,3362 @@
+[
+  {
+    "id": "test_00000",
+    "image": "images/test_00000.png",
+    "conversations": [
+      {
+        "from": "human",
+        "value": "<image>\nWhat are the colors of the character 'P' and the background?"
+      },
+      {
+        "from": "gpt",
+        "value": "Object: teal. Background: purple."
+      }
+    ]
+  },
+  {
+    "id": "test_00001",
+    "image": "images/test_00001.png",
+    "conversations": [
+      {
+        "from": "human",
+        "value": "<image>\nDescribe the colors of the object and the background."
+      },
+      {
+        "from": "gpt",
+        "value": "Object: orange. Background: purple."
+      }
+    ]
+  },
+  {
+    "id": "test_00002",
+    "image": "images/test_00002.png",
+    "conversations": [
+      {
+        "from": "human",
+        "value": "<image>\nIdentify the background color behind the blue character 'P'."
+      },
+      {
+        "from": "gpt",
+        "value": "The background is white."
+      }
+    ]
+  },
+  {
+    "id": "test_00003",
+    "image": "images/test_00003.png",
+    "conversations": [
+      {
+        "from": "human",
+        "value": "<image>\nFind the character '2' on the olive surface and tell me its color."
+      },
+      {
+        "from": "gpt",
+        "value": "The character '2' is orange."
+      }
+    ]
+  },
+  {
+    "id": "test_00004",
+    "image": "images/test_00004.png",
+    "conversations": [
+      {
+        "from": "human",
+        "value": "<image>\nIdentify the background color behind the brown character 'B'."
+      },
+      {
+        "from": "gpt",
+        "value": "The background is cyan."
+      }
+    ]
+  },
+  {
+    "id": "test_00005",
+    "image": "images/test_00005.png",
+    "conversations": [
+      {
+        "from": "human",
+        "value": "<image>\nThe character 'D' is yellow. What color lies behind it?"
+      },
+      {
+        "from": "gpt",
+        "value": "The background is white."
+      }
+    ]
+  },
+  {
+    "id": "test_00006",
+    "image": "images/test_00006.png",
+    "conversations": [
+      {
+        "from": "human",
+        "value": "<image>\nThe character '6' is blue. What color lies behind it?"
+      },
+      {
+        "from": "gpt",
+        "value": "The background is maroon."
+      }
+    ]
+  },
+  {
+    "id": "test_00007",
+    "image": "images/test_00007.png",
+    "conversations": [
+      {
+        "from": "human",
+        "value": "<image>\nOn a blue background, identify the color of the center character 'E'."
+      },
+      {
+        "from": "gpt",
+        "value": "The character 'E' is white."
+      }
+    ]
+  },
+  {
+    "id": "test_00008",
+    "image": "images/test_00008.png",
+    "conversations": [
+      {
+        "from": "human",
+        "value": "<image>\nThere is a orange character 'C'. What is the color of the background?"
+      },
+      {
+        "from": "gpt",
+        "value": "The background is gray."
+      }
+    ]
+  },
+  {
+    "id": "test_00009",
+    "image": "images/test_00009.png",
+    "conversations": [
+      {
+        "from": "human",
+        "value": "<image>\nFind the character 'Z' on the olive surface and tell me its color."
+      },
+      {
+        "from": "gpt",
+        "value": "The character 'Z' is white."
+      }
+    ]
+  },
+  {
+    "id": "test_00010",
+    "image": "images/test_00010.png",
+    "conversations": [
+      {
+        "from": "human",
+        "value": "<image>\nIdentify the background color behind the cyan character 'E'."
+      },
+      {
+        "from": "gpt",
+        "value": "The background is teal."
+      }
+    ]
+  },
+  {
+    "id": "test_00011",
+    "image": "images/test_00011.png",
+    "conversations": [
+      {
+        "from": "human",
+        "value": "<image>\nThe background is gray. What is the color of the character '1'?"
+      },
+      {
+        "from": "gpt",
+        "value": "The character '1' is blue."
+      }
+    ]
+  },
+  {
+    "id": "test_00012",
+    "image": "images/test_00012.png",
+    "conversations": [
+      {
+        "from": "human",
+        "value": "<image>\nWhat are the colors of the character 'L' and the background?"
+      },
+      {
+        "from": "gpt",
+        "value": "Object: blue. Background: purple."
+      }
+    ]
+  },
+  {
+    "id": "test_00013",
+    "image": "images/test_00013.png",
+    "conversations": [
+      {
+        "from": "human",
+        "value": "<image>\nThe background is olive. What is the color of the character 'C'?"
+      },
+      {
+        "from": "gpt",
+        "value": "The character 'C' is black."
+      }
+    ]
+  },
+  {
+    "id": "test_00014",
+    "image": "images/test_00014.png",
+    "conversations": [
+      {
+        "from": "human",
+        "value": "<image>\nIdentify the background color behind the green character 'U'."
+      },
+      {
+        "from": "gpt",
+        "value": "The background is pink."
+      }
+    ]
+  },
+  {
+    "id": "test_00015",
+    "image": "images/test_00015.png",
+    "conversations": [
+      {
+        "from": "human",
+        "value": "<image>\nWhat are the colors of the character 'P' and the background?"
+      },
+      {
+        "from": "gpt",
+        "value": "Object: navy. Background: teal."
+      }
+    ]
+  },
+  {
+    "id": "test_00016",
+    "image": "images/test_00016.png",
+    "conversations": [
+      {
+        "from": "human",
+        "value": "<image>\nOn a gray background, identify the color of the center character 'E'."
+      },
+      {
+        "from": "gpt",
+        "value": "The character 'E' is white."
+      }
+    ]
+  },
+  {
+    "id": "test_00017",
+    "image": "images/test_00017.png",
+    "conversations": [
+      {
+        "from": "human",
+        "value": "<image>\nThe background is navy. What is the color of the character '3'?"
+      },
+      {
+        "from": "gpt",
+        "value": "The character '3' is purple."
+      }
+    ]
+  },
+  {
+    "id": "test_00018",
+    "image": "images/test_00018.png",
+    "conversations": [
+      {
+        "from": "human",
+        "value": "<image>\nWhat are the colors of the character 'J' and the background?"
+      },
+      {
+        "from": "gpt",
+        "value": "Object: blue. Background: green."
+      }
+    ]
+  },
+  {
+    "id": "test_00019",
+    "image": "images/test_00019.png",
+    "conversations": [
+      {
+        "from": "human",
+        "value": "<image>\nSeeing that the background is teal, what color is the character '5'?"
+      },
+      {
+        "from": "gpt",
+        "value": "The character '5' is gray."
+      }
+    ]
+  },
+  {
+    "id": "test_00020",
+    "image": "images/test_00020.png",
+    "conversations": [
+      {
+        "from": "human",
+        "value": "<image>\nDescribe the colors of the object and the background."
+      },
+      {
+        "from": "gpt",
+        "value": "Object: teal. Background: cyan."
+      }
+    ]
+  },
+  {
+    "id": "test_00021",
+    "image": "images/test_00021.png",
+    "conversations": [
+      {
+        "from": "human",
+        "value": "<image>\nWhat are the colors of the character '4' and the background?"
+      },
+      {
+        "from": "gpt",
+        "value": "Object: teal. Background: navy."
+      }
+    ]
+  },
+  {
+    "id": "test_00022",
+    "image": "images/test_00022.png",
+    "conversations": [
+      {
+        "from": "human",
+        "value": "<image>\nIdentify the background color behind the pink character '0'."
+      },
+      {
+        "from": "gpt",
+        "value": "The background is orange."
+      }
+    ]
+  },
+  {
+    "id": "test_00023",
+    "image": "images/test_00023.png",
+    "conversations": [
+      {
+        "from": "human",
+        "value": "<image>\nIdentify the background color behind the teal character 'D'."
+      },
+      {
+        "from": "gpt",
+        "value": "The background is red."
+      }
+    ]
+  },
+  {
+    "id": "test_00024",
+    "image": "images/test_00024.png",
+    "conversations": [
+      {
+        "from": "human",
+        "value": "<image>\nDescribe the colors of the object and the background."
+      },
+      {
+        "from": "gpt",
+        "value": "Object: cyan. Background: white."
+      }
+    ]
+  },
+  {
+    "id": "test_00025",
+    "image": "images/test_00025.png",
+    "conversations": [
+      {
+        "from": "human",
+        "value": "<image>\nThere is a pink character '5'. What is the color of the background?"
+      },
+      {
+        "from": "gpt",
+        "value": "The background is white."
+      }
+    ]
+  },
+  {
+    "id": "test_00026",
+    "image": "images/test_00026.png",
+    "conversations": [
+      {
+        "from": "human",
+        "value": "<image>\nThere is a orange triangle. What is the color of the background?"
+      },
+      {
+        "from": "gpt",
+        "value": "The background is yellow."
+      }
+    ]
+  },
+  {
+    "id": "test_00027",
+    "image": "images/test_00027.png",
+    "conversations": [
+      {
+        "from": "human",
+        "value": "<image>\nThere is a green character 'W'. What is the color of the background?"
+      },
+      {
+        "from": "gpt",
+        "value": "The background is brown."
+      }
+    ]
+  },
+  {
+    "id": "test_00028",
+    "image": "images/test_00028.png",
+    "conversations": [
+      {
+        "from": "human",
+        "value": "<image>\nIdentify the background color behind the red character '5'."
+      },
+      {
+        "from": "gpt",
+        "value": "The background is teal."
+      }
+    ]
+  },
+  {
+    "id": "test_00029",
+    "image": "images/test_00029.png",
+    "conversations": [
+      {
+        "from": "human",
+        "value": "<image>\nWhat are the colors of the character 'Y' and the background?"
+      },
+      {
+        "from": "gpt",
+        "value": "Object: yellow. Background: green."
+      }
+    ]
+  },
+  {
+    "id": "test_00030",
+    "image": "images/test_00030.png",
+    "conversations": [
+      {
+        "from": "human",
+        "value": "<image>\nOn a black background, identify the color of the center character 'L'."
+      },
+      {
+        "from": "gpt",
+        "value": "The character 'L' is navy."
+      }
+    ]
+  },
+  {
+    "id": "test_00031",
+    "image": "images/test_00031.png",
+    "conversations": [
+      {
+        "from": "human",
+        "value": "<image>\nIdentify the background color behind the blue character 'A'."
+      },
+      {
+        "from": "gpt",
+        "value": "The background is pink."
+      }
+    ]
+  },
+  {
+    "id": "test_00032",
+    "image": "images/test_00032.png",
+    "conversations": [
+      {
+        "from": "human",
+        "value": "<image>\nDescribe the colors of the object and the background."
+      },
+      {
+        "from": "gpt",
+        "value": "Object: olive. Background: red."
+      }
+    ]
+  },
+  {
+    "id": "test_00033",
+    "image": "images/test_00033.png",
+    "conversations": [
+      {
+        "from": "human",
+        "value": "<image>\nOn a teal background, identify the color of the center character 'B'."
+      },
+      {
+        "from": "gpt",
+        "value": "The character 'B' is brown."
+      }
+    ]
+  },
+  {
+    "id": "test_00034",
+    "image": "images/test_00034.png",
+    "conversations": [
+      {
+        "from": "human",
+        "value": "<image>\nThe character 'E' is olive. What color lies behind it?"
+      },
+      {
+        "from": "gpt",
+        "value": "The background is gray."
+      }
+    ]
+  },
+  {
+    "id": "test_00035",
+    "image": "images/test_00035.png",
+    "conversations": [
+      {
+        "from": "human",
+        "value": "<image>\nOn a red background, identify the color of the center character 'D'."
+      },
+      {
+        "from": "gpt",
+        "value": "The character 'D' is gray."
+      }
+    ]
+  },
+  {
+    "id": "test_00036",
+    "image": "images/test_00036.png",
+    "conversations": [
+      {
+        "from": "human",
+        "value": "<image>\nThere is a white character 'P'. What is the color of the background?"
+      },
+      {
+        "from": "gpt",
+        "value": "The background is maroon."
+      }
+    ]
+  },
+  {
+    "id": "test_00037",
+    "image": "images/test_00037.png",
+    "conversations": [
+      {
+        "from": "human",
+        "value": "<image>\nOn a purple background, identify the color of the center character 'Z'."
+      },
+      {
+        "from": "gpt",
+        "value": "The character 'Z' is brown."
+      }
+    ]
+  },
+  {
+    "id": "test_00038",
+    "image": "images/test_00038.png",
+    "conversations": [
+      {
+        "from": "human",
+        "value": "<image>\nThe character '8' is pink. What color lies behind it?"
+      },
+      {
+        "from": "gpt",
+        "value": "The background is black."
+      }
+    ]
+  },
+  {
+    "id": "test_00039",
+    "image": "images/test_00039.png",
+    "conversations": [
+      {
+        "from": "human",
+        "value": "<image>\nThere is a pink star. What is the color of the background?"
+      },
+      {
+        "from": "gpt",
+        "value": "The background is green."
+      }
+    ]
+  },
+  {
+    "id": "test_00040",
+    "image": "images/test_00040.png",
+    "conversations": [
+      {
+        "from": "human",
+        "value": "<image>\nThere is a red character 'B'. What is the color of the background?"
+      },
+      {
+        "from": "gpt",
+        "value": "The background is yellow."
+      }
+    ]
+  },
+  {
+    "id": "test_00041",
+    "image": "images/test_00041.png",
+    "conversations": [
+      {
+        "from": "human",
+        "value": "<image>\nThe background is black. What is the color of the character 'N'?"
+      },
+      {
+        "from": "gpt",
+        "value": "The character 'N' is white."
+      }
+    ]
+  },
+  {
+    "id": "test_00042",
+    "image": "images/test_00042.png",
+    "conversations": [
+      {
+        "from": "human",
+        "value": "<image>\nDescribe the colors of the object and the background."
+      },
+      {
+        "from": "gpt",
+        "value": "Object: black. Background: brown."
+      }
+    ]
+  },
+  {
+    "id": "test_00043",
+    "image": "images/test_00043.png",
+    "conversations": [
+      {
+        "from": "human",
+        "value": "<image>\nThe character 'E' is purple. What color lies behind it?"
+      },
+      {
+        "from": "gpt",
+        "value": "The background is pink."
+      }
+    ]
+  },
+  {
+    "id": "test_00044",
+    "image": "images/test_00044.png",
+    "conversations": [
+      {
+        "from": "human",
+        "value": "<image>\nDescribe the colors of the object and the background."
+      },
+      {
+        "from": "gpt",
+        "value": "Object: cyan. Background: navy."
+      }
+    ]
+  },
+  {
+    "id": "test_00045",
+    "image": "images/test_00045.png",
+    "conversations": [
+      {
+        "from": "human",
+        "value": "<image>\nWhat are the colors of the character 'C' and the background?"
+      },
+      {
+        "from": "gpt",
+        "value": "Object: navy. Background: orange."
+      }
+    ]
+  },
+  {
+    "id": "test_00046",
+    "image": "images/test_00046.png",
+    "conversations": [
+      {
+        "from": "human",
+        "value": "<image>\nDescribe the colors of the object and the background."
+      },
+      {
+        "from": "gpt",
+        "value": "Object: brown. Background: maroon."
+      }
+    ]
+  },
+  {
+    "id": "test_00047",
+    "image": "images/test_00047.png",
+    "conversations": [
+      {
+        "from": "human",
+        "value": "<image>\nThere is a brown character '1'. What is the color of the background?"
+      },
+      {
+        "from": "gpt",
+        "value": "The background is blue."
+      }
+    ]
+  },
+  {
+    "id": "test_00048",
+    "image": "images/test_00048.png",
+    "conversations": [
+      {
+        "from": "human",
+        "value": "<image>\nOn a orange background, identify the color of the center character 'L'."
+      },
+      {
+        "from": "gpt",
+        "value": "The character 'L' is black."
+      }
+    ]
+  },
+  {
+    "id": "test_00049",
+    "image": "images/test_00049.png",
+    "conversations": [
+      {
+        "from": "human",
+        "value": "<image>\nIdentify the background color behind the teal star."
+      },
+      {
+        "from": "gpt",
+        "value": "The background is orange."
+      }
+    ]
+  },
+  {
+    "id": "test_00050",
+    "image": "images/test_00050.png",
+    "conversations": [
+      {
+        "from": "human",
+        "value": "<image>\nWhat are the colors of the character 'S' and the background?"
+      },
+      {
+        "from": "gpt",
+        "value": "Object: olive. Background: navy."
+      }
+    ]
+  },
+  {
+    "id": "test_00051",
+    "image": "images/test_00051.png",
+    "conversations": [
+      {
+        "from": "human",
+        "value": "<image>\nOn a white background, identify the color of the center character 'R'."
+      },
+      {
+        "from": "gpt",
+        "value": "The character 'R' is gray."
+      }
+    ]
+  },
+  {
+    "id": "test_00052",
+    "image": "images/test_00052.png",
+    "conversations": [
+      {
+        "from": "human",
+        "value": "<image>\nDescribe the colors of the object and the background."
+      },
+      {
+        "from": "gpt",
+        "value": "Object: yellow. Background: brown."
+      }
+    ]
+  },
+  {
+    "id": "test_00053",
+    "image": "images/test_00053.png",
+    "conversations": [
+      {
+        "from": "human",
+        "value": "<image>\nFind the character 'L' on the black surface and tell me its color."
+      },
+      {
+        "from": "gpt",
+        "value": "The character 'L' is blue."
+      }
+    ]
+  },
+  {
+    "id": "test_00054",
+    "image": "images/test_00054.png",
+    "conversations": [
+      {
+        "from": "human",
+        "value": "<image>\nDescribe the colors of the object and the background."
+      },
+      {
+        "from": "gpt",
+        "value": "Object: maroon. Background: blue."
+      }
+    ]
+  },
+  {
+    "id": "test_00055",
+    "image": "images/test_00055.png",
+    "conversations": [
+      {
+        "from": "human",
+        "value": "<image>\nOn a yellow background, identify the color of the center character 'I'."
+      },
+      {
+        "from": "gpt",
+        "value": "The character 'I' is teal."
+      }
+    ]
+  },
+  {
+    "id": "test_00056",
+    "image": "images/test_00056.png",
+    "conversations": [
+      {
+        "from": "human",
+        "value": "<image>\nThe character '3' is red. What color lies behind it?"
+      },
+      {
+        "from": "gpt",
+        "value": "The background is gray."
+      }
+    ]
+  },
+  {
+    "id": "test_00057",
+    "image": "images/test_00057.png",
+    "conversations": [
+      {
+        "from": "human",
+        "value": "<image>\nDescribe the colors of the object and the background."
+      },
+      {
+        "from": "gpt",
+        "value": "Object: purple. Background: gray."
+      }
+    ]
+  },
+  {
+    "id": "test_00058",
+    "image": "images/test_00058.png",
+    "conversations": [
+      {
+        "from": "human",
+        "value": "<image>\nIdentify the background color behind the olive character 'R'."
+      },
+      {
+        "from": "gpt",
+        "value": "The background is blue."
+      }
+    ]
+  },
+  {
+    "id": "test_00059",
+    "image": "images/test_00059.png",
+    "conversations": [
+      {
+        "from": "human",
+        "value": "<image>\nThe character 'D' is cyan. What color lies behind it?"
+      },
+      {
+        "from": "gpt",
+        "value": "The background is brown."
+      }
+    ]
+  },
+  {
+    "id": "test_00060",
+    "image": "images/test_00060.png",
+    "conversations": [
+      {
+        "from": "human",
+        "value": "<image>\nThere is a orange character '6'. What is the color of the background?"
+      },
+      {
+        "from": "gpt",
+        "value": "The background is navy."
+      }
+    ]
+  },
+  {
+    "id": "test_00061",
+    "image": "images/test_00061.png",
+    "conversations": [
+      {
+        "from": "human",
+        "value": "<image>\nDescribe the colors of the object and the background."
+      },
+      {
+        "from": "gpt",
+        "value": "Object: black. Background: navy."
+      }
+    ]
+  },
+  {
+    "id": "test_00062",
+    "image": "images/test_00062.png",
+    "conversations": [
+      {
+        "from": "human",
+        "value": "<image>\nThe star is cyan. What color lies behind it?"
+      },
+      {
+        "from": "gpt",
+        "value": "The background is olive."
+      }
+    ]
+  },
+  {
+    "id": "test_00063",
+    "image": "images/test_00063.png",
+    "conversations": [
+      {
+        "from": "human",
+        "value": "<image>\nIdentify the background color behind the white character 'T'."
+      },
+      {
+        "from": "gpt",
+        "value": "The background is purple."
+      }
+    ]
+  },
+  {
+    "id": "test_00064",
+    "image": "images/test_00064.png",
+    "conversations": [
+      {
+        "from": "human",
+        "value": "<image>\nFind the square on the black surface and tell me its color."
+      },
+      {
+        "from": "gpt",
+        "value": "The square is teal."
+      }
+    ]
+  },
+  {
+    "id": "test_00065",
+    "image": "images/test_00065.png",
+    "conversations": [
+      {
+        "from": "human",
+        "value": "<image>\nThe character '0' is purple. What color lies behind it?"
+      },
+      {
+        "from": "gpt",
+        "value": "The background is yellow."
+      }
+    ]
+  },
+  {
+    "id": "test_00066",
+    "image": "images/test_00066.png",
+    "conversations": [
+      {
+        "from": "human",
+        "value": "<image>\nOn a brown background, identify the color of the center character 'X'."
+      },
+      {
+        "from": "gpt",
+        "value": "The character 'X' is blue."
+      }
+    ]
+  },
+  {
+    "id": "test_00067",
+    "image": "images/test_00067.png",
+    "conversations": [
+      {
+        "from": "human",
+        "value": "<image>\nThere is a yellow character 'L'. What is the color of the background?"
+      },
+      {
+        "from": "gpt",
+        "value": "The background is black."
+      }
+    ]
+  },
+  {
+    "id": "test_00068",
+    "image": "images/test_00068.png",
+    "conversations": [
+      {
+        "from": "human",
+        "value": "<image>\nThe character 'I' is green. What color lies behind it?"
+      },
+      {
+        "from": "gpt",
+        "value": "The background is blue."
+      }
+    ]
+  },
+  {
+    "id": "test_00069",
+    "image": "images/test_00069.png",
+    "conversations": [
+      {
+        "from": "human",
+        "value": "<image>\nThere is a pink character 'V'. What is the color of the background?"
+      },
+      {
+        "from": "gpt",
+        "value": "The background is maroon."
+      }
+    ]
+  },
+  {
+    "id": "test_00070",
+    "image": "images/test_00070.png",
+    "conversations": [
+      {
+        "from": "human",
+        "value": "<image>\nSeeing that the background is brown, what color is the character 'C'?"
+      },
+      {
+        "from": "gpt",
+        "value": "The character 'C' is red."
+      }
+    ]
+  },
+  {
+    "id": "test_00071",
+    "image": "images/test_00071.png",
+    "conversations": [
+      {
+        "from": "human",
+        "value": "<image>\nDescribe the colors of the object and the background."
+      },
+      {
+        "from": "gpt",
+        "value": "Object: cyan. Background: green."
+      }
+    ]
+  },
+  {
+    "id": "test_00072",
+    "image": "images/test_00072.png",
+    "conversations": [
+      {
+        "from": "human",
+        "value": "<image>\nDescribe the colors of the object and the background."
+      },
+      {
+        "from": "gpt",
+        "value": "Object: cyan. Background: black."
+      }
+    ]
+  },
+  {
+    "id": "test_00073",
+    "image": "images/test_00073.png",
+    "conversations": [
+      {
+        "from": "human",
+        "value": "<image>\nThe character 'W' is orange. What color lies behind it?"
+      },
+      {
+        "from": "gpt",
+        "value": "The background is white."
+      }
+    ]
+  },
+  {
+    "id": "test_00074",
+    "image": "images/test_00074.png",
+    "conversations": [
+      {
+        "from": "human",
+        "value": "<image>\nFind the character '7' on the yellow surface and tell me its color."
+      },
+      {
+        "from": "gpt",
+        "value": "The character '7' is gray."
+      }
+    ]
+  },
+  {
+    "id": "test_00075",
+    "image": "images/test_00075.png",
+    "conversations": [
+      {
+        "from": "human",
+        "value": "<image>\nThere is a brown character 'G'. What is the color of the background?"
+      },
+      {
+        "from": "gpt",
+        "value": "The background is orange."
+      }
+    ]
+  },
+  {
+    "id": "test_00076",
+    "image": "images/test_00076.png",
+    "conversations": [
+      {
+        "from": "human",
+        "value": "<image>\nIdentify the background color behind the gray square."
+      },
+      {
+        "from": "gpt",
+        "value": "The background is purple."
+      }
+    ]
+  },
+  {
+    "id": "test_00077",
+    "image": "images/test_00077.png",
+    "conversations": [
+      {
+        "from": "human",
+        "value": "<image>\nWhat are the colors of the character 'B' and the background?"
+      },
+      {
+        "from": "gpt",
+        "value": "Object: cyan. Background: red."
+      }
+    ]
+  },
+  {
+    "id": "test_00078",
+    "image": "images/test_00078.png",
+    "conversations": [
+      {
+        "from": "human",
+        "value": "<image>\nWhat are the colors of the character 'M' and the background?"
+      },
+      {
+        "from": "gpt",
+        "value": "Object: green. Background: white."
+      }
+    ]
+  },
+  {
+    "id": "test_00079",
+    "image": "images/test_00079.png",
+    "conversations": [
+      {
+        "from": "human",
+        "value": "<image>\nDescribe the colors of the object and the background."
+      },
+      {
+        "from": "gpt",
+        "value": "Object: red. Background: green."
+      }
+    ]
+  },
+  {
+    "id": "test_00080",
+    "image": "images/test_00080.png",
+    "conversations": [
+      {
+        "from": "human",
+        "value": "<image>\nThe character 'O' is green. What color lies behind it?"
+      },
+      {
+        "from": "gpt",
+        "value": "The background is orange."
+      }
+    ]
+  },
+  {
+    "id": "test_00081",
+    "image": "images/test_00081.png",
+    "conversations": [
+      {
+        "from": "human",
+        "value": "<image>\nThere is a purple triangle. What is the color of the background?"
+      },
+      {
+        "from": "gpt",
+        "value": "The background is black."
+      }
+    ]
+  },
+  {
+    "id": "test_00082",
+    "image": "images/test_00082.png",
+    "conversations": [
+      {
+        "from": "human",
+        "value": "<image>\nSeeing that the background is gray, what color is the character '0'?"
+      },
+      {
+        "from": "gpt",
+        "value": "The character '0' is cyan."
+      }
+    ]
+  },
+  {
+    "id": "test_00083",
+    "image": "images/test_00083.png",
+    "conversations": [
+      {
+        "from": "human",
+        "value": "<image>\nThe circle is olive. What color lies behind it?"
+      },
+      {
+        "from": "gpt",
+        "value": "The background is brown."
+      }
+    ]
+  },
+  {
+    "id": "test_00084",
+    "image": "images/test_00084.png",
+    "conversations": [
+      {
+        "from": "human",
+        "value": "<image>\nThe character 'X' is pink. What color lies behind it?"
+      },
+      {
+        "from": "gpt",
+        "value": "The background is blue."
+      }
+    ]
+  },
+  {
+    "id": "test_00085",
+    "image": "images/test_00085.png",
+    "conversations": [
+      {
+        "from": "human",
+        "value": "<image>\nWhat are the colors of the character 'K' and the background?"
+      },
+      {
+        "from": "gpt",
+        "value": "Object: red. Background: black."
+      }
+    ]
+  },
+  {
+    "id": "test_00086",
+    "image": "images/test_00086.png",
+    "conversations": [
+      {
+        "from": "human",
+        "value": "<image>\nThe background is pink. What is the color of the star?"
+      },
+      {
+        "from": "gpt",
+        "value": "The star is yellow."
+      }
+    ]
+  },
+  {
+    "id": "test_00087",
+    "image": "images/test_00087.png",
+    "conversations": [
+      {
+        "from": "human",
+        "value": "<image>\nThere is a black character 'H'. What is the color of the background?"
+      },
+      {
+        "from": "gpt",
+        "value": "The background is white."
+      }
+    ]
+  },
+  {
+    "id": "test_00088",
+    "image": "images/test_00088.png",
+    "conversations": [
+      {
+        "from": "human",
+        "value": "<image>\nSeeing that the background is green, what color is the circle?"
+      },
+      {
+        "from": "gpt",
+        "value": "The circle is olive."
+      }
+    ]
+  },
+  {
+    "id": "test_00089",
+    "image": "images/test_00089.png",
+    "conversations": [
+      {
+        "from": "human",
+        "value": "<image>\nIdentify the background color behind the orange star."
+      },
+      {
+        "from": "gpt",
+        "value": "The background is black."
+      }
+    ]
+  },
+  {
+    "id": "test_00090",
+    "image": "images/test_00090.png",
+    "conversations": [
+      {
+        "from": "human",
+        "value": "<image>\nIdentify the background color behind the teal character 'C'."
+      },
+      {
+        "from": "gpt",
+        "value": "The background is green."
+      }
+    ]
+  },
+  {
+    "id": "test_00091",
+    "image": "images/test_00091.png",
+    "conversations": [
+      {
+        "from": "human",
+        "value": "<image>\nSeeing that the background is purple, what color is the character 'M'?"
+      },
+      {
+        "from": "gpt",
+        "value": "The character 'M' is navy."
+      }
+    ]
+  },
+  {
+    "id": "test_00092",
+    "image": "images/test_00092.png",
+    "conversations": [
+      {
+        "from": "human",
+        "value": "<image>\nSeeing that the background is yellow, what color is the character '6'?"
+      },
+      {
+        "from": "gpt",
+        "value": "The character '6' is olive."
+      }
+    ]
+  },
+  {
+    "id": "test_00093",
+    "image": "images/test_00093.png",
+    "conversations": [
+      {
+        "from": "human",
+        "value": "<image>\nIdentify the background color behind the red character 'A'."
+      },
+      {
+        "from": "gpt",
+        "value": "The background is purple."
+      }
+    ]
+  },
+  {
+    "id": "test_00094",
+    "image": "images/test_00094.png",
+    "conversations": [
+      {
+        "from": "human",
+        "value": "<image>\nSeeing that the background is green, what color is the character 'L'?"
+      },
+      {
+        "from": "gpt",
+        "value": "The character 'L' is purple."
+      }
+    ]
+  },
+  {
+    "id": "test_00095",
+    "image": "images/test_00095.png",
+    "conversations": [
+      {
+        "from": "human",
+        "value": "<image>\nThere is a gray character '5'. What is the color of the background?"
+      },
+      {
+        "from": "gpt",
+        "value": "The background is olive."
+      }
+    ]
+  },
+  {
+    "id": "test_00096",
+    "image": "images/test_00096.png",
+    "conversations": [
+      {
+        "from": "human",
+        "value": "<image>\nThe character 'A' is white. What color lies behind it?"
+      },
+      {
+        "from": "gpt",
+        "value": "The background is yellow."
+      }
+    ]
+  },
+  {
+    "id": "test_00097",
+    "image": "images/test_00097.png",
+    "conversations": [
+      {
+        "from": "human",
+        "value": "<image>\nFind the character '9' on the orange surface and tell me its color."
+      },
+      {
+        "from": "gpt",
+        "value": "The character '9' is gray."
+      }
+    ]
+  },
+  {
+    "id": "test_00098",
+    "image": "images/test_00098.png",
+    "conversations": [
+      {
+        "from": "human",
+        "value": "<image>\nSeeing that the background is gray, what color is the character 'F'?"
+      },
+      {
+        "from": "gpt",
+        "value": "The character 'F' is teal."
+      }
+    ]
+  },
+  {
+    "id": "test_00099",
+    "image": "images/test_00099.png",
+    "conversations": [
+      {
+        "from": "human",
+        "value": "<image>\nIdentify the background color behind the maroon character 'D'."
+      },
+      {
+        "from": "gpt",
+        "value": "The background is brown."
+      }
+    ]
+  },
+  {
+    "id": "test_00100",
+    "image": "images/test_00100.png",
+    "conversations": [
+      {
+        "from": "human",
+        "value": "<image>\nThe character 'S' is black. What color lies behind it?"
+      },
+      {
+        "from": "gpt",
+        "value": "The background is purple."
+      }
+    ]
+  },
+  {
+    "id": "test_00101",
+    "image": "images/test_00101.png",
+    "conversations": [
+      {
+        "from": "human",
+        "value": "<image>\nSeeing that the background is navy, what color is the triangle?"
+      },
+      {
+        "from": "gpt",
+        "value": "The triangle is yellow."
+      }
+    ]
+  },
+  {
+    "id": "test_00102",
+    "image": "images/test_00102.png",
+    "conversations": [
+      {
+        "from": "human",
+        "value": "<image>\nIdentify the background color behind the maroon character 'O'."
+      },
+      {
+        "from": "gpt",
+        "value": "The background is yellow."
+      }
+    ]
+  },
+  {
+    "id": "test_00103",
+    "image": "images/test_00103.png",
+    "conversations": [
+      {
+        "from": "human",
+        "value": "<image>\nDescribe the colors of the object and the background."
+      },
+      {
+        "from": "gpt",
+        "value": "Object: yellow. Background: olive."
+      }
+    ]
+  },
+  {
+    "id": "test_00104",
+    "image": "images/test_00104.png",
+    "conversations": [
+      {
+        "from": "human",
+        "value": "<image>\nWhat are the colors of the character '5' and the background?"
+      },
+      {
+        "from": "gpt",
+        "value": "Object: teal. Background: white."
+      }
+    ]
+  },
+  {
+    "id": "test_00105",
+    "image": "images/test_00105.png",
+    "conversations": [
+      {
+        "from": "human",
+        "value": "<image>\nDescribe the colors of the object and the background."
+      },
+      {
+        "from": "gpt",
+        "value": "Object: white. Background: teal."
+      }
+    ]
+  },
+  {
+    "id": "test_00106",
+    "image": "images/test_00106.png",
+    "conversations": [
+      {
+        "from": "human",
+        "value": "<image>\nFind the character '7' on the white surface and tell me its color."
+      },
+      {
+        "from": "gpt",
+        "value": "The character '7' is navy."
+      }
+    ]
+  },
+  {
+    "id": "test_00107",
+    "image": "images/test_00107.png",
+    "conversations": [
+      {
+        "from": "human",
+        "value": "<image>\nThe background is red. What is the color of the character '8'?"
+      },
+      {
+        "from": "gpt",
+        "value": "The character '8' is white."
+      }
+    ]
+  },
+  {
+    "id": "test_00108",
+    "image": "images/test_00108.png",
+    "conversations": [
+      {
+        "from": "human",
+        "value": "<image>\nOn a cyan background, identify the color of the center character '0'."
+      },
+      {
+        "from": "gpt",
+        "value": "The character '0' is black."
+      }
+    ]
+  },
+  {
+    "id": "test_00109",
+    "image": "images/test_00109.png",
+    "conversations": [
+      {
+        "from": "human",
+        "value": "<image>\nThe background is navy. What is the color of the triangle?"
+      },
+      {
+        "from": "gpt",
+        "value": "The triangle is red."
+      }
+    ]
+  },
+  {
+    "id": "test_00110",
+    "image": "images/test_00110.png",
+    "conversations": [
+      {
+        "from": "human",
+        "value": "<image>\nThere is a blue character 'Z'. What is the color of the background?"
+      },
+      {
+        "from": "gpt",
+        "value": "The background is cyan."
+      }
+    ]
+  },
+  {
+    "id": "test_00111",
+    "image": "images/test_00111.png",
+    "conversations": [
+      {
+        "from": "human",
+        "value": "<image>\nWhat are the colors of the star and the background?"
+      },
+      {
+        "from": "gpt",
+        "value": "Object: pink. Background: purple."
+      }
+    ]
+  },
+  {
+    "id": "test_00112",
+    "image": "images/test_00112.png",
+    "conversations": [
+      {
+        "from": "human",
+        "value": "<image>\nWhat are the colors of the character 'T' and the background?"
+      },
+      {
+        "from": "gpt",
+        "value": "Object: olive. Background: black."
+      }
+    ]
+  },
+  {
+    "id": "test_00113",
+    "image": "images/test_00113.png",
+    "conversations": [
+      {
+        "from": "human",
+        "value": "<image>\nIdentify the background color behind the purple character 'C'."
+      },
+      {
+        "from": "gpt",
+        "value": "The background is brown."
+      }
+    ]
+  },
+  {
+    "id": "test_00114",
+    "image": "images/test_00114.png",
+    "conversations": [
+      {
+        "from": "human",
+        "value": "<image>\nWhat are the colors of the character 'O' and the background?"
+      },
+      {
+        "from": "gpt",
+        "value": "Object: navy. Background: maroon."
+      }
+    ]
+  },
+  {
+    "id": "test_00115",
+    "image": "images/test_00115.png",
+    "conversations": [
+      {
+        "from": "human",
+        "value": "<image>\nThe background is maroon. What is the color of the character 'Y'?"
+      },
+      {
+        "from": "gpt",
+        "value": "The character 'Y' is orange."
+      }
+    ]
+  },
+  {
+    "id": "test_00116",
+    "image": "images/test_00116.png",
+    "conversations": [
+      {
+        "from": "human",
+        "value": "<image>\nThe background is orange. What is the color of the circle?"
+      },
+      {
+        "from": "gpt",
+        "value": "The circle is yellow."
+      }
+    ]
+  },
+  {
+    "id": "test_00117",
+    "image": "images/test_00117.png",
+    "conversations": [
+      {
+        "from": "human",
+        "value": "<image>\nThe background is brown. What is the color of the character 'T'?"
+      },
+      {
+        "from": "gpt",
+        "value": "The character 'T' is gray."
+      }
+    ]
+  },
+  {
+    "id": "test_00118",
+    "image": "images/test_00118.png",
+    "conversations": [
+      {
+        "from": "human",
+        "value": "<image>\nIdentify the background color behind the white character '1'."
+      },
+      {
+        "from": "gpt",
+        "value": "The background is orange."
+      }
+    ]
+  },
+  {
+    "id": "test_00119",
+    "image": "images/test_00119.png",
+    "conversations": [
+      {
+        "from": "human",
+        "value": "<image>\nWhat are the colors of the character 'P' and the background?"
+      },
+      {
+        "from": "gpt",
+        "value": "Object: gray. Background: cyan."
+      }
+    ]
+  },
+  {
+    "id": "test_00120",
+    "image": "images/test_00120.png",
+    "conversations": [
+      {
+        "from": "human",
+        "value": "<image>\nWhat are the colors of the character 'B' and the background?"
+      },
+      {
+        "from": "gpt",
+        "value": "Object: yellow. Background: teal."
+      }
+    ]
+  },
+  {
+    "id": "test_00121",
+    "image": "images/test_00121.png",
+    "conversations": [
+      {
+        "from": "human",
+        "value": "<image>\nOn a navy background, identify the color of the center character 'E'."
+      },
+      {
+        "from": "gpt",
+        "value": "The character 'E' is blue."
+      }
+    ]
+  },
+  {
+    "id": "test_00122",
+    "image": "images/test_00122.png",
+    "conversations": [
+      {
+        "from": "human",
+        "value": "<image>\nThe character 'P' is teal. What color lies behind it?"
+      },
+      {
+        "from": "gpt",
+        "value": "The background is pink."
+      }
+    ]
+  },
+  {
+    "id": "test_00123",
+    "image": "images/test_00123.png",
+    "conversations": [
+      {
+        "from": "human",
+        "value": "<image>\nSeeing that the background is teal, what color is the character 'L'?"
+      },
+      {
+        "from": "gpt",
+        "value": "The character 'L' is green."
+      }
+    ]
+  },
+  {
+    "id": "test_00124",
+    "image": "images/test_00124.png",
+    "conversations": [
+      {
+        "from": "human",
+        "value": "<image>\nWhat are the colors of the character '2' and the background?"
+      },
+      {
+        "from": "gpt",
+        "value": "Object: brown. Background: yellow."
+      }
+    ]
+  },
+  {
+    "id": "test_00125",
+    "image": "images/test_00125.png",
+    "conversations": [
+      {
+        "from": "human",
+        "value": "<image>\nWhat are the colors of the character 'C' and the background?"
+      },
+      {
+        "from": "gpt",
+        "value": "Object: black. Background: blue."
+      }
+    ]
+  },
+  {
+    "id": "test_00126",
+    "image": "images/test_00126.png",
+    "conversations": [
+      {
+        "from": "human",
+        "value": "<image>\nDescribe the colors of the object and the background."
+      },
+      {
+        "from": "gpt",
+        "value": "Object: pink. Background: olive."
+      }
+    ]
+  },
+  {
+    "id": "test_00127",
+    "image": "images/test_00127.png",
+    "conversations": [
+      {
+        "from": "human",
+        "value": "<image>\nThere is a black square. What is the color of the background?"
+      },
+      {
+        "from": "gpt",
+        "value": "The background is maroon."
+      }
+    ]
+  },
+  {
+    "id": "test_00128",
+    "image": "images/test_00128.png",
+    "conversations": [
+      {
+        "from": "human",
+        "value": "<image>\nWhat are the colors of the character 'E' and the background?"
+      },
+      {
+        "from": "gpt",
+        "value": "Object: orange. Background: red."
+      }
+    ]
+  },
+  {
+    "id": "test_00129",
+    "image": "images/test_00129.png",
+    "conversations": [
+      {
+        "from": "human",
+        "value": "<image>\nThe character '8' is pink. What color lies behind it?"
+      },
+      {
+        "from": "gpt",
+        "value": "The background is teal."
+      }
+    ]
+  },
+  {
+    "id": "test_00130",
+    "image": "images/test_00130.png",
+    "conversations": [
+      {
+        "from": "human",
+        "value": "<image>\nThere is a maroon character 'Z'. What is the color of the background?"
+      },
+      {
+        "from": "gpt",
+        "value": "The background is gray."
+      }
+    ]
+  },
+  {
+    "id": "test_00131",
+    "image": "images/test_00131.png",
+    "conversations": [
+      {
+        "from": "human",
+        "value": "<image>\nFind the triangle on the teal surface and tell me its color."
+      },
+      {
+        "from": "gpt",
+        "value": "The triangle is maroon."
+      }
+    ]
+  },
+  {
+    "id": "test_00132",
+    "image": "images/test_00132.png",
+    "conversations": [
+      {
+        "from": "human",
+        "value": "<image>\nThere is a yellow square. What is the color of the background?"
+      },
+      {
+        "from": "gpt",
+        "value": "The background is gray."
+      }
+    ]
+  },
+  {
+    "id": "test_00133",
+    "image": "images/test_00133.png",
+    "conversations": [
+      {
+        "from": "human",
+        "value": "<image>\nWhat are the colors of the character '0' and the background?"
+      },
+      {
+        "from": "gpt",
+        "value": "Object: black. Background: green."
+      }
+    ]
+  },
+  {
+    "id": "test_00134",
+    "image": "images/test_00134.png",
+    "conversations": [
+      {
+        "from": "human",
+        "value": "<image>\nWhat are the colors of the triangle and the background?"
+      },
+      {
+        "from": "gpt",
+        "value": "Object: red. Background: orange."
+      }
+    ]
+  },
+  {
+    "id": "test_00135",
+    "image": "images/test_00135.png",
+    "conversations": [
+      {
+        "from": "human",
+        "value": "<image>\nThere is a brown character '8'. What is the color of the background?"
+      },
+      {
+        "from": "gpt",
+        "value": "The background is navy."
+      }
+    ]
+  },
+  {
+    "id": "test_00136",
+    "image": "images/test_00136.png",
+    "conversations": [
+      {
+        "from": "human",
+        "value": "<image>\nWhat are the colors of the character 'F' and the background?"
+      },
+      {
+        "from": "gpt",
+        "value": "Object: olive. Background: orange."
+      }
+    ]
+  },
+  {
+    "id": "test_00137",
+    "image": "images/test_00137.png",
+    "conversations": [
+      {
+        "from": "human",
+        "value": "<image>\nIdentify the background color behind the pink character 'X'."
+      },
+      {
+        "from": "gpt",
+        "value": "The background is cyan."
+      }
+    ]
+  },
+  {
+    "id": "test_00138",
+    "image": "images/test_00138.png",
+    "conversations": [
+      {
+        "from": "human",
+        "value": "<image>\nWhat are the colors of the character '4' and the background?"
+      },
+      {
+        "from": "gpt",
+        "value": "Object: maroon. Background: purple."
+      }
+    ]
+  },
+  {
+    "id": "test_00139",
+    "image": "images/test_00139.png",
+    "conversations": [
+      {
+        "from": "human",
+        "value": "<image>\nThere is a red character 'Y'. What is the color of the background?"
+      },
+      {
+        "from": "gpt",
+        "value": "The background is blue."
+      }
+    ]
+  },
+  {
+    "id": "test_00140",
+    "image": "images/test_00140.png",
+    "conversations": [
+      {
+        "from": "human",
+        "value": "<image>\nThere is a yellow character 'V'. What is the color of the background?"
+      },
+      {
+        "from": "gpt",
+        "value": "The background is cyan."
+      }
+    ]
+  },
+  {
+    "id": "test_00141",
+    "image": "images/test_00141.png",
+    "conversations": [
+      {
+        "from": "human",
+        "value": "<image>\nIdentify the background color behind the blue character '8'."
+      },
+      {
+        "from": "gpt",
+        "value": "The background is yellow."
+      }
+    ]
+  },
+  {
+    "id": "test_00142",
+    "image": "images/test_00142.png",
+    "conversations": [
+      {
+        "from": "human",
+        "value": "<image>\nFind the character 'C' on the pink surface and tell me its color."
+      },
+      {
+        "from": "gpt",
+        "value": "The character 'C' is maroon."
+      }
+    ]
+  },
+  {
+    "id": "test_00143",
+    "image": "images/test_00143.png",
+    "conversations": [
+      {
+        "from": "human",
+        "value": "<image>\nDescribe the colors of the object and the background."
+      },
+      {
+        "from": "gpt",
+        "value": "Object: maroon. Background: orange."
+      }
+    ]
+  },
+  {
+    "id": "test_00144",
+    "image": "images/test_00144.png",
+    "conversations": [
+      {
+        "from": "human",
+        "value": "<image>\nDescribe the colors of the object and the background."
+      },
+      {
+        "from": "gpt",
+        "value": "Object: red. Background: pink."
+      }
+    ]
+  },
+  {
+    "id": "test_00145",
+    "image": "images/test_00145.png",
+    "conversations": [
+      {
+        "from": "human",
+        "value": "<image>\nDescribe the colors of the object and the background."
+      },
+      {
+        "from": "gpt",
+        "value": "Object: maroon. Background: white."
+      }
+    ]
+  },
+  {
+    "id": "test_00146",
+    "image": "images/test_00146.png",
+    "conversations": [
+      {
+        "from": "human",
+        "value": "<image>\nIdentify the background color behind the orange character '3'."
+      },
+      {
+        "from": "gpt",
+        "value": "The background is pink."
+      }
+    ]
+  },
+  {
+    "id": "test_00147",
+    "image": "images/test_00147.png",
+    "conversations": [
+      {
+        "from": "human",
+        "value": "<image>\nSeeing that the background is maroon, what color is the character '8'?"
+      },
+      {
+        "from": "gpt",
+        "value": "The character '8' is red."
+      }
+    ]
+  },
+  {
+    "id": "test_00148",
+    "image": "images/test_00148.png",
+    "conversations": [
+      {
+        "from": "human",
+        "value": "<image>\nThe character '2' is purple. What color lies behind it?"
+      },
+      {
+        "from": "gpt",
+        "value": "The background is orange."
+      }
+    ]
+  },
+  {
+    "id": "test_00149",
+    "image": "images/test_00149.png",
+    "conversations": [
+      {
+        "from": "human",
+        "value": "<image>\nWhat are the colors of the circle and the background?"
+      },
+      {
+        "from": "gpt",
+        "value": "Object: brown. Background: red."
+      }
+    ]
+  },
+  {
+    "id": "test_00150",
+    "image": "images/test_00150.png",
+    "conversations": [
+      {
+        "from": "human",
+        "value": "<image>\nWhat are the colors of the character '2' and the background?"
+      },
+      {
+        "from": "gpt",
+        "value": "Object: gray. Background: black."
+      }
+    ]
+  },
+  {
+    "id": "test_00151",
+    "image": "images/test_00151.png",
+    "conversations": [
+      {
+        "from": "human",
+        "value": "<image>\nFind the character 'G' on the navy surface and tell me its color."
+      },
+      {
+        "from": "gpt",
+        "value": "The character 'G' is maroon."
+      }
+    ]
+  },
+  {
+    "id": "test_00152",
+    "image": "images/test_00152.png",
+    "conversations": [
+      {
+        "from": "human",
+        "value": "<image>\nDescribe the colors of the object and the background."
+      },
+      {
+        "from": "gpt",
+        "value": "Object: black. Background: pink."
+      }
+    ]
+  },
+  {
+    "id": "test_00153",
+    "image": "images/test_00153.png",
+    "conversations": [
+      {
+        "from": "human",
+        "value": "<image>\nThe character 'C' is navy. What color lies behind it?"
+      },
+      {
+        "from": "gpt",
+        "value": "The background is gray."
+      }
+    ]
+  },
+  {
+    "id": "test_00154",
+    "image": "images/test_00154.png",
+    "conversations": [
+      {
+        "from": "human",
+        "value": "<image>\nDescribe the colors of the object and the background."
+      },
+      {
+        "from": "gpt",
+        "value": "Object: purple. Background: blue."
+      }
+    ]
+  },
+  {
+    "id": "test_00155",
+    "image": "images/test_00155.png",
+    "conversations": [
+      {
+        "from": "human",
+        "value": "<image>\nOn a pink background, identify the color of the center character 'W'."
+      },
+      {
+        "from": "gpt",
+        "value": "The character 'W' is white."
+      }
+    ]
+  },
+  {
+    "id": "test_00156",
+    "image": "images/test_00156.png",
+    "conversations": [
+      {
+        "from": "human",
+        "value": "<image>\nIdentify the background color behind the pink character 'D'."
+      },
+      {
+        "from": "gpt",
+        "value": "The background is yellow."
+      }
+    ]
+  },
+  {
+    "id": "test_00157",
+    "image": "images/test_00157.png",
+    "conversations": [
+      {
+        "from": "human",
+        "value": "<image>\nDescribe the colors of the object and the background."
+      },
+      {
+        "from": "gpt",
+        "value": "Object: yellow. Background: maroon."
+      }
+    ]
+  },
+  {
+    "id": "test_00158",
+    "image": "images/test_00158.png",
+    "conversations": [
+      {
+        "from": "human",
+        "value": "<image>\nSeeing that the background is maroon, what color is the character '5'?"
+      },
+      {
+        "from": "gpt",
+        "value": "The character '5' is gray."
+      }
+    ]
+  },
+  {
+    "id": "test_00159",
+    "image": "images/test_00159.png",
+    "conversations": [
+      {
+        "from": "human",
+        "value": "<image>\nThe character 'N' is maroon. What color lies behind it?"
+      },
+      {
+        "from": "gpt",
+        "value": "The background is green."
+      }
+    ]
+  },
+  {
+    "id": "test_00160",
+    "image": "images/test_00160.png",
+    "conversations": [
+      {
+        "from": "human",
+        "value": "<image>\nWhat are the colors of the character 'F' and the background?"
+      },
+      {
+        "from": "gpt",
+        "value": "Object: white. Background: navy."
+      }
+    ]
+  },
+  {
+    "id": "test_00161",
+    "image": "images/test_00161.png",
+    "conversations": [
+      {
+        "from": "human",
+        "value": "<image>\nThe background is white. What is the color of the circle?"
+      },
+      {
+        "from": "gpt",
+        "value": "The circle is purple."
+      }
+    ]
+  },
+  {
+    "id": "test_00162",
+    "image": "images/test_00162.png",
+    "conversations": [
+      {
+        "from": "human",
+        "value": "<image>\nThe character 'N' is gray. What color lies behind it?"
+      },
+      {
+        "from": "gpt",
+        "value": "The background is blue."
+      }
+    ]
+  },
+  {
+    "id": "test_00163",
+    "image": "images/test_00163.png",
+    "conversations": [
+      {
+        "from": "human",
+        "value": "<image>\nIdentify the background color behind the blue character '8'."
+      },
+      {
+        "from": "gpt",
+        "value": "The background is orange."
+      }
+    ]
+  },
+  {
+    "id": "test_00164",
+    "image": "images/test_00164.png",
+    "conversations": [
+      {
+        "from": "human",
+        "value": "<image>\nWhat are the colors of the character 'Z' and the background?"
+      },
+      {
+        "from": "gpt",
+        "value": "Object: yellow. Background: red."
+      }
+    ]
+  },
+  {
+    "id": "test_00165",
+    "image": "images/test_00165.png",
+    "conversations": [
+      {
+        "from": "human",
+        "value": "<image>\nThere is a white character '9'. What is the color of the background?"
+      },
+      {
+        "from": "gpt",
+        "value": "The background is cyan."
+      }
+    ]
+  },
+  {
+    "id": "test_00166",
+    "image": "images/test_00166.png",
+    "conversations": [
+      {
+        "from": "human",
+        "value": "<image>\nDescribe the colors of the object and the background."
+      },
+      {
+        "from": "gpt",
+        "value": "Object: brown. Background: pink."
+      }
+    ]
+  },
+  {
+    "id": "test_00167",
+    "image": "images/test_00167.png",
+    "conversations": [
+      {
+        "from": "human",
+        "value": "<image>\nWhat are the colors of the star and the background?"
+      },
+      {
+        "from": "gpt",
+        "value": "Object: green. Background: gray."
+      }
+    ]
+  },
+  {
+    "id": "test_00168",
+    "image": "images/test_00168.png",
+    "conversations": [
+      {
+        "from": "human",
+        "value": "<image>\nWhat are the colors of the character 'D' and the background?"
+      },
+      {
+        "from": "gpt",
+        "value": "Object: pink. Background: navy."
+      }
+    ]
+  },
+  {
+    "id": "test_00169",
+    "image": "images/test_00169.png",
+    "conversations": [
+      {
+        "from": "human",
+        "value": "<image>\nOn a cyan background, identify the color of the center character '9'."
+      },
+      {
+        "from": "gpt",
+        "value": "The character '9' is purple."
+      }
+    ]
+  },
+  {
+    "id": "test_00170",
+    "image": "images/test_00170.png",
+    "conversations": [
+      {
+        "from": "human",
+        "value": "<image>\nDescribe the colors of the object and the background."
+      },
+      {
+        "from": "gpt",
+        "value": "Object: olive. Background: teal."
+      }
+    ]
+  },
+  {
+    "id": "test_00171",
+    "image": "images/test_00171.png",
+    "conversations": [
+      {
+        "from": "human",
+        "value": "<image>\nDescribe the colors of the object and the background."
+      },
+      {
+        "from": "gpt",
+        "value": "Object: purple. Background: teal."
+      }
+    ]
+  },
+  {
+    "id": "test_00172",
+    "image": "images/test_00172.png",
+    "conversations": [
+      {
+        "from": "human",
+        "value": "<image>\nFind the character '4' on the navy surface and tell me its color."
+      },
+      {
+        "from": "gpt",
+        "value": "The character '4' is green."
+      }
+    ]
+  },
+  {
+    "id": "test_00173",
+    "image": "images/test_00173.png",
+    "conversations": [
+      {
+        "from": "human",
+        "value": "<image>\nThe character 'P' is green. What color lies behind it?"
+      },
+      {
+        "from": "gpt",
+        "value": "The background is olive."
+      }
+    ]
+  },
+  {
+    "id": "test_00174",
+    "image": "images/test_00174.png",
+    "conversations": [
+      {
+        "from": "human",
+        "value": "<image>\nThe character 'P' is green. What color lies behind it?"
+      },
+      {
+        "from": "gpt",
+        "value": "The background is maroon."
+      }
+    ]
+  },
+  {
+    "id": "test_00175",
+    "image": "images/test_00175.png",
+    "conversations": [
+      {
+        "from": "human",
+        "value": "<image>\nWhat are the colors of the character 'A' and the background?"
+      },
+      {
+        "from": "gpt",
+        "value": "Object: navy. Background: cyan."
+      }
+    ]
+  },
+  {
+    "id": "test_00176",
+    "image": "images/test_00176.png",
+    "conversations": [
+      {
+        "from": "human",
+        "value": "<image>\nWhat are the colors of the triangle and the background?"
+      },
+      {
+        "from": "gpt",
+        "value": "Object: red. Background: white."
+      }
+    ]
+  },
+  {
+    "id": "test_00177",
+    "image": "images/test_00177.png",
+    "conversations": [
+      {
+        "from": "human",
+        "value": "<image>\nDescribe the colors of the object and the background."
+      },
+      {
+        "from": "gpt",
+        "value": "Object: navy. Background: pink."
+      }
+    ]
+  },
+  {
+    "id": "test_00178",
+    "image": "images/test_00178.png",
+    "conversations": [
+      {
+        "from": "human",
+        "value": "<image>\nThe background is red. What is the color of the character 'W'?"
+      },
+      {
+        "from": "gpt",
+        "value": "The character 'W' is purple."
+      }
+    ]
+  },
+  {
+    "id": "test_00179",
+    "image": "images/test_00179.png",
+    "conversations": [
+      {
+        "from": "human",
+        "value": "<image>\nDescribe the colors of the object and the background."
+      },
+      {
+        "from": "gpt",
+        "value": "Object: black. Background: teal."
+      }
+    ]
+  },
+  {
+    "id": "test_00180",
+    "image": "images/test_00180.png",
+    "conversations": [
+      {
+        "from": "human",
+        "value": "<image>\nDescribe the colors of the object and the background."
+      },
+      {
+        "from": "gpt",
+        "value": "Object: black. Background: yellow."
+      }
+    ]
+  },
+  {
+    "id": "test_00181",
+    "image": "images/test_00181.png",
+    "conversations": [
+      {
+        "from": "human",
+        "value": "<image>\nWhat are the colors of the character 'H' and the background?"
+      },
+      {
+        "from": "gpt",
+        "value": "Object: olive. Background: cyan."
+      }
+    ]
+  },
+  {
+    "id": "test_00182",
+    "image": "images/test_00182.png",
+    "conversations": [
+      {
+        "from": "human",
+        "value": "<image>\nSeeing that the background is black, what color is the character 'L'?"
+      },
+      {
+        "from": "gpt",
+        "value": "The character 'L' is maroon."
+      }
+    ]
+  },
+  {
+    "id": "test_00183",
+    "image": "images/test_00183.png",
+    "conversations": [
+      {
+        "from": "human",
+        "value": "<image>\nWhat are the colors of the character 'O' and the background?"
+      },
+      {
+        "from": "gpt",
+        "value": "Object: brown. Background: black."
+      }
+    ]
+  },
+  {
+    "id": "test_00184",
+    "image": "images/test_00184.png",
+    "conversations": [
+      {
+        "from": "human",
+        "value": "<image>\nFind the character 'Q' on the orange surface and tell me its color."
+      },
+      {
+        "from": "gpt",
+        "value": "The character 'Q' is cyan."
+      }
+    ]
+  },
+  {
+    "id": "test_00185",
+    "image": "images/test_00185.png",
+    "conversations": [
+      {
+        "from": "human",
+        "value": "<image>\nDescribe the colors of the object and the background."
+      },
+      {
+        "from": "gpt",
+        "value": "Object: orange. Background: cyan."
+      }
+    ]
+  },
+  {
+    "id": "test_00186",
+    "image": "images/test_00186.png",
+    "conversations": [
+      {
+        "from": "human",
+        "value": "<image>\nIdentify the background color behind the maroon character 'T'."
+      },
+      {
+        "from": "gpt",
+        "value": "The background is cyan."
+      }
+    ]
+  },
+  {
+    "id": "test_00187",
+    "image": "images/test_00187.png",
+    "conversations": [
+      {
+        "from": "human",
+        "value": "<image>\nDescribe the colors of the object and the background."
+      },
+      {
+        "from": "gpt",
+        "value": "Object: olive. Background: maroon."
+      }
+    ]
+  },
+  {
+    "id": "test_00188",
+    "image": "images/test_00188.png",
+    "conversations": [
+      {
+        "from": "human",
+        "value": "<image>\nWhat are the colors of the character 'D' and the background?"
+      },
+      {
+        "from": "gpt",
+        "value": "Object: orange. Background: brown."
+      }
+    ]
+  },
+  {
+    "id": "test_00189",
+    "image": "images/test_00189.png",
+    "conversations": [
+      {
+        "from": "human",
+        "value": "<image>\nFind the character 'Y' on the olive surface and tell me its color."
+      },
+      {
+        "from": "gpt",
+        "value": "The character 'Y' is purple."
+      }
+    ]
+  },
+  {
+    "id": "test_00190",
+    "image": "images/test_00190.png",
+    "conversations": [
+      {
+        "from": "human",
+        "value": "<image>\nThe background is cyan. What is the color of the character '1'?"
+      },
+      {
+        "from": "gpt",
+        "value": "The character '1' is red."
+      }
+    ]
+  },
+  {
+    "id": "test_00191",
+    "image": "images/test_00191.png",
+    "conversations": [
+      {
+        "from": "human",
+        "value": "<image>\nDescribe the colors of the object and the background."
+      },
+      {
+        "from": "gpt",
+        "value": "Object: cyan. Background: purple."
+      }
+    ]
+  },
+  {
+    "id": "test_00192",
+    "image": "images/test_00192.png",
+    "conversations": [
+      {
+        "from": "human",
+        "value": "<image>\nThe character 'Q' is green. What color lies behind it?"
+      },
+      {
+        "from": "gpt",
+        "value": "The background is cyan."
+      }
+    ]
+  },
+  {
+    "id": "test_00193",
+    "image": "images/test_00193.png",
+    "conversations": [
+      {
+        "from": "human",
+        "value": "<image>\nWhat are the colors of the character 'L' and the background?"
+      },
+      {
+        "from": "gpt",
+        "value": "Object: navy. Background: yellow."
+      }
+    ]
+  },
+  {
+    "id": "test_00194",
+    "image": "images/test_00194.png",
+    "conversations": [
+      {
+        "from": "human",
+        "value": "<image>\nIdentify the background color behind the brown character 'U'."
+      },
+      {
+        "from": "gpt",
+        "value": "The background is gray."
+      }
+    ]
+  },
+  {
+    "id": "test_00195",
+    "image": "images/test_00195.png",
+    "conversations": [
+      {
+        "from": "human",
+        "value": "<image>\nThe character 'O' is olive. What color lies behind it?"
+      },
+      {
+        "from": "gpt",
+        "value": "The background is purple."
+      }
+    ]
+  },
+  {
+    "id": "test_00196",
+    "image": "images/test_00196.png",
+    "conversations": [
+      {
+        "from": "human",
+        "value": "<image>\nThe background is red. What is the color of the character '8'?"
+      },
+      {
+        "from": "gpt",
+        "value": "The character '8' is pink."
+      }
+    ]
+  },
+  {
+    "id": "test_00197",
+    "image": "images/test_00197.png",
+    "conversations": [
+      {
+        "from": "human",
+        "value": "<image>\nThe background is green. What is the color of the character 'B'?"
+      },
+      {
+        "from": "gpt",
+        "value": "The character 'B' is orange."
+      }
+    ]
+  },
+  {
+    "id": "test_00198",
+    "image": "images/test_00198.png",
+    "conversations": [
+      {
+        "from": "human",
+        "value": "<image>\nThe background is green. What is the color of the character '5'?"
+      },
+      {
+        "from": "gpt",
+        "value": "The character '5' is gray."
+      }
+    ]
+  },
+  {
+    "id": "test_00199",
+    "image": "images/test_00199.png",
+    "conversations": [
+      {
+        "from": "human",
+        "value": "<image>\nDescribe the colors of the object and the background."
+      },
+      {
+        "from": "gpt",
+        "value": "Object: brown. Background: white."
+      }
+    ]
+  },
+  {
+    "id": "test_00200",
+    "image": "images/test_00200.png",
+    "conversations": [
+      {
+        "from": "human",
+        "value": "<image>\nThe background is blue. What is the color of the character 'N'?"
+      },
+      {
+        "from": "gpt",
+        "value": "The character 'N' is yellow."
+      }
+    ]
+  },
+  {
+    "id": "test_00201",
+    "image": "images/test_00201.png",
+    "conversations": [
+      {
+        "from": "human",
+        "value": "<image>\nWhat are the colors of the character 'Z' and the background?"
+      },
+      {
+        "from": "gpt",
+        "value": "Object: navy. Background: red."
+      }
+    ]
+  },
+  {
+    "id": "test_00202",
+    "image": "images/test_00202.png",
+    "conversations": [
+      {
+        "from": "human",
+        "value": "<image>\nIdentify the background color behind the navy character '3'."
+      },
+      {
+        "from": "gpt",
+        "value": "The background is blue."
+      }
+    ]
+  },
+  {
+    "id": "test_00203",
+    "image": "images/test_00203.png",
+    "conversations": [
+      {
+        "from": "human",
+        "value": "<image>\nDescribe the colors of the object and the background."
+      },
+      {
+        "from": "gpt",
+        "value": "Object: black. Background: gray."
+      }
+    ]
+  },
+  {
+    "id": "test_00204",
+    "image": "images/test_00204.png",
+    "conversations": [
+      {
+        "from": "human",
+        "value": "<image>\nThe background is navy. What is the color of the character 'V'?"
+      },
+      {
+        "from": "gpt",
+        "value": "The character 'V' is gray."
+      }
+    ]
+  },
+  {
+    "id": "test_00205",
+    "image": "images/test_00205.png",
+    "conversations": [
+      {
+        "from": "human",
+        "value": "<image>\nThe character 'X' is pink. What color lies behind it?"
+      },
+      {
+        "from": "gpt",
+        "value": "The background is brown."
+      }
+    ]
+  },
+  {
+    "id": "test_00206",
+    "image": "images/test_00206.png",
+    "conversations": [
+      {
+        "from": "human",
+        "value": "<image>\nThe character '6' is green. What color lies behind it?"
+      },
+      {
+        "from": "gpt",
+        "value": "The background is red."
+      }
+    ]
+  },
+  {
+    "id": "test_00207",
+    "image": "images/test_00207.png",
+    "conversations": [
+      {
+        "from": "human",
+        "value": "<image>\nWhat are the colors of the character 'D' and the background?"
+      },
+      {
+        "from": "gpt",
+        "value": "Object: orange. Background: blue."
+      }
+    ]
+  },
+  {
+    "id": "test_00208",
+    "image": "images/test_00208.png",
+    "conversations": [
+      {
+        "from": "human",
+        "value": "<image>\nIdentify the background color behind the gray character 'Y'."
+      },
+      {
+        "from": "gpt",
+        "value": "The background is pink."
+      }
+    ]
+  },
+  {
+    "id": "test_00209",
+    "image": "images/test_00209.png",
+    "conversations": [
+      {
+        "from": "human",
+        "value": "<image>\nWhat are the colors of the character '1' and the background?"
+      },
+      {
+        "from": "gpt",
+        "value": "Object: green. Background: black."
+      }
+    ]
+  },
+  {
+    "id": "test_00210",
+    "image": "images/test_00210.png",
+    "conversations": [
+      {
+        "from": "human",
+        "value": "<image>\nDescribe the colors of the object and the background."
+      },
+      {
+        "from": "gpt",
+        "value": "Object: navy. Background: olive."
+      }
+    ]
+  },
+  {
+    "id": "test_00211",
+    "image": "images/test_00211.png",
+    "conversations": [
+      {
+        "from": "human",
+        "value": "<image>\nThe character '8' is orange. What color lies behind it?"
+      },
+      {
+        "from": "gpt",
+        "value": "The background is teal."
+      }
+    ]
+  },
+  {
+    "id": "test_00212",
+    "image": "images/test_00212.png",
+    "conversations": [
+      {
+        "from": "human",
+        "value": "<image>\nDescribe the colors of the object and the background."
+      },
+      {
+        "from": "gpt",
+        "value": "Object: pink. Background: gray."
+      }
+    ]
+  },
+  {
+    "id": "test_00213",
+    "image": "images/test_00213.png",
+    "conversations": [
+      {
+        "from": "human",
+        "value": "<image>\nThe character 'B' is blue. What color lies behind it?"
+      },
+      {
+        "from": "gpt",
+        "value": "The background is red."
+      }
+    ]
+  },
+  {
+    "id": "test_00214",
+    "image": "images/test_00214.png",
+    "conversations": [
+      {
+        "from": "human",
+        "value": "<image>\nThere is a navy character 'L'. What is the color of the background?"
+      },
+      {
+        "from": "gpt",
+        "value": "The background is green."
+      }
+    ]
+  },
+  {
+    "id": "test_00215",
+    "image": "images/test_00215.png",
+    "conversations": [
+      {
+        "from": "human",
+        "value": "<image>\nIdentify the background color behind the green character 'Z'."
+      },
+      {
+        "from": "gpt",
+        "value": "The background is purple."
+      }
+    ]
+  },
+  {
+    "id": "test_00216",
+    "image": "images/test_00216.png",
+    "conversations": [
+      {
+        "from": "human",
+        "value": "<image>\nIdentify the background color behind the olive character 'K'."
+      },
+      {
+        "from": "gpt",
+        "value": "The background is white."
+      }
+    ]
+  },
+  {
+    "id": "test_00217",
+    "image": "images/test_00217.png",
+    "conversations": [
+      {
+        "from": "human",
+        "value": "<image>\nFind the character '4' on the olive surface and tell me its color."
+      },
+      {
+        "from": "gpt",
+        "value": "The character '4' is red."
+      }
+    ]
+  },
+  {
+    "id": "test_00218",
+    "image": "images/test_00218.png",
+    "conversations": [
+      {
+        "from": "human",
+        "value": "<image>\nThe character 'D' is blue. What color lies behind it?"
+      },
+      {
+        "from": "gpt",
+        "value": "The background is olive."
+      }
+    ]
+  },
+  {
+    "id": "test_00219",
+    "image": "images/test_00219.png",
+    "conversations": [
+      {
+        "from": "human",
+        "value": "<image>\nIdentify the background color behind the navy character 'H'."
+      },
+      {
+        "from": "gpt",
+        "value": "The background is brown."
+      }
+    ]
+  },
+  {
+    "id": "test_00220",
+    "image": "images/test_00220.png",
+    "conversations": [
+      {
+        "from": "human",
+        "value": "<image>\nThere is a brown character '1'. What is the color of the background?"
+      },
+      {
+        "from": "gpt",
+        "value": "The background is green."
+      }
+    ]
+  },
+  {
+    "id": "test_00221",
+    "image": "images/test_00221.png",
+    "conversations": [
+      {
+        "from": "human",
+        "value": "<image>\nThere is a white character '5'. What is the color of the background?"
+      },
+      {
+        "from": "gpt",
+        "value": "The background is green."
+      }
+    ]
+  },
+  {
+    "id": "test_00222",
+    "image": "images/test_00222.png",
+    "conversations": [
+      {
+        "from": "human",
+        "value": "<image>\nIdentify the background color behind the maroon character 'G'."
+      },
+      {
+        "from": "gpt",
+        "value": "The background is olive."
+      }
+    ]
+  },
+  {
+    "id": "test_00223",
+    "image": "images/test_00223.png",
+    "conversations": [
+      {
+        "from": "human",
+        "value": "<image>\nThe background is maroon. What is the color of the character '1'?"
+      },
+      {
+        "from": "gpt",
+        "value": "The character '1' is cyan."
+      }
+    ]
+  },
+  {
+    "id": "test_00224",
+    "image": "images/test_00224.png",
+    "conversations": [
+      {
+        "from": "human",
+        "value": "<image>\nThe background is brown. What is the color of the character '4'?"
+      },
+      {
+        "from": "gpt",
+        "value": "The character '4' is teal."
+      }
+    ]
+  },
+  {
+    "id": "test_00225",
+    "image": "images/test_00225.png",
+    "conversations": [
+      {
+        "from": "human",
+        "value": "<image>\nDescribe the colors of the object and the background."
+      },
+      {
+        "from": "gpt",
+        "value": "Object: white. Background: brown."
+      }
+    ]
+  },
+  {
+    "id": "test_00226",
+    "image": "images/test_00226.png",
+    "conversations": [
+      {
+        "from": "human",
+        "value": "<image>\nThe triangle is cyan. What color lies behind it?"
+      },
+      {
+        "from": "gpt",
+        "value": "The background is yellow."
+      }
+    ]
+  },
+  {
+    "id": "test_00227",
+    "image": "images/test_00227.png",
+    "conversations": [
+      {
+        "from": "human",
+        "value": "<image>\nThe background is yellow. What is the color of the character 'R'?"
+      },
+      {
+        "from": "gpt",
+        "value": "The character 'R' is green."
+      }
+    ]
+  },
+  {
+    "id": "test_00228",
+    "image": "images/test_00228.png",
+    "conversations": [
+      {
+        "from": "human",
+        "value": "<image>\nDescribe the colors of the object and the background."
+      },
+      {
+        "from": "gpt",
+        "value": "Object: cyan. Background: pink."
+      }
+    ]
+  },
+  {
+    "id": "test_00229",
+    "image": "images/test_00229.png",
+    "conversations": [
+      {
+        "from": "human",
+        "value": "<image>\nIdentify the background color behind the black character 'A'."
+      },
+      {
+        "from": "gpt",
+        "value": "The background is red."
+      }
+    ]
+  },
+  {
+    "id": "test_00230",
+    "image": "images/test_00230.png",
+    "conversations": [
+      {
+        "from": "human",
+        "value": "<image>\nThe background is maroon. What is the color of the character '3'?"
+      },
+      {
+        "from": "gpt",
+        "value": "The character '3' is teal."
+      }
+    ]
+  },
+  {
+    "id": "test_00231",
+    "image": "images/test_00231.png",
+    "conversations": [
+      {
+        "from": "human",
+        "value": "<image>\nThere is a brown character 'I'. What is the color of the background?"
+      },
+      {
+        "from": "gpt",
+        "value": "The background is olive."
+      }
+    ]
+  },
+  {
+    "id": "test_00232",
+    "image": "images/test_00232.png",
+    "conversations": [
+      {
+        "from": "human",
+        "value": "<image>\nWhat are the colors of the character '5' and the background?"
+      },
+      {
+        "from": "gpt",
+        "value": "Object: purple. Background: maroon."
+      }
+    ]
+  },
+  {
+    "id": "test_00233",
+    "image": "images/test_00233.png",
+    "conversations": [
+      {
+        "from": "human",
+        "value": "<image>\nDescribe the colors of the object and the background."
+      },
+      {
+        "from": "gpt",
+        "value": "Object: teal. Background: blue."
+      }
+    ]
+  },
+  {
+    "id": "test_00234",
+    "image": "images/test_00234.png",
+    "conversations": [
+      {
+        "from": "human",
+        "value": "<image>\nThe background is olive. What is the color of the character '8'?"
+      },
+      {
+        "from": "gpt",
+        "value": "The character '8' is teal."
+      }
+    ]
+  },
+  {
+    "id": "test_00235",
+    "image": "images/test_00235.png",
+    "conversations": [
+      {
+        "from": "human",
+        "value": "<image>\nIdentify the background color behind the olive character 'N'."
+      },
+      {
+        "from": "gpt",
+        "value": "The background is pink."
+      }
+    ]
+  },
+  {
+    "id": "test_00236",
+    "image": "images/test_00236.png",
+    "conversations": [
+      {
+        "from": "human",
+        "value": "<image>\nWhat are the colors of the character '9' and the background?"
+      },
+      {
+        "from": "gpt",
+        "value": "Object: blue. Background: teal."
+      }
+    ]
+  },
+  {
+    "id": "test_00237",
+    "image": "images/test_00237.png",
+    "conversations": [
+      {
+        "from": "human",
+        "value": "<image>\nSeeing that the background is blue, what color is the character 'H'?"
+      },
+      {
+        "from": "gpt",
+        "value": "The character 'H' is cyan."
+      }
+    ]
+  },
+  {
+    "id": "test_00238",
+    "image": "images/test_00238.png",
+    "conversations": [
+      {
+        "from": "human",
+        "value": "<image>\nWhat are the colors of the character 'N' and the background?"
+      },
+      {
+        "from": "gpt",
+        "value": "Object: yellow. Background: purple."
+      }
+    ]
+  },
+  {
+    "id": "test_00239",
+    "image": "images/test_00239.png",
+    "conversations": [
+      {
+        "from": "human",
+        "value": "<image>\nIdentify the background color behind the maroon character 'I'."
+      },
+      {
+        "from": "gpt",
+        "value": "The background is red."
+      }
+    ]
+  }
+]

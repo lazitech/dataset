@@ -1,0 +1,5816 @@
+[
+  {
+    "id": "test_chart_00000",
+    "image": "test_chart_00000.png",
+    "conversations": [
+      {
+        "from": "human",
+        "value": "<image>\nAnalyze the scatter plot. Identify the value and color of each point associated with the letters, then sort the letters based on their values from highest to lowest."
+      },
+      {
+        "from": "gpt",
+        "value": "The sorted order is: A, D, C, L, K, X."
+      }
+    ],
+    "ground_truth_list": [
+      "A",
+      "D",
+      "C",
+      "L",
+      "K",
+      "X"
+    ],
+    "ground_truth_values": [
+      82,
+      65,
+      56,
+      38,
+      30,
+      29
+    ]
+  },
+  {
+    "id": "test_chart_00001",
+    "image": "test_chart_00001.png",
+    "conversations": [
+      {
+        "from": "human",
+        "value": "<image>\nAnalyze the scatter plot. Identify the value and color of each point associated with the letters, then sort the letters based on their values from highest to lowest."
+      },
+      {
+        "from": "gpt",
+        "value": "The sorted order is: X, D, S, R, J, U, N, B."
+      }
+    ],
+    "ground_truth_list": [
+      "X",
+      "D",
+      "S",
+      "R",
+      "J",
+      "U",
+      "N",
+      "B"
+    ],
+    "ground_truth_values": [
+      69,
+      68,
+      67,
+      58,
+      55,
+      53,
+      52,
+      51
+    ]
+  },
+  {
+    "id": "test_chart_00002",
+    "image": "test_chart_00002.png",
+    "conversations": [
+      {
+        "from": "human",
+        "value": "<image>\nAnalyze the scatter plot. Identify the value and color of each point associated with the letters, then sort the letters based on their values from highest to lowest."
+      },
+      {
+        "from": "gpt",
+        "value": "The sorted order is: Z, Q, G, X, N, J, H, E."
+      }
+    ],
+    "ground_truth_list": [
+      "Z",
+      "Q",
+      "G",
+      "X",
+      "N",
+      "J",
+      "H",
+      "E"
+    ],
+    "ground_truth_values": [
+      52,
+      48,
+      47,
+      45,
+      38,
+      37,
+      36,
+      35
+    ]
+  },
+  {
+    "id": "test_chart_00003",
+    "image": "test_chart_00003.png",
+    "conversations": [
+      {
+        "from": "human",
+        "value": "<image>\nAnalyze the scatter plot. Identify the value and color of each point associated with the letters, then sort the letters based on their values from highest to lowest."
+      },
+      {
+        "from": "gpt",
+        "value": "The sorted order is: U, V, S, W."
+      }
+    ],
+    "ground_truth_list": [
+      "U",
+      "V",
+      "S",
+      "W"
+    ],
+    "ground_truth_values": [
+      89,
+      55,
+      41,
+      32
+    ]
+  },
+  {
+    "id": "test_chart_00004",
+    "image": "test_chart_00004.png",
+    "conversations": [
+      {
+        "from": "human",
+        "value": "<image>\nAnalyze the scatter plot. Identify the value and color of each point associated with the letters, then sort the letters based on their values from highest to lowest."
+      },
+      {
+        "from": "gpt",
+        "value": "The sorted order is: F, N, E, L, Y, S, D."
+      }
+    ],
+    "ground_truth_list": [
+      "F",
+      "N",
+      "E",
+      "L",
+      "Y",
+      "S",
+      "D"
+    ],
+    "ground_truth_values": [
+      70,
+      67,
+      66,
+      65,
+      60,
+      55,
+      54
+    ]
+  },
+  {
+    "id": "test_chart_00005",
+    "image": "test_chart_00005.png",
+    "conversations": [
+      {
+        "from": "human",
+        "value": "<image>\nAnalyze the scatter plot. Identify the value and color of each point associated with the letters, then sort the letters based on their values from highest to lowest."
+      },
+      {
+        "from": "gpt",
+        "value": "The sorted order is: Z, M, A, R, D, T, C."
+      }
+    ],
+    "ground_truth_list": [
+      "Z",
+      "M",
+      "A",
+      "R",
+      "D",
+      "T",
+      "C"
+    ],
+    "ground_truth_values": [
+      75,
+      71,
+      69,
+      67,
+      66,
+      63,
+      62
+    ]
+  },
+  {
+    "id": "test_chart_00006",
+    "image": "test_chart_00006.png",
+    "conversations": [
+      {
+        "from": "human",
+        "value": "<image>\nAnalyze the scatter plot. Identify the value and color of each point associated with the letters, then sort the letters based on their values from highest to lowest."
+      },
+      {
+        "from": "gpt",
+        "value": "The sorted order is: R, C, N, E, P, M, V, G."
+      }
+    ],
+    "ground_truth_list": [
+      "R",
+      "C",
+      "N",
+      "E",
+      "P",
+      "M",
+      "V",
+      "G"
+    ],
+    "ground_truth_values": [
+      95,
+      94,
+      87,
+      79,
+      64,
+      53,
+      44,
+      15
+    ]
+  },
+  {
+    "id": "test_chart_00007",
+    "image": "test_chart_00007.png",
+    "conversations": [
+      {
+        "from": "human",
+        "value": "<image>\nAnalyze the scatter plot. Identify the value and color of each point associated with the letters, then sort the letters based on their values from highest to lowest."
+      },
+      {
+        "from": "gpt",
+        "value": "The sorted order is: X, W, H, P, T, Z."
+      }
+    ],
+    "ground_truth_list": [
+      "X",
+      "W",
+      "H",
+      "P",
+      "T",
+      "Z"
+    ],
+    "ground_truth_values": [
+      47,
+      46,
+      38,
+      35,
+      34,
+      28
+    ]
+  },
+  {
+    "id": "test_chart_00008",
+    "image": "test_chart_00008.png",
+    "conversations": [
+      {
+        "from": "human",
+        "value": "<image>\nAnalyze the scatter plot. Identify the value and color of each point associated with the letters, then sort the letters based on their values from highest to lowest."
+      },
+      {
+        "from": "gpt",
+        "value": "The sorted order is: J, T, Q, W."
+      }
+    ],
+    "ground_truth_list": [
+      "J",
+      "T",
+      "Q",
+      "W"
+    ],
+    "ground_truth_values": [
+      94,
+      88,
+      77,
+      40
+    ]
+  },
+  {
+    "id": "test_chart_00009",
+    "image": "test_chart_00009.png",
+    "conversations": [
+      {
+        "from": "human",
+        "value": "<image>\nAnalyze the scatter plot. Identify the value and color of each point associated with the letters, then sort the letters based on their values from highest to lowest."
+      },
+      {
+        "from": "gpt",
+        "value": "The sorted order is: K, D, A, H, F."
+      }
+    ],
+    "ground_truth_list": [
+      "K",
+      "D",
+      "A",
+      "H",
+      "F"
+    ],
+    "ground_truth_values": [
+      66,
+      63,
+      58,
+      54,
+      48
+    ]
+  },
+  {
+    "id": "test_chart_00010",
+    "image": "test_chart_00010.png",
+    "conversations": [
+      {
+        "from": "human",
+        "value": "<image>\nAnalyze the scatter plot. Identify the value and color of each point associated with the letters, then sort the letters based on their values from highest to lowest."
+      },
+      {
+        "from": "gpt",
+        "value": "The sorted order is: K, F, L, B, J."
+      }
+    ],
+    "ground_truth_list": [
+      "K",
+      "F",
+      "L",
+      "B",
+      "J"
+    ],
+    "ground_truth_values": [
+      53,
+      51,
+      47,
+      42,
+      37
+    ]
+  },
+  {
+    "id": "test_chart_00011",
+    "image": "test_chart_00011.png",
+    "conversations": [
+      {
+        "from": "human",
+        "value": "<image>\nAnalyze the scatter plot. Identify the value and color of each point associated with the letters, then sort the letters based on their values from highest to lowest."
+      },
+      {
+        "from": "gpt",
+        "value": "The sorted order is: Y, G, M, L, C, A, F, E."
+      }
+    ],
+    "ground_truth_list": [
+      "Y",
+      "G",
+      "M",
+      "L",
+      "C",
+      "A",
+      "F",
+      "E"
+    ],
+    "ground_truth_values": [
+      97,
+      86,
+      59,
+      56,
+      53,
+      37,
+      25,
+      12
+    ]
+  },
+  {
+    "id": "test_chart_00012",
+    "image": "test_chart_00012.png",
+    "conversations": [
+      {
+        "from": "human",
+        "value": "<image>\nAnalyze the scatter plot. Identify the value and color of each point associated with the letters, then sort the letters based on their values from highest to lowest."
+      },
+      {
+        "from": "gpt",
+        "value": "The sorted order is: C, L, W, K, P, D, A, M."
+      }
+    ],
+    "ground_truth_list": [
+      "C",
+      "L",
+      "W",
+      "K",
+      "P",
+      "D",
+      "A",
+      "M"
+    ],
+    "ground_truth_values": [
+      69,
+      64,
+      63,
+      60,
+      59,
+      58,
+      56,
+      53
+    ]
+  },
+  {
+    "id": "test_chart_00013",
+    "image": "test_chart_00013.png",
+    "conversations": [
+      {
+        "from": "human",
+        "value": "<image>\nAnalyze the scatter plot. Identify the value and color of each point associated with the letters, then sort the letters based on their values from highest to lowest."
+      },
+      {
+        "from": "gpt",
+        "value": "The sorted order is: V, X, E, H, W, T, J, K."
+      }
+    ],
+    "ground_truth_list": [
+      "V",
+      "X",
+      "E",
+      "H",
+      "W",
+      "T",
+      "J",
+      "K"
+    ],
+    "ground_truth_values": [
+      89,
+      42,
+      30,
+      24,
+      23,
+      16,
+      12,
+      11
+    ]
+  },
+  {
+    "id": "test_chart_00014",
+    "image": "test_chart_00014.png",
+    "conversations": [
+      {
+        "from": "human",
+        "value": "<image>\nAnalyze the scatter plot. Identify the value and color of each point associated with the letters, then sort the letters based on their values from highest to lowest."
+      },
+      {
+        "from": "gpt",
+        "value": "The sorted order is: Z, K, M, P, L, U."
+      }
+    ],
+    "ground_truth_list": [
+      "Z",
+      "K",
+      "M",
+      "P",
+      "L",
+      "U"
+    ],
+    "ground_truth_values": [
+      98,
+      87,
+      85,
+      60,
+      59,
+      12
+    ]
+  },
+  {
+    "id": "test_chart_00015",
+    "image": "test_chart_00015.png",
+    "conversations": [
+      {
+        "from": "human",
+        "value": "<image>\nAnalyze the scatter plot. Identify the value and color of each point associated with the letters, then sort the letters based on their values from highest to lowest."
+      },
+      {
+        "from": "gpt",
+        "value": "The sorted order is: D, L, R, C, Q, G, U."
+      }
+    ],
+    "ground_truth_list": [
+      "D",
+      "L",
+      "R",
+      "C",
+      "Q",
+      "G",
+      "U"
+    ],
+    "ground_truth_values": [
+      94,
+      92,
+      54,
+      38,
+      37,
+      30,
+      23
+    ]
+  },
+  {
+    "id": "test_chart_00016",
+    "image": "test_chart_00016.png",
+    "conversations": [
+      {
+        "from": "human",
+        "value": "<image>\nAnalyze the scatter plot. Identify the value and color of each point associated with the letters, then sort the letters based on their values from highest to lowest."
+      },
+      {
+        "from": "gpt",
+        "value": "The sorted order is: E, K, D, L, G."
+      }
+    ],
+    "ground_truth_list": [
+      "E",
+      "K",
+      "D",
+      "L",
+      "G"
+    ],
+    "ground_truth_values": [
+      92,
+      71,
+      66,
+      56,
+      16
+    ]
+  },
+  {
+    "id": "test_chart_00017",
+    "image": "test_chart_00017.png",
+    "conversations": [
+      {
+        "from": "human",
+        "value": "<image>\nAnalyze the scatter plot. Identify the value and color of each point associated with the letters, then sort the letters based on their values from highest to lowest."
+      },
+      {
+        "from": "gpt",
+        "value": "The sorted order is: Z, G, Y, N, M, V."
+      }
+    ],
+    "ground_truth_list": [
+      "Z",
+      "G",
+      "Y",
+      "N",
+      "M",
+      "V"
+    ],
+    "ground_truth_values": [
+      99,
+      90,
+      70,
+      65,
+      42,
+      30
+    ]
+  },
+  {
+    "id": "test_chart_00018",
+    "image": "test_chart_00018.png",
+    "conversations": [
+      {
+        "from": "human",
+        "value": "<image>\nAnalyze the scatter plot. Identify the value and color of each point associated with the letters, then sort the letters based on their values from highest to lowest."
+      },
+      {
+        "from": "gpt",
+        "value": "The sorted order is: D, K, A, X, W, C, H, F."
+      }
+    ],
+    "ground_truth_list": [
+      "D",
+      "K",
+      "A",
+      "X",
+      "W",
+      "C",
+      "H",
+      "F"
+    ],
+    "ground_truth_values": [
+      43,
+      41,
+      33,
+      30,
+      28,
+      27,
+      26,
+      25
+    ]
+  },
+  {
+    "id": "test_chart_00019",
+    "image": "test_chart_00019.png",
+    "conversations": [
+      {
+        "from": "human",
+        "value": "<image>\nAnalyze the scatter plot. Identify the value and color of each point associated with the letters, then sort the letters based on their values from highest to lowest."
+      },
+      {
+        "from": "gpt",
+        "value": "The sorted order is: K, T, J, X, U, W, B, Y."
+      }
+    ],
+    "ground_truth_list": [
+      "K",
+      "T",
+      "J",
+      "X",
+      "U",
+      "W",
+      "B",
+      "Y"
+    ],
+    "ground_truth_values": [
+      65,
+      64,
+      62,
+      57,
+      55,
+      53,
+      50,
+      49
+    ]
+  },
+  {
+    "id": "test_chart_00020",
+    "image": "test_chart_00020.png",
+    "conversations": [
+      {
+        "from": "human",
+        "value": "<image>\nAnalyze the scatter plot. Identify the value and color of each point associated with the letters, then sort the letters based on their values from highest to lowest."
+      },
+      {
+        "from": "gpt",
+        "value": "The sorted order is: L, R, P."
+      }
+    ],
+    "ground_truth_list": [
+      "L",
+      "R",
+      "P"
+    ],
+    "ground_truth_values": [
+      38,
+      36,
+      35
+    ]
+  },
+  {
+    "id": "test_chart_00021",
+    "image": "test_chart_00021.png",
+    "conversations": [
+      {
+        "from": "human",
+        "value": "<image>\nAnalyze the scatter plot. Identify the value and color of each point associated with the letters, then sort the letters based on their values from highest to lowest."
+      },
+      {
+        "from": "gpt",
+        "value": "The sorted order is: B, X, G, U, R, P."
+      }
+    ],
+    "ground_truth_list": [
+      "B",
+      "X",
+      "G",
+      "U",
+      "R",
+      "P"
+    ],
+    "ground_truth_values": [
+      80,
+      75,
+      62,
+      23,
+      20,
+      10
+    ]
+  },
+  {
+    "id": "test_chart_00022",
+    "image": "test_chart_00022.png",
+    "conversations": [
+      {
+        "from": "human",
+        "value": "<image>\nAnalyze the scatter plot. Identify the value and color of each point associated with the letters, then sort the letters based on their values from highest to lowest."
+      },
+      {
+        "from": "gpt",
+        "value": "The sorted order is: C, G, H, A, L, W, V, S."
+      }
+    ],
+    "ground_truth_list": [
+      "C",
+      "G",
+      "H",
+      "A",
+      "L",
+      "W",
+      "V",
+      "S"
+    ],
+    "ground_truth_values": [
+      68,
+      67,
+      65,
+      64,
+      62,
+      61,
+      58,
+      51
+    ]
+  },
+  {
+    "id": "test_chart_00023",
+    "image": "test_chart_00023.png",
+    "conversations": [
+      {
+        "from": "human",
+        "value": "<image>\nAnalyze the scatter plot. Identify the value and color of each point associated with the letters, then sort the letters based on their values from highest to lowest."
+      },
+      {
+        "from": "gpt",
+        "value": "The sorted order is: Z, K, P, C, H."
+      }
+    ],
+    "ground_truth_list": [
+      "Z",
+      "K",
+      "P",
+      "C",
+      "H"
+    ],
+    "ground_truth_values": [
+      99,
+      55,
+      26,
+      22,
+      13
+    ]
+  },
+  {
+    "id": "test_chart_00024",
+    "image": "test_chart_00024.png",
+    "conversations": [
+      {
+        "from": "human",
+        "value": "<image>\nAnalyze the scatter plot. Identify the value and color of each point associated with the letters, then sort the letters based on their values from highest to lowest."
+      },
+      {
+        "from": "gpt",
+        "value": "The sorted order is: E, J, M, B, A."
+      }
+    ],
+    "ground_truth_list": [
+      "E",
+      "J",
+      "M",
+      "B",
+      "A"
+    ],
+    "ground_truth_values": [
+      72,
+      67,
+      39,
+      21,
+      14
+    ]
+  },
+  {
+    "id": "test_chart_00025",
+    "image": "test_chart_00025.png",
+    "conversations": [
+      {
+        "from": "human",
+        "value": "<image>\nAnalyze the scatter plot. Identify the value and color of each point associated with the letters, then sort the letters based on their values from highest to lowest."
+      },
+      {
+        "from": "gpt",
+        "value": "The sorted order is: R, B, M, E, C, W, L."
+      }
+    ],
+    "ground_truth_list": [
+      "R",
+      "B",
+      "M",
+      "E",
+      "C",
+      "W",
+      "L"
+    ],
+    "ground_truth_values": [
+      61,
+      55,
+      54,
+      51,
+      49,
+      45,
+      44
+    ]
+  },
+  {
+    "id": "test_chart_00026",
+    "image": "test_chart_00026.png",
+    "conversations": [
+      {
+        "from": "human",
+        "value": "<image>\nAnalyze the scatter plot. Identify the value and color of each point associated with the letters, then sort the letters based on their values from highest to lowest."
+      },
+      {
+        "from": "gpt",
+        "value": "The sorted order is: Y, T, C, F, B, D, P."
+      }
+    ],
+    "ground_truth_list": [
+      "Y",
+      "T",
+      "C",
+      "F",
+      "B",
+      "D",
+      "P"
+    ],
+    "ground_truth_values": [
+      95,
+      86,
+      85,
+      59,
+      46,
+      35,
+      27
+    ]
+  },
+  {
+    "id": "test_chart_00027",
+    "image": "test_chart_00027.png",
+    "conversations": [
+      {
+        "from": "human",
+        "value": "<image>\nAnalyze the scatter plot. Identify the value and color of each point associated with the letters, then sort the letters based on their values from highest to lowest."
+      },
+      {
+        "from": "gpt",
+        "value": "The sorted order is: M, R, C."
+      }
+    ],
+    "ground_truth_list": [
+      "M",
+      "R",
+      "C"
+    ],
+    "ground_truth_values": [
+      77,
+      68,
+      64
+    ]
+  },
+  {
+    "id": "test_chart_00028",
+    "image": "test_chart_00028.png",
+    "conversations": [
+      {
+        "from": "human",
+        "value": "<image>\nAnalyze the scatter plot. Identify the value and color of each point associated with the letters, then sort the letters based on their values from highest to lowest."
+      },
+      {
+        "from": "gpt",
+        "value": "The sorted order is: K, S, Z, L, B, G, H."
+      }
+    ],
+    "ground_truth_list": [
+      "K",
+      "S",
+      "Z",
+      "L",
+      "B",
+      "G",
+      "H"
+    ],
+    "ground_truth_values": [
+      52,
+      48,
+      43,
+      40,
+      38,
+      37,
+      35
+    ]
+  },
+  {
+    "id": "test_chart_00029",
+    "image": "test_chart_00029.png",
+    "conversations": [
+      {
+        "from": "human",
+        "value": "<image>\nAnalyze the scatter plot. Identify the value and color of each point associated with the letters, then sort the letters based on their values from highest to lowest."
+      },
+      {
+        "from": "gpt",
+        "value": "The sorted order is: F, Q, K, V, L, H."
+      }
+    ],
+    "ground_truth_list": [
+      "F",
+      "Q",
+      "K",
+      "V",
+      "L",
+      "H"
+    ],
+    "ground_truth_values": [
+      80,
+      69,
+      56,
+      52,
+      39,
+      37
+    ]
+  },
+  {
+    "id": "test_chart_00030",
+    "image": "test_chart_00030.png",
+    "conversations": [
+      {
+        "from": "human",
+        "value": "<image>\nAnalyze the scatter plot. Identify the value and color of each point associated with the letters, then sort the letters based on their values from highest to lowest."
+      },
+      {
+        "from": "gpt",
+        "value": "The sorted order is: Y, T, P, M."
+      }
+    ],
+    "ground_truth_list": [
+      "Y",
+      "T",
+      "P",
+      "M"
+    ],
+    "ground_truth_values": [
+      96,
+      88,
+      31,
+      10
+    ]
+  },
+  {
+    "id": "test_chart_00031",
+    "image": "test_chart_00031.png",
+    "conversations": [
+      {
+        "from": "human",
+        "value": "<image>\nAnalyze the scatter plot. Identify the value and color of each point associated with the letters, then sort the letters based on their values from highest to lowest."
+      },
+      {
+        "from": "gpt",
+        "value": "The sorted order is: U, V, H, M."
+      }
+    ],
+    "ground_truth_list": [
+      "U",
+      "V",
+      "H",
+      "M"
+    ],
+    "ground_truth_values": [
+      84,
+      27,
+      24,
+      16
+    ]
+  },
+  {
+    "id": "test_chart_00032",
+    "image": "test_chart_00032.png",
+    "conversations": [
+      {
+        "from": "human",
+        "value": "<image>\nAnalyze the scatter plot. Identify the value and color of each point associated with the letters, then sort the letters based on their values from highest to lowest."
+      },
+      {
+        "from": "gpt",
+        "value": "The sorted order is: V, W, P, D, L, H, N, A."
+      }
+    ],
+    "ground_truth_list": [
+      "V",
+      "W",
+      "P",
+      "D",
+      "L",
+      "H",
+      "N",
+      "A"
+    ],
+    "ground_truth_values": [
+      95,
+      93,
+      91,
+      73,
+      58,
+      43,
+      33,
+      24
+    ]
+  },
+  {
+    "id": "test_chart_00033",
+    "image": "test_chart_00033.png",
+    "conversations": [
+      {
+        "from": "human",
+        "value": "<image>\nAnalyze the scatter plot. Identify the value and color of each point associated with the letters, then sort the letters based on their values from highest to lowest."
+      },
+      {
+        "from": "gpt",
+        "value": "The sorted order is: W, V, N, P, A, X, G, C."
+      }
+    ],
+    "ground_truth_list": [
+      "W",
+      "V",
+      "N",
+      "P",
+      "A",
+      "X",
+      "G",
+      "C"
+    ],
+    "ground_truth_values": [
+      89,
+      81,
+      62,
+      49,
+      47,
+      33,
+      26,
+      12
+    ]
+  },
+  {
+    "id": "test_chart_00034",
+    "image": "test_chart_00034.png",
+    "conversations": [
+      {
+        "from": "human",
+        "value": "<image>\nAnalyze the scatter plot. Identify the value and color of each point associated with the letters, then sort the letters based on their values from highest to lowest."
+      },
+      {
+        "from": "gpt",
+        "value": "The sorted order is: A, B, Q, V, P, K, H, E."
+      }
+    ],
+    "ground_truth_list": [
+      "A",
+      "B",
+      "Q",
+      "V",
+      "P",
+      "K",
+      "H",
+      "E"
+    ],
+    "ground_truth_values": [
+      94,
+      90,
+      83,
+      43,
+      37,
+      30,
+      27,
+      16
+    ]
+  },
+  {
+    "id": "test_chart_00035",
+    "image": "test_chart_00035.png",
+    "conversations": [
+      {
+        "from": "human",
+        "value": "<image>\nAnalyze the scatter plot. Identify the value and color of each point associated with the letters, then sort the letters based on their values from highest to lowest."
+      },
+      {
+        "from": "gpt",
+        "value": "The sorted order is: G, T, F, L, Y, K, E."
+      }
+    ],
+    "ground_truth_list": [
+      "G",
+      "T",
+      "F",
+      "L",
+      "Y",
+      "K",
+      "E"
+    ],
+    "ground_truth_values": [
+      47,
+      44,
+      42,
+      41,
+      38,
+      35,
+      28
+    ]
+  },
+  {
+    "id": "test_chart_00036",
+    "image": "test_chart_00036.png",
+    "conversations": [
+      {
+        "from": "human",
+        "value": "<image>\nAnalyze the scatter plot. Identify the value and color of each point associated with the letters, then sort the letters based on their values from highest to lowest."
+      },
+      {
+        "from": "gpt",
+        "value": "The sorted order is: T, E, Z, Y, H, F."
+      }
+    ],
+    "ground_truth_list": [
+      "T",
+      "E",
+      "Z",
+      "Y",
+      "H",
+      "F"
+    ],
+    "ground_truth_values": [
+      49,
+      48,
+      44,
+      42,
+      37,
+      34
+    ]
+  },
+  {
+    "id": "test_chart_00037",
+    "image": "test_chart_00037.png",
+    "conversations": [
+      {
+        "from": "human",
+        "value": "<image>\nAnalyze the scatter plot. Identify the value and color of each point associated with the letters, then sort the letters based on their values from highest to lowest."
+      },
+      {
+        "from": "gpt",
+        "value": "The sorted order is: Z, U, N."
+      }
+    ],
+    "ground_truth_list": [
+      "Z",
+      "U",
+      "N"
+    ],
+    "ground_truth_values": [
+      54,
+      53,
+      52
+    ]
+  },
+  {
+    "id": "test_chart_00038",
+    "image": "test_chart_00038.png",
+    "conversations": [
+      {
+        "from": "human",
+        "value": "<image>\nAnalyze the scatter plot. Identify the value and color of each point associated with the letters, then sort the letters based on their values from highest to lowest."
+      },
+      {
+        "from": "gpt",
+        "value": "The sorted order is: M, B, K, A, Y, Q, V."
+      }
+    ],
+    "ground_truth_list": [
+      "M",
+      "B",
+      "K",
+      "A",
+      "Y",
+      "Q",
+      "V"
+    ],
+    "ground_truth_values": [
+      56,
+      54,
+      50,
+      49,
+      47,
+      46,
+      42
+    ]
+  },
+  {
+    "id": "test_chart_00039",
+    "image": "test_chart_00039.png",
+    "conversations": [
+      {
+        "from": "human",
+        "value": "<image>\nAnalyze the scatter plot. Identify the value and color of each point associated with the letters, then sort the letters based on their values from highest to lowest."
+      },
+      {
+        "from": "gpt",
+        "value": "The sorted order is: Y, X, A, C, Z, V, M, Q."
+      }
+    ],
+    "ground_truth_list": [
+      "Y",
+      "X",
+      "A",
+      "C",
+      "Z",
+      "V",
+      "M",
+      "Q"
+    ],
+    "ground_truth_values": [
+      78,
+      72,
+      59,
+      43,
+      35,
+      34,
+      33,
+      15
+    ]
+  },
+  {
+    "id": "test_chart_00040",
+    "image": "test_chart_00040.png",
+    "conversations": [
+      {
+        "from": "human",
+        "value": "<image>\nAnalyze the scatter plot. Identify the value and color of each point associated with the letters, then sort the letters based on their values from highest to lowest."
+      },
+      {
+        "from": "gpt",
+        "value": "The sorted order is: L, P, R, W, X, J."
+      }
+    ],
+    "ground_truth_list": [
+      "L",
+      "P",
+      "R",
+      "W",
+      "X",
+      "J"
+    ],
+    "ground_truth_values": [
+      94,
+      83,
+      64,
+      31,
+      18,
+      10
+    ]
+  },
+  {
+    "id": "test_chart_00041",
+    "image": "test_chart_00041.png",
+    "conversations": [
+      {
+        "from": "human",
+        "value": "<image>\nAnalyze the scatter plot. Identify the value and color of each point associated with the letters, then sort the letters based on their values from highest to lowest."
+      },
+      {
+        "from": "gpt",
+        "value": "The sorted order is: U, A, Z, Y."
+      }
+    ],
+    "ground_truth_list": [
+      "U",
+      "A",
+      "Z",
+      "Y"
+    ],
+    "ground_truth_values": [
+      40,
+      38,
+      30,
+      22
+    ]
+  },
+  {
+    "id": "test_chart_00042",
+    "image": "test_chart_00042.png",
+    "conversations": [
+      {
+        "from": "human",
+        "value": "<image>\nAnalyze the scatter plot. Identify the value and color of each point associated with the letters, then sort the letters based on their values from highest to lowest."
+      },
+      {
+        "from": "gpt",
+        "value": "The sorted order is: D, H, B, X, K, Z."
+      }
+    ],
+    "ground_truth_list": [
+      "D",
+      "H",
+      "B",
+      "X",
+      "K",
+      "Z"
+    ],
+    "ground_truth_values": [
+      79,
+      77,
+      75,
+      67,
+      66,
+      65
+    ]
+  },
+  {
+    "id": "test_chart_00043",
+    "image": "test_chart_00043.png",
+    "conversations": [
+      {
+        "from": "human",
+        "value": "<image>\nAnalyze the scatter plot. Identify the value and color of each point associated with the letters, then sort the letters based on their values from highest to lowest."
+      },
+      {
+        "from": "gpt",
+        "value": "The sorted order is: B, J, V, H, L."
+      }
+    ],
+    "ground_truth_list": [
+      "B",
+      "J",
+      "V",
+      "H",
+      "L"
+    ],
+    "ground_truth_values": [
+      91,
+      88,
+      77,
+      65,
+      11
+    ]
+  },
+  {
+    "id": "test_chart_00044",
+    "image": "test_chart_00044.png",
+    "conversations": [
+      {
+        "from": "human",
+        "value": "<image>\nAnalyze the scatter plot. Identify the value and color of each point associated with the letters, then sort the letters based on their values from highest to lowest."
+      },
+      {
+        "from": "gpt",
+        "value": "The sorted order is: F, J, A, R."
+      }
+    ],
+    "ground_truth_list": [
+      "F",
+      "J",
+      "A",
+      "R"
+    ],
+    "ground_truth_values": [
+      75,
+      40,
+      17,
+      15
+    ]
+  },
+  {
+    "id": "test_chart_00045",
+    "image": "test_chart_00045.png",
+    "conversations": [
+      {
+        "from": "human",
+        "value": "<image>\nAnalyze the scatter plot. Identify the value and color of each point associated with the letters, then sort the letters based on their values from highest to lowest."
+      },
+      {
+        "from": "gpt",
+        "value": "The sorted order is: V, F, L, W, J, U."
+      }
+    ],
+    "ground_truth_list": [
+      "V",
+      "F",
+      "L",
+      "W",
+      "J",
+      "U"
+    ],
+    "ground_truth_values": [
+      55,
+      53,
+      51,
+      49,
+      44,
+      36
+    ]
+  },
+  {
+    "id": "test_chart_00046",
+    "image": "test_chart_00046.png",
+    "conversations": [
+      {
+        "from": "human",
+        "value": "<image>\nAnalyze the scatter plot. Identify the value and color of each point associated with the letters, then sort the letters based on their values from highest to lowest."
+      },
+      {
+        "from": "gpt",
+        "value": "The sorted order is: R, F, Z, W, G, C, X, J."
+      }
+    ],
+    "ground_truth_list": [
+      "R",
+      "F",
+      "Z",
+      "W",
+      "G",
+      "C",
+      "X",
+      "J"
+    ],
+    "ground_truth_values": [
+      91,
+      71,
+      53,
+      38,
+      37,
+      29,
+      28,
+      24
+    ]
+  },
+  {
+    "id": "test_chart_00047",
+    "image": "test_chart_00047.png",
+    "conversations": [
+      {
+        "from": "human",
+        "value": "<image>\nAnalyze the scatter plot. Identify the value and color of each point associated with the letters, then sort the letters based on their values from highest to lowest."
+      },
+      {
+        "from": "gpt",
+        "value": "The sorted order is: A, N, Q, S, D, H, M."
+      }
+    ],
+    "ground_truth_list": [
+      "A",
+      "N",
+      "Q",
+      "S",
+      "D",
+      "H",
+      "M"
+    ],
+    "ground_truth_values": [
+      86,
+      69,
+      47,
+      44,
+      40,
+      35,
+      18
+    ]
+  },
+  {
+    "id": "test_chart_00048",
+    "image": "test_chart_00048.png",
+    "conversations": [
+      {
+        "from": "human",
+        "value": "<image>\nAnalyze the scatter plot. Identify the value and color of each point associated with the letters, then sort the letters based on their values from highest to lowest."
+      },
+      {
+        "from": "gpt",
+        "value": "The sorted order is: J, Y, Q, D, X, M."
+      }
+    ],
+    "ground_truth_list": [
+      "J",
+      "Y",
+      "Q",
+      "D",
+      "X",
+      "M"
+    ],
+    "ground_truth_values": [
+      67,
+      59,
+      55,
+      54,
+      51,
+      48
+    ]
+  },
+  {
+    "id": "test_chart_00049",
+    "image": "test_chart_00049.png",
+    "conversations": [
+      {
+        "from": "human",
+        "value": "<image>\nAnalyze the scatter plot. Identify the value and color of each point associated with the letters, then sort the letters based on their values from highest to lowest."
+      },
+      {
+        "from": "gpt",
+        "value": "The sorted order is: X, R, L, H, G, M, C."
+      }
+    ],
+    "ground_truth_list": [
+      "X",
+      "R",
+      "L",
+      "H",
+      "G",
+      "M",
+      "C"
+    ],
+    "ground_truth_values": [
+      46,
+      45,
+      40,
+      39,
+      37,
+      33,
+      27
+    ]
+  },
+  {
+    "id": "test_chart_00050",
+    "image": "test_chart_00050.png",
+    "conversations": [
+      {
+        "from": "human",
+        "value": "<image>\nAnalyze the scatter plot. Identify the value and color of each point associated with the letters, then sort the letters based on their values from highest to lowest."
+      },
+      {
+        "from": "gpt",
+        "value": "The sorted order is: Z, H, B."
+      }
+    ],
+    "ground_truth_list": [
+      "Z",
+      "H",
+      "B"
+    ],
+    "ground_truth_values": [
+      94,
+      31,
+      16
+    ]
+  },
+  {
+    "id": "test_chart_00051",
+    "image": "test_chart_00051.png",
+    "conversations": [
+      {
+        "from": "human",
+        "value": "<image>\nAnalyze the scatter plot. Identify the value and color of each point associated with the letters, then sort the letters based on their values from highest to lowest."
+      },
+      {
+        "from": "gpt",
+        "value": "The sorted order is: R, V, E, W, F, S, Y."
+      }
+    ],
+    "ground_truth_list": [
+      "R",
+      "V",
+      "E",
+      "W",
+      "F",
+      "S",
+      "Y"
+    ],
+    "ground_truth_values": [
+      99,
+      92,
+      86,
+      47,
+      44,
+      41,
+      25
+    ]
+  },
+  {
+    "id": "test_chart_00052",
+    "image": "test_chart_00052.png",
+    "conversations": [
+      {
+        "from": "human",
+        "value": "<image>\nAnalyze the scatter plot. Identify the value and color of each point associated with the letters, then sort the letters based on their values from highest to lowest."
+      },
+      {
+        "from": "gpt",
+        "value": "The sorted order is: B, G, C, Y."
+      }
+    ],
+    "ground_truth_list": [
+      "B",
+      "G",
+      "C",
+      "Y"
+    ],
+    "ground_truth_values": [
+      73,
+      68,
+      25,
+      21
+    ]
+  },
+  {
+    "id": "test_chart_00053",
+    "image": "test_chart_00053.png",
+    "conversations": [
+      {
+        "from": "human",
+        "value": "<image>\nAnalyze the scatter plot. Identify the value and color of each point associated with the letters, then sort the letters based on their values from highest to lowest."
+      },
+      {
+        "from": "gpt",
+        "value": "The sorted order is: L, H, Y, Q, V, X."
+      }
+    ],
+    "ground_truth_list": [
+      "L",
+      "H",
+      "Y",
+      "Q",
+      "V",
+      "X"
+    ],
+    "ground_truth_values": [
+      37,
+      35,
+      30,
+      26,
+      25,
+      24
+    ]
+  },
+  {
+    "id": "test_chart_00054",
+    "image": "test_chart_00054.png",
+    "conversations": [
+      {
+        "from": "human",
+        "value": "<image>\nAnalyze the scatter plot. Identify the value and color of each point associated with the letters, then sort the letters based on their values from highest to lowest."
+      },
+      {
+        "from": "gpt",
+        "value": "The sorted order is: P, X, K, S, R, J."
+      }
+    ],
+    "ground_truth_list": [
+      "P",
+      "X",
+      "K",
+      "S",
+      "R",
+      "J"
+    ],
+    "ground_truth_values": [
+      67,
+      61,
+      60,
+      59,
+      56,
+      53
+    ]
+  },
+  {
+    "id": "test_chart_00055",
+    "image": "test_chart_00055.png",
+    "conversations": [
+      {
+        "from": "human",
+        "value": "<image>\nAnalyze the scatter plot. Identify the value and color of each point associated with the letters, then sort the letters based on their values from highest to lowest."
+      },
+      {
+        "from": "gpt",
+        "value": "The sorted order is: C, R, P, G, U, H."
+      }
+    ],
+    "ground_truth_list": [
+      "C",
+      "R",
+      "P",
+      "G",
+      "U",
+      "H"
+    ],
+    "ground_truth_values": [
+      92,
+      82,
+      75,
+      62,
+      43,
+      24
+    ]
+  },
+  {
+    "id": "test_chart_00056",
+    "image": "test_chart_00056.png",
+    "conversations": [
+      {
+        "from": "human",
+        "value": "<image>\nAnalyze the scatter plot. Identify the value and color of each point associated with the letters, then sort the letters based on their values from highest to lowest."
+      },
+      {
+        "from": "gpt",
+        "value": "The sorted order is: Z, N, X, R, T, G."
+      }
+    ],
+    "ground_truth_list": [
+      "Z",
+      "N",
+      "X",
+      "R",
+      "T",
+      "G"
+    ],
+    "ground_truth_values": [
+      74,
+      73,
+      72,
+      67,
+      66,
+      60
+    ]
+  },
+  {
+    "id": "test_chart_00057",
+    "image": "test_chart_00057.png",
+    "conversations": [
+      {
+        "from": "human",
+        "value": "<image>\nAnalyze the scatter plot. Identify the value and color of each point associated with the letters, then sort the letters based on their values from highest to lowest."
+      },
+      {
+        "from": "gpt",
+        "value": "The sorted order is: Z, C, J, X."
+      }
+    ],
+    "ground_truth_list": [
+      "Z",
+      "C",
+      "J",
+      "X"
+    ],
+    "ground_truth_values": [
+      86,
+      67,
+      56,
+      43
+    ]
+  },
+  {
+    "id": "test_chart_00058",
+    "image": "test_chart_00058.png",
+    "conversations": [
+      {
+        "from": "human",
+        "value": "<image>\nAnalyze the scatter plot. Identify the value and color of each point associated with the letters, then sort the letters based on their values from highest to lowest."
+      },
+      {
+        "from": "gpt",
+        "value": "The sorted order is: K, V, Q, A, H, U, S, Z."
+      }
+    ],
+    "ground_truth_list": [
+      "K",
+      "V",
+      "Q",
+      "A",
+      "H",
+      "U",
+      "S",
+      "Z"
+    ],
+    "ground_truth_values": [
+      62,
+      60,
+      56,
+      55,
+      51,
+      49,
+      48,
+      47
+    ]
+  },
+  {
+    "id": "test_chart_00059",
+    "image": "test_chart_00059.png",
+    "conversations": [
+      {
+        "from": "human",
+        "value": "<image>\nAnalyze the scatter plot. Identify the value and color of each point associated with the letters, then sort the letters based on their values from highest to lowest."
+      },
+      {
+        "from": "gpt",
+        "value": "The sorted order is: R, N, T, P, Q."
+      }
+    ],
+    "ground_truth_list": [
+      "R",
+      "N",
+      "T",
+      "P",
+      "Q"
+    ],
+    "ground_truth_values": [
+      71,
+      66,
+      64,
+      57,
+      56
+    ]
+  },
+  {
+    "id": "test_chart_00060",
+    "image": "test_chart_00060.png",
+    "conversations": [
+      {
+        "from": "human",
+        "value": "<image>\nAnalyze the scatter plot. Identify the value and color of each point associated with the letters, then sort the letters based on their values from highest to lowest."
+      },
+      {
+        "from": "gpt",
+        "value": "The sorted order is: R, W, S, Y, E, U."
+      }
+    ],
+    "ground_truth_list": [
+      "R",
+      "W",
+      "S",
+      "Y",
+      "E",
+      "U"
+    ],
+    "ground_truth_values": [
+      99,
+      89,
+      84,
+      65,
+      52,
+      16
+    ]
+  },
+  {
+    "id": "test_chart_00061",
+    "image": "test_chart_00061.png",
+    "conversations": [
+      {
+        "from": "human",
+        "value": "<image>\nAnalyze the scatter plot. Identify the value and color of each point associated with the letters, then sort the letters based on their values from highest to lowest."
+      },
+      {
+        "from": "gpt",
+        "value": "The sorted order is: Q, C, J, U, X, W, Y."
+      }
+    ],
+    "ground_truth_list": [
+      "Q",
+      "C",
+      "J",
+      "U",
+      "X",
+      "W",
+      "Y"
+    ],
+    "ground_truth_values": [
+      87,
+      85,
+      82,
+      75,
+      61,
+      46,
+      25
+    ]
+  },
+  {
+    "id": "test_chart_00062",
+    "image": "test_chart_00062.png",
+    "conversations": [
+      {
+        "from": "human",
+        "value": "<image>\nAnalyze the scatter plot. Identify the value and color of each point associated with the letters, then sort the letters based on their values from highest to lowest."
+      },
+      {
+        "from": "gpt",
+        "value": "The sorted order is: Z, H, D."
+      }
+    ],
+    "ground_truth_list": [
+      "Z",
+      "H",
+      "D"
+    ],
+    "ground_truth_values": [
+      95,
+      57,
+      41
+    ]
+  },
+  {
+    "id": "test_chart_00063",
+    "image": "test_chart_00063.png",
+    "conversations": [
+      {
+        "from": "human",
+        "value": "<image>\nAnalyze the scatter plot. Identify the value and color of each point associated with the letters, then sort the letters based on their values from highest to lowest."
+      },
+      {
+        "from": "gpt",
+        "value": "The sorted order is: X, T, Q, H, J, P."
+      }
+    ],
+    "ground_truth_list": [
+      "X",
+      "T",
+      "Q",
+      "H",
+      "J",
+      "P"
+    ],
+    "ground_truth_values": [
+      68,
+      65,
+      60,
+      58,
+      57,
+      53
+    ]
+  },
+  {
+    "id": "test_chart_00064",
+    "image": "test_chart_00064.png",
+    "conversations": [
+      {
+        "from": "human",
+        "value": "<image>\nAnalyze the scatter plot. Identify the value and color of each point associated with the letters, then sort the letters based on their values from highest to lowest."
+      },
+      {
+        "from": "gpt",
+        "value": "The sorted order is: K, V, Z, X, T, E, J."
+      }
+    ],
+    "ground_truth_list": [
+      "K",
+      "V",
+      "Z",
+      "X",
+      "T",
+      "E",
+      "J"
+    ],
+    "ground_truth_values": [
+      70,
+      65,
+      60,
+      58,
+      56,
+      55,
+      53
+    ]
+  },
+  {
+    "id": "test_chart_00065",
+    "image": "test_chart_00065.png",
+    "conversations": [
+      {
+        "from": "human",
+        "value": "<image>\nAnalyze the scatter plot. Identify the value and color of each point associated with the letters, then sort the letters based on their values from highest to lowest."
+      },
+      {
+        "from": "gpt",
+        "value": "The sorted order is: E, Z, X, C, B, A, T, Q."
+      }
+    ],
+    "ground_truth_list": [
+      "E",
+      "Z",
+      "X",
+      "C",
+      "B",
+      "A",
+      "T",
+      "Q"
+    ],
+    "ground_truth_values": [
+      56,
+      53,
+      51,
+      49,
+      43,
+      41,
+      40,
+      39
+    ]
+  },
+  {
+    "id": "test_chart_00066",
+    "image": "test_chart_00066.png",
+    "conversations": [
+      {
+        "from": "human",
+        "value": "<image>\nAnalyze the scatter plot. Identify the value and color of each point associated with the letters, then sort the letters based on their values from highest to lowest."
+      },
+      {
+        "from": "gpt",
+        "value": "The sorted order is: M, R, A, F."
+      }
+    ],
+    "ground_truth_list": [
+      "M",
+      "R",
+      "A",
+      "F"
+    ],
+    "ground_truth_values": [
+      99,
+      95,
+      33,
+      30
+    ]
+  },
+  {
+    "id": "test_chart_00067",
+    "image": "test_chart_00067.png",
+    "conversations": [
+      {
+        "from": "human",
+        "value": "<image>\nAnalyze the scatter plot. Identify the value and color of each point associated with the letters, then sort the letters based on their values from highest to lowest."
+      },
+      {
+        "from": "gpt",
+        "value": "The sorted order is: N, K, J, F, B, V."
+      }
+    ],
+    "ground_truth_list": [
+      "N",
+      "K",
+      "J",
+      "F",
+      "B",
+      "V"
+    ],
+    "ground_truth_values": [
+      98,
+      69,
+      66,
+      57,
+      35,
+      15
+    ]
+  },
+  {
+    "id": "test_chart_00068",
+    "image": "test_chart_00068.png",
+    "conversations": [
+      {
+        "from": "human",
+        "value": "<image>\nAnalyze the scatter plot. Identify the value and color of each point associated with the letters, then sort the letters based on their values from highest to lowest."
+      },
+      {
+        "from": "gpt",
+        "value": "The sorted order is: B, X, L, A."
+      }
+    ],
+    "ground_truth_list": [
+      "B",
+      "X",
+      "L",
+      "A"
+    ],
+    "ground_truth_values": [
+      98,
+      87,
+      67,
+      53
+    ]
+  },
+  {
+    "id": "test_chart_00069",
+    "image": "test_chart_00069.png",
+    "conversations": [
+      {
+        "from": "human",
+        "value": "<image>\nAnalyze the scatter plot. Identify the value and color of each point associated with the letters, then sort the letters based on their values from highest to lowest."
+      },
+      {
+        "from": "gpt",
+        "value": "The sorted order is: V, Z, L, B, P, E, D, S."
+      }
+    ],
+    "ground_truth_list": [
+      "V",
+      "Z",
+      "L",
+      "B",
+      "P",
+      "E",
+      "D",
+      "S"
+    ],
+    "ground_truth_values": [
+      97,
+      89,
+      86,
+      55,
+      51,
+      26,
+      13,
+      10
+    ]
+  },
+  {
+    "id": "test_chart_00070",
+    "image": "test_chart_00070.png",
+    "conversations": [
+      {
+        "from": "human",
+        "value": "<image>\nAnalyze the scatter plot. Identify the value and color of each point associated with the letters, then sort the letters based on their values from highest to lowest."
+      },
+      {
+        "from": "gpt",
+        "value": "The sorted order is: B, U, A, S."
+      }
+    ],
+    "ground_truth_list": [
+      "B",
+      "U",
+      "A",
+      "S"
+    ],
+    "ground_truth_values": [
+      65,
+      60,
+      53,
+      48
+    ]
+  },
+  {
+    "id": "test_chart_00071",
+    "image": "test_chart_00071.png",
+    "conversations": [
+      {
+        "from": "human",
+        "value": "<image>\nAnalyze the scatter plot. Identify the value and color of each point associated with the letters, then sort the letters based on their values from highest to lowest."
+      },
+      {
+        "from": "gpt",
+        "value": "The sorted order is: H, B, L, N."
+      }
+    ],
+    "ground_truth_list": [
+      "H",
+      "B",
+      "L",
+      "N"
+    ],
+    "ground_truth_values": [
+      73,
+      68,
+      59,
+      56
+    ]
+  },
+  {
+    "id": "test_chart_00072",
+    "image": "test_chart_00072.png",
+    "conversations": [
+      {
+        "from": "human",
+        "value": "<image>\nAnalyze the scatter plot. Identify the value and color of each point associated with the letters, then sort the letters based on their values from highest to lowest."
+      },
+      {
+        "from": "gpt",
+        "value": "The sorted order is: W, J, N, B, F, U."
+      }
+    ],
+    "ground_truth_list": [
+      "W",
+      "J",
+      "N",
+      "B",
+      "F",
+      "U"
+    ],
+    "ground_truth_values": [
+      39,
+      37,
+      31,
+      28,
+      27,
+      20
+    ]
+  },
+  {
+    "id": "test_chart_00073",
+    "image": "test_chart_00073.png",
+    "conversations": [
+      {
+        "from": "human",
+        "value": "<image>\nAnalyze the scatter plot. Identify the value and color of each point associated with the letters, then sort the letters based on their values from highest to lowest."
+      },
+      {
+        "from": "gpt",
+        "value": "The sorted order is: S, N, F."
+      }
+    ],
+    "ground_truth_list": [
+      "S",
+      "N",
+      "F"
+    ],
+    "ground_truth_values": [
+      44,
+      29,
+      27
+    ]
+  },
+  {
+    "id": "test_chart_00074",
+    "image": "test_chart_00074.png",
+    "conversations": [
+      {
+        "from": "human",
+        "value": "<image>\nAnalyze the scatter plot. Identify the value and color of each point associated with the letters, then sort the letters based on their values from highest to lowest."
+      },
+      {
+        "from": "gpt",
+        "value": "The sorted order is: X, N, T, L, F, V, E."
+      }
+    ],
+    "ground_truth_list": [
+      "X",
+      "N",
+      "T",
+      "L",
+      "F",
+      "V",
+      "E"
+    ],
+    "ground_truth_values": [
+      99,
+      92,
+      64,
+      56,
+      40,
+      15,
+      12
+    ]
+  },
+  {
+    "id": "test_chart_00075",
+    "image": "test_chart_00075.png",
+    "conversations": [
+      {
+        "from": "human",
+        "value": "<image>\nAnalyze the scatter plot. Identify the value and color of each point associated with the letters, then sort the letters based on their values from highest to lowest."
+      },
+      {
+        "from": "gpt",
+        "value": "The sorted order is: W, T, D, X, Z."
+      }
+    ],
+    "ground_truth_list": [
+      "W",
+      "T",
+      "D",
+      "X",
+      "Z"
+    ],
+    "ground_truth_values": [
+      94,
+      91,
+      69,
+      68,
+      26
+    ]
+  },
+  {
+    "id": "test_chart_00076",
+    "image": "test_chart_00076.png",
+    "conversations": [
+      {
+        "from": "human",
+        "value": "<image>\nAnalyze the scatter plot. Identify the value and color of each point associated with the letters, then sort the letters based on their values from highest to lowest."
+      },
+      {
+        "from": "gpt",
+        "value": "The sorted order is: N, Z, X, R, F."
+      }
+    ],
+    "ground_truth_list": [
+      "N",
+      "Z",
+      "X",
+      "R",
+      "F"
+    ],
+    "ground_truth_values": [
+      66,
+      65,
+      61,
+      55,
+      48
+    ]
+  },
+  {
+    "id": "test_chart_00077",
+    "image": "test_chart_00077.png",
+    "conversations": [
+      {
+        "from": "human",
+        "value": "<image>\nAnalyze the scatter plot. Identify the value and color of each point associated with the letters, then sort the letters based on their values from highest to lowest."
+      },
+      {
+        "from": "gpt",
+        "value": "The sorted order is: F, N, U, V."
+      }
+    ],
+    "ground_truth_list": [
+      "F",
+      "N",
+      "U",
+      "V"
+    ],
+    "ground_truth_values": [
+      83,
+      72,
+      59,
+      15
+    ]
+  },
+  {
+    "id": "test_chart_00078",
+    "image": "test_chart_00078.png",
+    "conversations": [
+      {
+        "from": "human",
+        "value": "<image>\nAnalyze the scatter plot. Identify the value and color of each point associated with the letters, then sort the letters based on their values from highest to lowest."
+      },
+      {
+        "from": "gpt",
+        "value": "The sorted order is: V, H, P, L, B, C, R."
+      }
+    ],
+    "ground_truth_list": [
+      "V",
+      "H",
+      "P",
+      "L",
+      "B",
+      "C",
+      "R"
+    ],
+    "ground_truth_values": [
+      53,
+      49,
+      46,
+      45,
+      44,
+      40,
+      38
+    ]
+  },
+  {
+    "id": "test_chart_00079",
+    "image": "test_chart_00079.png",
+    "conversations": [
+      {
+        "from": "human",
+        "value": "<image>\nAnalyze the scatter plot. Identify the value and color of each point associated with the letters, then sort the letters based on their values from highest to lowest."
+      },
+      {
+        "from": "gpt",
+        "value": "The sorted order is: P, T, Q, N, S, L, U, W."
+      }
+    ],
+    "ground_truth_list": [
+      "P",
+      "T",
+      "Q",
+      "N",
+      "S",
+      "L",
+      "U",
+      "W"
+    ],
+    "ground_truth_values": [
+      39,
+      35,
+      34,
+      31,
+      29,
+      27,
+      22,
+      21
+    ]
+  },
+  {
+    "id": "test_chart_00080",
+    "image": "test_chart_00080.png",
+    "conversations": [
+      {
+        "from": "human",
+        "value": "<image>\nAnalyze the scatter plot. Identify the value and color of each point associated with the letters, then sort the letters based on their values from highest to lowest."
+      },
+      {
+        "from": "gpt",
+        "value": "The sorted order is: D, V, C, L, G, Y, T, H."
+      }
+    ],
+    "ground_truth_list": [
+      "D",
+      "V",
+      "C",
+      "L",
+      "G",
+      "Y",
+      "T",
+      "H"
+    ],
+    "ground_truth_values": [
+      62,
+      60,
+      58,
+      52,
+      51,
+      50,
+      46,
+      45
+    ]
+  },
+  {
+    "id": "test_chart_00081",
+    "image": "test_chart_00081.png",
+    "conversations": [
+      {
+        "from": "human",
+        "value": "<image>\nAnalyze the scatter plot. Identify the value and color of each point associated with the letters, then sort the letters based on their values from highest to lowest."
+      },
+      {
+        "from": "gpt",
+        "value": "The sorted order is: D, P, A, K."
+      }
+    ],
+    "ground_truth_list": [
+      "D",
+      "P",
+      "A",
+      "K"
+    ],
+    "ground_truth_values": [
+      72,
+      71,
+      61,
+      60
+    ]
+  },
+  {
+    "id": "test_chart_00082",
+    "image": "test_chart_00082.png",
+    "conversations": [
+      {
+        "from": "human",
+        "value": "<image>\nAnalyze the scatter plot. Identify the value and color of each point associated with the letters, then sort the letters based on their values from highest to lowest."
+      },
+      {
+        "from": "gpt",
+        "value": "The sorted order is: E, M, T, V."
+      }
+    ],
+    "ground_truth_list": [
+      "E",
+      "M",
+      "T",
+      "V"
+    ],
+    "ground_truth_values": [
+      86,
+      71,
+      58,
+      53
+    ]
+  },
+  {
+    "id": "test_chart_00083",
+    "image": "test_chart_00083.png",
+    "conversations": [
+      {
+        "from": "human",
+        "value": "<image>\nAnalyze the scatter plot. Identify the value and color of each point associated with the letters, then sort the letters based on their values from highest to lowest."
+      },
+      {
+        "from": "gpt",
+        "value": "The sorted order is: S, Z, W."
+      }
+    ],
+    "ground_truth_list": [
+      "S",
+      "Z",
+      "W"
+    ],
+    "ground_truth_values": [
+      48,
+      36,
+      30
+    ]
+  },
+  {
+    "id": "test_chart_00084",
+    "image": "test_chart_00084.png",
+    "conversations": [
+      {
+        "from": "human",
+        "value": "<image>\nAnalyze the scatter plot. Identify the value and color of each point associated with the letters, then sort the letters based on their values from highest to lowest."
+      },
+      {
+        "from": "gpt",
+        "value": "The sorted order is: M, P, G, E, Y."
+      }
+    ],
+    "ground_truth_list": [
+      "M",
+      "P",
+      "G",
+      "E",
+      "Y"
+    ],
+    "ground_truth_values": [
+      38,
+      34,
+      32,
+      21,
+      20
+    ]
+  },
+  {
+    "id": "test_chart_00085",
+    "image": "test_chart_00085.png",
+    "conversations": [
+      {
+        "from": "human",
+        "value": "<image>\nAnalyze the scatter plot. Identify the value and color of each point associated with the letters, then sort the letters based on their values from highest to lowest."
+      },
+      {
+        "from": "gpt",
+        "value": "The sorted order is: W, J, R."
+      }
+    ],
+    "ground_truth_list": [
+      "W",
+      "J",
+      "R"
+    ],
+    "ground_truth_values": [
+      67,
+      63,
+      57
+    ]
+  },
+  {
+    "id": "test_chart_00086",
+    "image": "test_chart_00086.png",
+    "conversations": [
+      {
+        "from": "human",
+        "value": "<image>\nAnalyze the scatter plot. Identify the value and color of each point associated with the letters, then sort the letters based on their values from highest to lowest."
+      },
+      {
+        "from": "gpt",
+        "value": "The sorted order is: S, M, B."
+      }
+    ],
+    "ground_truth_list": [
+      "S",
+      "M",
+      "B"
+    ],
+    "ground_truth_values": [
+      84,
+      80,
+      78
+    ]
+  },
+  {
+    "id": "test_chart_00087",
+    "image": "test_chart_00087.png",
+    "conversations": [
+      {
+        "from": "human",
+        "value": "<image>\nAnalyze the scatter plot. Identify the value and color of each point associated with the letters, then sort the letters based on their values from highest to lowest."
+      },
+      {
+        "from": "gpt",
+        "value": "The sorted order is: W, E, T, J, A, Y."
+      }
+    ],
+    "ground_truth_list": [
+      "W",
+      "E",
+      "T",
+      "J",
+      "A",
+      "Y"
+    ],
+    "ground_truth_values": [
+      47,
+      46,
+      43,
+      35,
+      33,
+      29
+    ]
+  },
+  {
+    "id": "test_chart_00088",
+    "image": "test_chart_00088.png",
+    "conversations": [
+      {
+        "from": "human",
+        "value": "<image>\nAnalyze the scatter plot. Identify the value and color of each point associated with the letters, then sort the letters based on their values from highest to lowest."
+      },
+      {
+        "from": "gpt",
+        "value": "The sorted order is: V, R, X, P."
+      }
+    ],
+    "ground_truth_list": [
+      "V",
+      "R",
+      "X",
+      "P"
+    ],
+    "ground_truth_values": [
+      94,
+      91,
+      62,
+      38
+    ]
+  },
+  {
+    "id": "test_chart_00089",
+    "image": "test_chart_00089.png",
+    "conversations": [
+      {
+        "from": "human",
+        "value": "<image>\nAnalyze the scatter plot. Identify the value and color of each point associated with the letters, then sort the letters based on their values from highest to lowest."
+      },
+      {
+        "from": "gpt",
+        "value": "The sorted order is: U, R, G, A, P, B, X, K."
+      }
+    ],
+    "ground_truth_list": [
+      "U",
+      "R",
+      "G",
+      "A",
+      "P",
+      "B",
+      "X",
+      "K"
+    ],
+    "ground_truth_values": [
+      68,
+      67,
+      65,
+      61,
+      60,
+      58,
+      55,
+      54
+    ]
+  },
+  {
+    "id": "test_chart_00090",
+    "image": "test_chart_00090.png",
+    "conversations": [
+      {
+        "from": "human",
+        "value": "<image>\nAnalyze the scatter plot. Identify the value and color of each point associated with the letters, then sort the letters based on their values from highest to lowest."
+      },
+      {
+        "from": "gpt",
+        "value": "The sorted order is: F, B, Z, M, H, W, V."
+      }
+    ],
+    "ground_truth_list": [
+      "F",
+      "B",
+      "Z",
+      "M",
+      "H",
+      "W",
+      "V"
+    ],
+    "ground_truth_values": [
+      84,
+      83,
+      75,
+      55,
+      45,
+      31,
+      18
+    ]
+  },
+  {
+    "id": "test_chart_00091",
+    "image": "test_chart_00091.png",
+    "conversations": [
+      {
+        "from": "human",
+        "value": "<image>\nAnalyze the scatter plot. Identify the value and color of each point associated with the letters, then sort the letters based on their values from highest to lowest."
+      },
+      {
+        "from": "gpt",
+        "value": "The sorted order is: J, K, V, B."
+      }
+    ],
+    "ground_truth_list": [
+      "J",
+      "K",
+      "V",
+      "B"
+    ],
+    "ground_truth_values": [
+      44,
+      36,
+      34,
+      32
+    ]
+  },
+  {
+    "id": "test_chart_00092",
+    "image": "test_chart_00092.png",
+    "conversations": [
+      {
+        "from": "human",
+        "value": "<image>\nAnalyze the scatter plot. Identify the value and color of each point associated with the letters, then sort the letters based on their values from highest to lowest."
+      },
+      {
+        "from": "gpt",
+        "value": "The sorted order is: K, A, Z, V, X, E, F."
+      }
+    ],
+    "ground_truth_list": [
+      "K",
+      "A",
+      "Z",
+      "V",
+      "X",
+      "E",
+      "F"
+    ],
+    "ground_truth_values": [
+      50,
+      44,
+      41,
+      40,
+      38,
+      36,
+      34
+    ]
+  },
+  {
+    "id": "test_chart_00093",
+    "image": "test_chart_00093.png",
+    "conversations": [
+      {
+        "from": "human",
+        "value": "<image>\nAnalyze the scatter plot. Identify the value and color of each point associated with the letters, then sort the letters based on their values from highest to lowest."
+      },
+      {
+        "from": "gpt",
+        "value": "The sorted order is: J, X, F, Z, C, B."
+      }
+    ],
+    "ground_truth_list": [
+      "J",
+      "X",
+      "F",
+      "Z",
+      "C",
+      "B"
+    ],
+    "ground_truth_values": [
+      44,
+      41,
+      40,
+      39,
+      32,
+      29
+    ]
+  },
+  {
+    "id": "test_chart_00094",
+    "image": "test_chart_00094.png",
+    "conversations": [
+      {
+        "from": "human",
+        "value": "<image>\nAnalyze the scatter plot. Identify the value and color of each point associated with the letters, then sort the letters based on their values from highest to lowest."
+      },
+      {
+        "from": "gpt",
+        "value": "The sorted order is: G, Q, K, D, J, L, E."
+      }
+    ],
+    "ground_truth_list": [
+      "G",
+      "Q",
+      "K",
+      "D",
+      "J",
+      "L",
+      "E"
+    ],
+    "ground_truth_values": [
+      72,
+      67,
+      64,
+      62,
+      61,
+      59,
+      55
+    ]
+  },
+  {
+    "id": "test_chart_00095",
+    "image": "test_chart_00095.png",
+    "conversations": [
+      {
+        "from": "human",
+        "value": "<image>\nAnalyze the scatter plot. Identify the value and color of each point associated with the letters, then sort the letters based on their values from highest to lowest."
+      },
+      {
+        "from": "gpt",
+        "value": "The sorted order is: Q, L, W, H, C, Z, K."
+      }
+    ],
+    "ground_truth_list": [
+      "Q",
+      "L",
+      "W",
+      "H",
+      "C",
+      "Z",
+      "K"
+    ],
+    "ground_truth_values": [
+      61,
+      58,
+      56,
+      50,
+      48,
+      47,
+      46
+    ]
+  },
+  {
+    "id": "test_chart_00096",
+    "image": "test_chart_00096.png",
+    "conversations": [
+      {
+        "from": "human",
+        "value": "<image>\nAnalyze the scatter plot. Identify the value and color of each point associated with the letters, then sort the letters based on their values from highest to lowest."
+      },
+      {
+        "from": "gpt",
+        "value": "The sorted order is: P, J, D, T, K, X, V, C."
+      }
+    ],
+    "ground_truth_list": [
+      "P",
+      "J",
+      "D",
+      "T",
+      "K",
+      "X",
+      "V",
+      "C"
+    ],
+    "ground_truth_values": [
+      96,
+      83,
+      73,
+      71,
+      67,
+      34,
+      32,
+      28
+    ]
+  },
+  {
+    "id": "test_chart_00097",
+    "image": "test_chart_00097.png",
+    "conversations": [
+      {
+        "from": "human",
+        "value": "<image>\nAnalyze the scatter plot. Identify the value and color of each point associated with the letters, then sort the letters based on their values from highest to lowest."
+      },
+      {
+        "from": "gpt",
+        "value": "The sorted order is: W, L, E, Z, J, V, H, G."
+      }
+    ],
+    "ground_truth_list": [
+      "W",
+      "L",
+      "E",
+      "Z",
+      "J",
+      "V",
+      "H",
+      "G"
+    ],
+    "ground_truth_values": [
+      51,
+      47,
+      45,
+      44,
+      43,
+      42,
+      40,
+      36
+    ]
+  },
+  {
+    "id": "test_chart_00098",
+    "image": "test_chart_00098.png",
+    "conversations": [
+      {
+        "from": "human",
+        "value": "<image>\nAnalyze the scatter plot. Identify the value and color of each point associated with the letters, then sort the letters based on their values from highest to lowest."
+      },
+      {
+        "from": "gpt",
+        "value": "The sorted order is: A, X, K, Q, G, N, D."
+      }
+    ],
+    "ground_truth_list": [
+      "A",
+      "X",
+      "K",
+      "Q",
+      "G",
+      "N",
+      "D"
+    ],
+    "ground_truth_values": [
+      79,
+      73,
+      68,
+      61,
+      44,
+      43,
+      36
+    ]
+  },
+  {
+    "id": "test_chart_00099",
+    "image": "test_chart_00099.png",
+    "conversations": [
+      {
+        "from": "human",
+        "value": "<image>\nAnalyze the scatter plot. Identify the value and color of each point associated with the letters, then sort the letters based on their values from highest to lowest."
+      },
+      {
+        "from": "gpt",
+        "value": "The sorted order is: E, R, A, G, J, L, N, X."
+      }
+    ],
+    "ground_truth_list": [
+      "E",
+      "R",
+      "A",
+      "G",
+      "J",
+      "L",
+      "N",
+      "X"
+    ],
+    "ground_truth_values": [
+      75,
+      70,
+      67,
+      57,
+      41,
+      35,
+      30,
+      12
+    ]
+  },
+  {
+    "id": "test_chart_00100",
+    "image": "test_chart_00100.png",
+    "conversations": [
+      {
+        "from": "human",
+        "value": "<image>\nAnalyze the scatter plot. Identify the value and color of each point associated with the letters, then sort the letters based on their values from highest to lowest."
+      },
+      {
+        "from": "gpt",
+        "value": "The sorted order is: N, B, K."
+      }
+    ],
+    "ground_truth_list": [
+      "N",
+      "B",
+      "K"
+    ],
+    "ground_truth_values": [
+      66,
+      64,
+      57
+    ]
+  },
+  {
+    "id": "test_chart_00101",
+    "image": "test_chart_00101.png",
+    "conversations": [
+      {
+        "from": "human",
+        "value": "<image>\nAnalyze the scatter plot. Identify the value and color of each point associated with the letters, then sort the letters based on their values from highest to lowest."
+      },
+      {
+        "from": "gpt",
+        "value": "The sorted order is: B, M, S, V, X, U, H, R."
+      }
+    ],
+    "ground_truth_list": [
+      "B",
+      "M",
+      "S",
+      "V",
+      "X",
+      "U",
+      "H",
+      "R"
+    ],
+    "ground_truth_values": [
+      95,
+      94,
+      90,
+      54,
+      48,
+      31,
+      30,
+      29
+    ]
+  },
+  {
+    "id": "test_chart_00102",
+    "image": "test_chart_00102.png",
+    "conversations": [
+      {
+        "from": "human",
+        "value": "<image>\nAnalyze the scatter plot. Identify the value and color of each point associated with the letters, then sort the letters based on their values from highest to lowest."
+      },
+      {
+        "from": "gpt",
+        "value": "The sorted order is: M, Q, E, N, A."
+      }
+    ],
+    "ground_truth_list": [
+      "M",
+      "Q",
+      "E",
+      "N",
+      "A"
+    ],
+    "ground_truth_values": [
+      85,
+      81,
+      72,
+      61,
+      44
+    ]
+  },
+  {
+    "id": "test_chart_00103",
+    "image": "test_chart_00103.png",
+    "conversations": [
+      {
+        "from": "human",
+        "value": "<image>\nAnalyze the scatter plot. Identify the value and color of each point associated with the letters, then sort the letters based on their values from highest to lowest."
+      },
+      {
+        "from": "gpt",
+        "value": "The sorted order is: M, E, A, T, S."
+      }
+    ],
+    "ground_truth_list": [
+      "M",
+      "E",
+      "A",
+      "T",
+      "S"
+    ],
+    "ground_truth_values": [
+      77,
+      75,
+      71,
+      60,
+      59
+    ]
+  },
+  {
+    "id": "test_chart_00104",
+    "image": "test_chart_00104.png",
+    "conversations": [
+      {
+        "from": "human",
+        "value": "<image>\nAnalyze the scatter plot. Identify the value and color of each point associated with the letters, then sort the letters based on their values from highest to lowest."
+      },
+      {
+        "from": "gpt",
+        "value": "The sorted order is: E, G, K, H."
+      }
+    ],
+    "ground_truth_list": [
+      "E",
+      "G",
+      "K",
+      "H"
+    ],
+    "ground_truth_values": [
+      64,
+      62,
+      58,
+      49
+    ]
+  },
+  {
+    "id": "test_chart_00105",
+    "image": "test_chart_00105.png",
+    "conversations": [
+      {
+        "from": "human",
+        "value": "<image>\nAnalyze the scatter plot. Identify the value and color of each point associated with the letters, then sort the letters based on their values from highest to lowest."
+      },
+      {
+        "from": "gpt",
+        "value": "The sorted order is: H, V, J."
+      }
+    ],
+    "ground_truth_list": [
+      "H",
+      "V",
+      "J"
+    ],
+    "ground_truth_values": [
+      48,
+      46,
+      41
+    ]
+  },
+  {
+    "id": "test_chart_00106",
+    "image": "test_chart_00106.png",
+    "conversations": [
+      {
+        "from": "human",
+        "value": "<image>\nAnalyze the scatter plot. Identify the value and color of each point associated with the letters, then sort the letters based on their values from highest to lowest."
+      },
+      {
+        "from": "gpt",
+        "value": "The sorted order is: E, Q, W."
+      }
+    ],
+    "ground_truth_list": [
+      "E",
+      "Q",
+      "W"
+    ],
+    "ground_truth_values": [
+      69,
+      62,
+      59
+    ]
+  },
+  {
+    "id": "test_chart_00107",
+    "image": "test_chart_00107.png",
+    "conversations": [
+      {
+        "from": "human",
+        "value": "<image>\nAnalyze the scatter plot. Identify the value and color of each point associated with the letters, then sort the letters based on their values from highest to lowest."
+      },
+      {
+        "from": "gpt",
+        "value": "The sorted order is: C, L, W."
+      }
+    ],
+    "ground_truth_list": [
+      "C",
+      "L",
+      "W"
+    ],
+    "ground_truth_values": [
+      88,
+      52,
+      24
+    ]
+  },
+  {
+    "id": "test_chart_00108",
+    "image": "test_chart_00108.png",
+    "conversations": [
+      {
+        "from": "human",
+        "value": "<image>\nAnalyze the scatter plot. Identify the value and color of each point associated with the letters, then sort the letters based on their values from highest to lowest."
+      },
+      {
+        "from": "gpt",
+        "value": "The sorted order is: F, W, M, U, R."
+      }
+    ],
+    "ground_truth_list": [
+      "F",
+      "W",
+      "M",
+      "U",
+      "R"
+    ],
+    "ground_truth_values": [
+      75,
+      68,
+      66,
+      64,
+      63
+    ]
+  },
+  {
+    "id": "test_chart_00109",
+    "image": "test_chart_00109.png",
+    "conversations": [
+      {
+        "from": "human",
+        "value": "<image>\nAnalyze the scatter plot. Identify the value and color of each point associated with the letters, then sort the letters based on their values from highest to lowest."
+      },
+      {
+        "from": "gpt",
+        "value": "The sorted order is: B, W, R, J."
+      }
+    ],
+    "ground_truth_list": [
+      "B",
+      "W",
+      "R",
+      "J"
+    ],
+    "ground_truth_values": [
+      75,
+      32,
+      29,
+      28
+    ]
+  },
+  {
+    "id": "test_chart_00110",
+    "image": "test_chart_00110.png",
+    "conversations": [
+      {
+        "from": "human",
+        "value": "<image>\nAnalyze the scatter plot. Identify the value and color of each point associated with the letters, then sort the letters based on their values from highest to lowest."
+      },
+      {
+        "from": "gpt",
+        "value": "The sorted order is: C, J, P, N, E, K."
+      }
+    ],
+    "ground_truth_list": [
+      "C",
+      "J",
+      "P",
+      "N",
+      "E",
+      "K"
+    ],
+    "ground_truth_values": [
+      92,
+      90,
+      81,
+      56,
+      48,
+      39
+    ]
+  },
+  {
+    "id": "test_chart_00111",
+    "image": "test_chart_00111.png",
+    "conversations": [
+      {
+        "from": "human",
+        "value": "<image>\nAnalyze the scatter plot. Identify the value and color of each point associated with the letters, then sort the letters based on their values from highest to lowest."
+      },
+      {
+        "from": "gpt",
+        "value": "The sorted order is: Z, L, C, D, Q, J, W, U."
+      }
+    ],
+    "ground_truth_list": [
+      "Z",
+      "L",
+      "C",
+      "D",
+      "Q",
+      "J",
+      "W",
+      "U"
+    ],
+    "ground_truth_values": [
+      97,
+      94,
+      65,
+      40,
+      38,
+      35,
+      18,
+      17
+    ]
+  },
+  {
+    "id": "test_chart_00112",
+    "image": "test_chart_00112.png",
+    "conversations": [
+      {
+        "from": "human",
+        "value": "<image>\nAnalyze the scatter plot. Identify the value and color of each point associated with the letters, then sort the letters based on their values from highest to lowest."
+      },
+      {
+        "from": "gpt",
+        "value": "The sorted order is: W, C, M, J, R."
+      }
+    ],
+    "ground_truth_list": [
+      "W",
+      "C",
+      "M",
+      "J",
+      "R"
+    ],
+    "ground_truth_values": [
+      61,
+      53,
+      52,
+      51,
+      47
+    ]
+  },
+  {
+    "id": "test_chart_00113",
+    "image": "test_chart_00113.png",
+    "conversations": [
+      {
+        "from": "human",
+        "value": "<image>\nAnalyze the scatter plot. Identify the value and color of each point associated with the letters, then sort the letters based on their values from highest to lowest."
+      },
+      {
+        "from": "gpt",
+        "value": "The sorted order is: R, A, M, Z, N, Y."
+      }
+    ],
+    "ground_truth_list": [
+      "R",
+      "A",
+      "M",
+      "Z",
+      "N",
+      "Y"
+    ],
+    "ground_truth_values": [
+      99,
+      92,
+      87,
+      81,
+      58,
+      38
+    ]
+  },
+  {
+    "id": "test_chart_00114",
+    "image": "test_chart_00114.png",
+    "conversations": [
+      {
+        "from": "human",
+        "value": "<image>\nAnalyze the scatter plot. Identify the value and color of each point associated with the letters, then sort the letters based on their values from highest to lowest."
+      },
+      {
+        "from": "gpt",
+        "value": "The sorted order is: Z, P, D, H, N, B."
+      }
+    ],
+    "ground_truth_list": [
+      "Z",
+      "P",
+      "D",
+      "H",
+      "N",
+      "B"
+    ],
+    "ground_truth_values": [
+      90,
+      76,
+      63,
+      55,
+      40,
+      29
+    ]
+  },
+  {
+    "id": "test_chart_00115",
+    "image": "test_chart_00115.png",
+    "conversations": [
+      {
+        "from": "human",
+        "value": "<image>\nAnalyze the scatter plot. Identify the value and color of each point associated with the letters, then sort the letters based on their values from highest to lowest."
+      },
+      {
+        "from": "gpt",
+        "value": "The sorted order is: B, H, L, X, J, N, Q, T."
+      }
+    ],
+    "ground_truth_list": [
+      "B",
+      "H",
+      "L",
+      "X",
+      "J",
+      "N",
+      "Q",
+      "T"
+    ],
+    "ground_truth_values": [
+      62,
+      56,
+      55,
+      54,
+      51,
+      49,
+      48,
+      45
+    ]
+  },
+  {
+    "id": "test_chart_00116",
+    "image": "test_chart_00116.png",
+    "conversations": [
+      {
+        "from": "human",
+        "value": "<image>\nAnalyze the scatter plot. Identify the value and color of each point associated with the letters, then sort the letters based on their values from highest to lowest."
+      },
+      {
+        "from": "gpt",
+        "value": "The sorted order is: N, D, E, F, Z."
+      }
+    ],
+    "ground_truth_list": [
+      "N",
+      "D",
+      "E",
+      "F",
+      "Z"
+    ],
+    "ground_truth_values": [
+      62,
+      61,
+      58,
+      57,
+      53
+    ]
+  },
+  {
+    "id": "test_chart_00117",
+    "image": "test_chart_00117.png",
+    "conversations": [
+      {
+        "from": "human",
+        "value": "<image>\nAnalyze the scatter plot. Identify the value and color of each point associated with the letters, then sort the letters based on their values from highest to lowest."
+      },
+      {
+        "from": "gpt",
+        "value": "The sorted order is: E, H, D, V."
+      }
+    ],
+    "ground_truth_list": [
+      "E",
+      "H",
+      "D",
+      "V"
+    ],
+    "ground_truth_values": [
+      42,
+      41,
+      30,
+      29
+    ]
+  },
+  {
+    "id": "test_chart_00118",
+    "image": "test_chart_00118.png",
+    "conversations": [
+      {
+        "from": "human",
+        "value": "<image>\nAnalyze the scatter plot. Identify the value and color of each point associated with the letters, then sort the letters based on their values from highest to lowest."
+      },
+      {
+        "from": "gpt",
+        "value": "The sorted order is: D, E, X, N, Q, U."
+      }
+    ],
+    "ground_truth_list": [
+      "D",
+      "E",
+      "X",
+      "N",
+      "Q",
+      "U"
+    ],
+    "ground_truth_values": [
+      39,
+      38,
+      35,
+      34,
+      33,
+      29
+    ]
+  },
+  {
+    "id": "test_chart_00119",
+    "image": "test_chart_00119.png",
+    "conversations": [
+      {
+        "from": "human",
+        "value": "<image>\nAnalyze the scatter plot. Identify the value and color of each point associated with the letters, then sort the letters based on their values from highest to lowest."
+      },
+      {
+        "from": "gpt",
+        "value": "The sorted order is: K, F, H, Z, J."
+      }
+    ],
+    "ground_truth_list": [
+      "K",
+      "F",
+      "H",
+      "Z",
+      "J"
+    ],
+    "ground_truth_values": [
+      83,
+      69,
+      49,
+      43,
+      24
+    ]
+  },
+  {
+    "id": "test_chart_00120",
+    "image": "test_chart_00120.png",
+    "conversations": [
+      {
+        "from": "human",
+        "value": "<image>\nAnalyze the scatter plot. Identify the value and color of each point associated with the letters, then sort the letters based on their values from highest to lowest."
+      },
+      {
+        "from": "gpt",
+        "value": "The sorted order is: U, L, A, P, D."
+      }
+    ],
+    "ground_truth_list": [
+      "U",
+      "L",
+      "A",
+      "P",
+      "D"
+    ],
+    "ground_truth_values": [
+      71,
+      69,
+      51,
+      44,
+      25
+    ]
+  },
+  {
+    "id": "test_chart_00121",
+    "image": "test_chart_00121.png",
+    "conversations": [
+      {
+        "from": "human",
+        "value": "<image>\nAnalyze the scatter plot. Identify the value and color of each point associated with the letters, then sort the letters based on their values from highest to lowest."
+      },
+      {
+        "from": "gpt",
+        "value": "The sorted order is: W, V, F, L, R, H, X."
+      }
+    ],
+    "ground_truth_list": [
+      "W",
+      "V",
+      "F",
+      "L",
+      "R",
+      "H",
+      "X"
+    ],
+    "ground_truth_values": [
+      93,
+      86,
+      76,
+      49,
+      31,
+      25,
+      20
+    ]
+  },
+  {
+    "id": "test_chart_00122",
+    "image": "test_chart_00122.png",
+    "conversations": [
+      {
+        "from": "human",
+        "value": "<image>\nAnalyze the scatter plot. Identify the value and color of each point associated with the letters, then sort the letters based on their values from highest to lowest."
+      },
+      {
+        "from": "gpt",
+        "value": "The sorted order is: P, Y, A, S, G."
+      }
+    ],
+    "ground_truth_list": [
+      "P",
+      "Y",
+      "A",
+      "S",
+      "G"
+    ],
+    "ground_truth_values": [
+      44,
+      43,
+      40,
+      36,
+      33
+    ]
+  },
+  {
+    "id": "test_chart_00123",
+    "image": "test_chart_00123.png",
+    "conversations": [
+      {
+        "from": "human",
+        "value": "<image>\nAnalyze the scatter plot. Identify the value and color of each point associated with the letters, then sort the letters based on their values from highest to lowest."
+      },
+      {
+        "from": "gpt",
+        "value": "The sorted order is: J, G, B, H, L."
+      }
+    ],
+    "ground_truth_list": [
+      "J",
+      "G",
+      "B",
+      "H",
+      "L"
+    ],
+    "ground_truth_values": [
+      58,
+      55,
+      54,
+      53,
+      52
+    ]
+  },
+  {
+    "id": "test_chart_00124",
+    "image": "test_chart_00124.png",
+    "conversations": [
+      {
+        "from": "human",
+        "value": "<image>\nAnalyze the scatter plot. Identify the value and color of each point associated with the letters, then sort the letters based on their values from highest to lowest."
+      },
+      {
+        "from": "gpt",
+        "value": "The sorted order is: C, H, X, U."
+      }
+    ],
+    "ground_truth_list": [
+      "C",
+      "H",
+      "X",
+      "U"
+    ],
+    "ground_truth_values": [
+      97,
+      85,
+      69,
+      52
+    ]
+  },
+  {
+    "id": "test_chart_00125",
+    "image": "test_chart_00125.png",
+    "conversations": [
+      {
+        "from": "human",
+        "value": "<image>\nAnalyze the scatter plot. Identify the value and color of each point associated with the letters, then sort the letters based on their values from highest to lowest."
+      },
+      {
+        "from": "gpt",
+        "value": "The sorted order is: R, Z, W, E, N, Y, M."
+      }
+    ],
+    "ground_truth_list": [
+      "R",
+      "Z",
+      "W",
+      "E",
+      "N",
+      "Y",
+      "M"
+    ],
+    "ground_truth_values": [
+      41,
+      40,
+      35,
+      32,
+      30,
+      29,
+      27
+    ]
+  },
+  {
+    "id": "test_chart_00126",
+    "image": "test_chart_00126.png",
+    "conversations": [
+      {
+        "from": "human",
+        "value": "<image>\nAnalyze the scatter plot. Identify the value and color of each point associated with the letters, then sort the letters based on their values from highest to lowest."
+      },
+      {
+        "from": "gpt",
+        "value": "The sorted order is: J, E, F, Y, U, V, P."
+      }
+    ],
+    "ground_truth_list": [
+      "J",
+      "E",
+      "F",
+      "Y",
+      "U",
+      "V",
+      "P"
+    ],
+    "ground_truth_values": [
+      68,
+      67,
+      64,
+      62,
+      61,
+      57,
+      52
+    ]
+  },
+  {
+    "id": "test_chart_00127",
+    "image": "test_chart_00127.png",
+    "conversations": [
+      {
+        "from": "human",
+        "value": "<image>\nAnalyze the scatter plot. Identify the value and color of each point associated with the letters, then sort the letters based on their values from highest to lowest."
+      },
+      {
+        "from": "gpt",
+        "value": "The sorted order is: F, V, B."
+      }
+    ],
+    "ground_truth_list": [
+      "F",
+      "V",
+      "B"
+    ],
+    "ground_truth_values": [
+      47,
+      42,
+      41
+    ]
+  },
+  {
+    "id": "test_chart_00128",
+    "image": "test_chart_00128.png",
+    "conversations": [
+      {
+        "from": "human",
+        "value": "<image>\nAnalyze the scatter plot. Identify the value and color of each point associated with the letters, then sort the letters based on their values from highest to lowest."
+      },
+      {
+        "from": "gpt",
+        "value": "The sorted order is: U, S, F, H, M, B."
+      }
+    ],
+    "ground_truth_list": [
+      "U",
+      "S",
+      "F",
+      "H",
+      "M",
+      "B"
+    ],
+    "ground_truth_values": [
+      99,
+      64,
+      61,
+      28,
+      17,
+      12
+    ]
+  },
+  {
+    "id": "test_chart_00129",
+    "image": "test_chart_00129.png",
+    "conversations": [
+      {
+        "from": "human",
+        "value": "<image>\nAnalyze the scatter plot. Identify the value and color of each point associated with the letters, then sort the letters based on their values from highest to lowest."
+      },
+      {
+        "from": "gpt",
+        "value": "The sorted order is: L, P, X."
+      }
+    ],
+    "ground_truth_list": [
+      "L",
+      "P",
+      "X"
+    ],
+    "ground_truth_values": [
+      87,
+      43,
+      36
+    ]
+  },
+  {
+    "id": "test_chart_00130",
+    "image": "test_chart_00130.png",
+    "conversations": [
+      {
+        "from": "human",
+        "value": "<image>\nAnalyze the scatter plot. Identify the value and color of each point associated with the letters, then sort the letters based on their values from highest to lowest."
+      },
+      {
+        "from": "gpt",
+        "value": "The sorted order is: S, F, D, E."
+      }
+    ],
+    "ground_truth_list": [
+      "S",
+      "F",
+      "D",
+      "E"
+    ],
+    "ground_truth_values": [
+      38,
+      26,
+      25,
+      22
+    ]
+  },
+  {
+    "id": "test_chart_00131",
+    "image": "test_chart_00131.png",
+    "conversations": [
+      {
+        "from": "human",
+        "value": "<image>\nAnalyze the scatter plot. Identify the value and color of each point associated with the letters, then sort the letters based on their values from highest to lowest."
+      },
+      {
+        "from": "gpt",
+        "value": "The sorted order is: L, K, P."
+      }
+    ],
+    "ground_truth_list": [
+      "L",
+      "K",
+      "P"
+    ],
+    "ground_truth_values": [
+      63,
+      57,
+      54
+    ]
+  },
+  {
+    "id": "test_chart_00132",
+    "image": "test_chart_00132.png",
+    "conversations": [
+      {
+        "from": "human",
+        "value": "<image>\nAnalyze the scatter plot. Identify the value and color of each point associated with the letters, then sort the letters based on their values from highest to lowest."
+      },
+      {
+        "from": "gpt",
+        "value": "The sorted order is: T, D, F, A."
+      }
+    ],
+    "ground_truth_list": [
+      "T",
+      "D",
+      "F",
+      "A"
+    ],
+    "ground_truth_values": [
+      49,
+      48,
+      46,
+      42
+    ]
+  },
+  {
+    "id": "test_chart_00133",
+    "image": "test_chart_00133.png",
+    "conversations": [
+      {
+        "from": "human",
+        "value": "<image>\nAnalyze the scatter plot. Identify the value and color of each point associated with the letters, then sort the letters based on their values from highest to lowest."
+      },
+      {
+        "from": "gpt",
+        "value": "The sorted order is: V, L, H, T, K, C, M, P."
+      }
+    ],
+    "ground_truth_list": [
+      "V",
+      "L",
+      "H",
+      "T",
+      "K",
+      "C",
+      "M",
+      "P"
+    ],
+    "ground_truth_values": [
+      70,
+      68,
+      67,
+      65,
+      62,
+      60,
+      57,
+      54
+    ]
+  },
+  {
+    "id": "test_chart_00134",
+    "image": "test_chart_00134.png",
+    "conversations": [
+      {
+        "from": "human",
+        "value": "<image>\nAnalyze the scatter plot. Identify the value and color of each point associated with the letters, then sort the letters based on their values from highest to lowest."
+      },
+      {
+        "from": "gpt",
+        "value": "The sorted order is: J, A, P."
+      }
+    ],
+    "ground_truth_list": [
+      "J",
+      "A",
+      "P"
+    ],
+    "ground_truth_values": [
+      87,
+      62,
+      34
+    ]
+  },
+  {
+    "id": "test_chart_00135",
+    "image": "test_chart_00135.png",
+    "conversations": [
+      {
+        "from": "human",
+        "value": "<image>\nAnalyze the scatter plot. Identify the value and color of each point associated with the letters, then sort the letters based on their values from highest to lowest."
+      },
+      {
+        "from": "gpt",
+        "value": "The sorted order is: Q, R, V, W, J."
+      }
+    ],
+    "ground_truth_list": [
+      "Q",
+      "R",
+      "V",
+      "W",
+      "J"
+    ],
+    "ground_truth_values": [
+      63,
+      61,
+      58,
+      54,
+      45
+    ]
+  },
+  {
+    "id": "test_chart_00136",
+    "image": "test_chart_00136.png",
+    "conversations": [
+      {
+        "from": "human",
+        "value": "<image>\nAnalyze the scatter plot. Identify the value and color of each point associated with the letters, then sort the letters based on their values from highest to lowest."
+      },
+      {
+        "from": "gpt",
+        "value": "The sorted order is: J, M, A, V, R."
+      }
+    ],
+    "ground_truth_list": [
+      "J",
+      "M",
+      "A",
+      "V",
+      "R"
+    ],
+    "ground_truth_values": [
+      67,
+      65,
+      54,
+      25,
+      18
+    ]
+  },
+  {
+    "id": "test_chart_00137",
+    "image": "test_chart_00137.png",
+    "conversations": [
+      {
+        "from": "human",
+        "value": "<image>\nAnalyze the scatter plot. Identify the value and color of each point associated with the letters, then sort the letters based on their values from highest to lowest."
+      },
+      {
+        "from": "gpt",
+        "value": "The sorted order is: H, F, S, W, R, X, C, G."
+      }
+    ],
+    "ground_truth_list": [
+      "H",
+      "F",
+      "S",
+      "W",
+      "R",
+      "X",
+      "C",
+      "G"
+    ],
+    "ground_truth_values": [
+      91,
+      82,
+      79,
+      75,
+      34,
+      31,
+      25,
+      21
+    ]
+  },
+  {
+    "id": "test_chart_00138",
+    "image": "test_chart_00138.png",
+    "conversations": [
+      {
+        "from": "human",
+        "value": "<image>\nAnalyze the scatter plot. Identify the value and color of each point associated with the letters, then sort the letters based on their values from highest to lowest."
+      },
+      {
+        "from": "gpt",
+        "value": "The sorted order is: R, K, Q, T, C."
+      }
+    ],
+    "ground_truth_list": [
+      "R",
+      "K",
+      "Q",
+      "T",
+      "C"
+    ],
+    "ground_truth_values": [
+      64,
+      61,
+      59,
+      56,
+      52
+    ]
+  },
+  {
+    "id": "test_chart_00139",
+    "image": "test_chart_00139.png",
+    "conversations": [
+      {
+        "from": "human",
+        "value": "<image>\nAnalyze the scatter plot. Identify the value and color of each point associated with the letters, then sort the letters based on their values from highest to lowest."
+      },
+      {
+        "from": "gpt",
+        "value": "The sorted order is: L, W, S, X, B."
+      }
+    ],
+    "ground_truth_list": [
+      "L",
+      "W",
+      "S",
+      "X",
+      "B"
+    ],
+    "ground_truth_values": [
+      75,
+      73,
+      69,
+      63,
+      41
+    ]
+  },
+  {
+    "id": "test_chart_00140",
+    "image": "test_chart_00140.png",
+    "conversations": [
+      {
+        "from": "human",
+        "value": "<image>\nAnalyze the scatter plot. Identify the value and color of each point associated with the letters, then sort the letters based on their values from highest to lowest."
+      },
+      {
+        "from": "gpt",
+        "value": "The sorted order is: Z, F, B, R, Y."
+      }
+    ],
+    "ground_truth_list": [
+      "Z",
+      "F",
+      "B",
+      "R",
+      "Y"
+    ],
+    "ground_truth_values": [
+      51,
+      50,
+      49,
+      44,
+      41
+    ]
+  },
+  {
+    "id": "test_chart_00141",
+    "image": "test_chart_00141.png",
+    "conversations": [
+      {
+        "from": "human",
+        "value": "<image>\nAnalyze the scatter plot. Identify the value and color of each point associated with the letters, then sort the letters based on their values from highest to lowest."
+      },
+      {
+        "from": "gpt",
+        "value": "The sorted order is: R, M, N."
+      }
+    ],
+    "ground_truth_list": [
+      "R",
+      "M",
+      "N"
+    ],
+    "ground_truth_values": [
+      71,
+      24,
+      14
+    ]
+  },
+  {
+    "id": "test_chart_00142",
+    "image": "test_chart_00142.png",
+    "conversations": [
+      {
+        "from": "human",
+        "value": "<image>\nAnalyze the scatter plot. Identify the value and color of each point associated with the letters, then sort the letters based on their values from highest to lowest."
+      },
+      {
+        "from": "gpt",
+        "value": "The sorted order is: T, Q, Z."
+      }
+    ],
+    "ground_truth_list": [
+      "T",
+      "Q",
+      "Z"
+    ],
+    "ground_truth_values": [
+      55,
+      46,
+      42
+    ]
+  },
+  {
+    "id": "test_chart_00143",
+    "image": "test_chart_00143.png",
+    "conversations": [
+      {
+        "from": "human",
+        "value": "<image>\nAnalyze the scatter plot. Identify the value and color of each point associated with the letters, then sort the letters based on their values from highest to lowest."
+      },
+      {
+        "from": "gpt",
+        "value": "The sorted order is: R, G, W, F, D, V."
+      }
+    ],
+    "ground_truth_list": [
+      "R",
+      "G",
+      "W",
+      "F",
+      "D",
+      "V"
+    ],
+    "ground_truth_values": [
+      91,
+      63,
+      62,
+      53,
+      38,
+      28
+    ]
+  },
+  {
+    "id": "test_chart_00144",
+    "image": "test_chart_00144.png",
+    "conversations": [
+      {
+        "from": "human",
+        "value": "<image>\nAnalyze the scatter plot. Identify the value and color of each point associated with the letters, then sort the letters based on their values from highest to lowest."
+      },
+      {
+        "from": "gpt",
+        "value": "The sorted order is: S, E, Q, P."
+      }
+    ],
+    "ground_truth_list": [
+      "S",
+      "E",
+      "Q",
+      "P"
+    ],
+    "ground_truth_values": [
+      50,
+      39,
+      23,
+      13
+    ]
+  },
+  {
+    "id": "test_chart_00145",
+    "image": "test_chart_00145.png",
+    "conversations": [
+      {
+        "from": "human",
+        "value": "<image>\nAnalyze the scatter plot. Identify the value and color of each point associated with the letters, then sort the letters based on their values from highest to lowest."
+      },
+      {
+        "from": "gpt",
+        "value": "The sorted order is: B, Q, L, M, J, Z."
+      }
+    ],
+    "ground_truth_list": [
+      "B",
+      "Q",
+      "L",
+      "M",
+      "J",
+      "Z"
+    ],
+    "ground_truth_values": [
+      67,
+      63,
+      62,
+      59,
+      55,
+      54
+    ]
+  },
+  {
+    "id": "test_chart_00146",
+    "image": "test_chart_00146.png",
+    "conversations": [
+      {
+        "from": "human",
+        "value": "<image>\nAnalyze the scatter plot. Identify the value and color of each point associated with the letters, then sort the letters based on their values from highest to lowest."
+      },
+      {
+        "from": "gpt",
+        "value": "The sorted order is: N, Q, G, E, S, K."
+      }
+    ],
+    "ground_truth_list": [
+      "N",
+      "Q",
+      "G",
+      "E",
+      "S",
+      "K"
+    ],
+    "ground_truth_values": [
+      94,
+      78,
+      77,
+      60,
+      59,
+      43
+    ]
+  },
+  {
+    "id": "test_chart_00147",
+    "image": "test_chart_00147.png",
+    "conversations": [
+      {
+        "from": "human",
+        "value": "<image>\nAnalyze the scatter plot. Identify the value and color of each point associated with the letters, then sort the letters based on their values from highest to lowest."
+      },
+      {
+        "from": "gpt",
+        "value": "The sorted order is: V, T, R, S."
+      }
+    ],
+    "ground_truth_list": [
+      "V",
+      "T",
+      "R",
+      "S"
+    ],
+    "ground_truth_values": [
+      96,
+      82,
+      41,
+      16
+    ]
+  },
+  {
+    "id": "test_chart_00148",
+    "image": "test_chart_00148.png",
+    "conversations": [
+      {
+        "from": "human",
+        "value": "<image>\nAnalyze the scatter plot. Identify the value and color of each point associated with the letters, then sort the letters based on their values from highest to lowest."
+      },
+      {
+        "from": "gpt",
+        "value": "The sorted order is: E, D, K, R."
+      }
+    ],
+    "ground_truth_list": [
+      "E",
+      "D",
+      "K",
+      "R"
+    ],
+    "ground_truth_values": [
+      99,
+      75,
+      69,
+      49
+    ]
+  },
+  {
+    "id": "test_chart_00149",
+    "image": "test_chart_00149.png",
+    "conversations": [
+      {
+        "from": "human",
+        "value": "<image>\nAnalyze the scatter plot. Identify the value and color of each point associated with the letters, then sort the letters based on their values from highest to lowest."
+      },
+      {
+        "from": "gpt",
+        "value": "The sorted order is: X, L, N."
+      }
+    ],
+    "ground_truth_list": [
+      "X",
+      "L",
+      "N"
+    ],
+    "ground_truth_values": [
+      80,
+      58,
+      22
+    ]
+  },
+  {
+    "id": "test_chart_00150",
+    "image": "test_chart_00150.png",
+    "conversations": [
+      {
+        "from": "human",
+        "value": "<image>\nAnalyze the scatter plot. Identify the value and color of each point associated with the letters, then sort the letters based on their values from highest to lowest."
+      },
+      {
+        "from": "gpt",
+        "value": "The sorted order is: W, R, J."
+      }
+    ],
+    "ground_truth_list": [
+      "W",
+      "R",
+      "J"
+    ],
+    "ground_truth_values": [
+      84,
+      76,
+      67
+    ]
+  },
+  {
+    "id": "test_chart_00151",
+    "image": "test_chart_00151.png",
+    "conversations": [
+      {
+        "from": "human",
+        "value": "<image>\nAnalyze the scatter plot. Identify the value and color of each point associated with the letters, then sort the letters based on their values from highest to lowest."
+      },
+      {
+        "from": "gpt",
+        "value": "The sorted order is: S, V, D."
+      }
+    ],
+    "ground_truth_list": [
+      "S",
+      "V",
+      "D"
+    ],
+    "ground_truth_values": [
+      71,
+      68,
+      28
+    ]
+  },
+  {
+    "id": "test_chart_00152",
+    "image": "test_chart_00152.png",
+    "conversations": [
+      {
+        "from": "human",
+        "value": "<image>\nAnalyze the scatter plot. Identify the value and color of each point associated with the letters, then sort the letters based on their values from highest to lowest."
+      },
+      {
+        "from": "gpt",
+        "value": "The sorted order is: M, E, P, D, S, B."
+      }
+    ],
+    "ground_truth_list": [
+      "M",
+      "E",
+      "P",
+      "D",
+      "S",
+      "B"
+    ],
+    "ground_truth_values": [
+      87,
+      54,
+      44,
+      36,
+      31,
+      18
+    ]
+  },
+  {
+    "id": "test_chart_00153",
+    "image": "test_chart_00153.png",
+    "conversations": [
+      {
+        "from": "human",
+        "value": "<image>\nAnalyze the scatter plot. Identify the value and color of each point associated with the letters, then sort the letters based on their values from highest to lowest."
+      },
+      {
+        "from": "gpt",
+        "value": "The sorted order is: C, J, B."
+      }
+    ],
+    "ground_truth_list": [
+      "C",
+      "J",
+      "B"
+    ],
+    "ground_truth_values": [
+      96,
+      85,
+      80
+    ]
+  },
+  {
+    "id": "test_chart_00154",
+    "image": "test_chart_00154.png",
+    "conversations": [
+      {
+        "from": "human",
+        "value": "<image>\nAnalyze the scatter plot. Identify the value and color of each point associated with the letters, then sort the letters based on their values from highest to lowest."
+      },
+      {
+        "from": "gpt",
+        "value": "The sorted order is: K, F, H."
+      }
+    ],
+    "ground_truth_list": [
+      "K",
+      "F",
+      "H"
+    ],
+    "ground_truth_values": [
+      71,
+      65,
+      60
+    ]
+  },
+  {
+    "id": "test_chart_00155",
+    "image": "test_chart_00155.png",
+    "conversations": [
+      {
+        "from": "human",
+        "value": "<image>\nAnalyze the scatter plot. Identify the value and color of each point associated with the letters, then sort the letters based on their values from highest to lowest."
+      },
+      {
+        "from": "gpt",
+        "value": "The sorted order is: T, D, B, J."
+      }
+    ],
+    "ground_truth_list": [
+      "T",
+      "D",
+      "B",
+      "J"
+    ],
+    "ground_truth_values": [
+      99,
+      83,
+      78,
+      77
+    ]
+  },
+  {
+    "id": "test_chart_00156",
+    "image": "test_chart_00156.png",
+    "conversations": [
+      {
+        "from": "human",
+        "value": "<image>\nAnalyze the scatter plot. Identify the value and color of each point associated with the letters, then sort the letters based on their values from highest to lowest."
+      },
+      {
+        "from": "gpt",
+        "value": "The sorted order is: H, M, B, W, V, N."
+      }
+    ],
+    "ground_truth_list": [
+      "H",
+      "M",
+      "B",
+      "W",
+      "V",
+      "N"
+    ],
+    "ground_truth_values": [
+      93,
+      84,
+      62,
+      48,
+      39,
+      31
+    ]
+  },
+  {
+    "id": "test_chart_00157",
+    "image": "test_chart_00157.png",
+    "conversations": [
+      {
+        "from": "human",
+        "value": "<image>\nAnalyze the scatter plot. Identify the value and color of each point associated with the letters, then sort the letters based on their values from highest to lowest."
+      },
+      {
+        "from": "gpt",
+        "value": "The sorted order is: K, D, X, H, Y."
+      }
+    ],
+    "ground_truth_list": [
+      "K",
+      "D",
+      "X",
+      "H",
+      "Y"
+    ],
+    "ground_truth_values": [
+      79,
+      78,
+      70,
+      69,
+      60
+    ]
+  },
+  {
+    "id": "test_chart_00158",
+    "image": "test_chart_00158.png",
+    "conversations": [
+      {
+        "from": "human",
+        "value": "<image>\nAnalyze the scatter plot. Identify the value and color of each point associated with the letters, then sort the letters based on their values from highest to lowest."
+      },
+      {
+        "from": "gpt",
+        "value": "The sorted order is: P, U, E."
+      }
+    ],
+    "ground_truth_list": [
+      "P",
+      "U",
+      "E"
+    ],
+    "ground_truth_values": [
+      51,
+      25,
+      14
+    ]
+  },
+  {
+    "id": "test_chart_00159",
+    "image": "test_chart_00159.png",
+    "conversations": [
+      {
+        "from": "human",
+        "value": "<image>\nAnalyze the scatter plot. Identify the value and color of each point associated with the letters, then sort the letters based on their values from highest to lowest."
+      },
+      {
+        "from": "gpt",
+        "value": "The sorted order is: W, A, F, E."
+      }
+    ],
+    "ground_truth_list": [
+      "W",
+      "A",
+      "F",
+      "E"
+    ],
+    "ground_truth_values": [
+      78,
+      74,
+      73,
+      71
+    ]
+  },
+  {
+    "id": "test_chart_00160",
+    "image": "test_chart_00160.png",
+    "conversations": [
+      {
+        "from": "human",
+        "value": "<image>\nAnalyze the scatter plot. Identify the value and color of each point associated with the letters, then sort the letters based on their values from highest to lowest."
+      },
+      {
+        "from": "gpt",
+        "value": "The sorted order is: A, X, Y, R, Q."
+      }
+    ],
+    "ground_truth_list": [
+      "A",
+      "X",
+      "Y",
+      "R",
+      "Q"
+    ],
+    "ground_truth_values": [
+      74,
+      71,
+      67,
+      64,
+      62
+    ]
+  },
+  {
+    "id": "test_chart_00161",
+    "image": "test_chart_00161.png",
+    "conversations": [
+      {
+        "from": "human",
+        "value": "<image>\nAnalyze the scatter plot. Identify the value and color of each point associated with the letters, then sort the letters based on their values from highest to lowest."
+      },
+      {
+        "from": "gpt",
+        "value": "The sorted order is: T, G, D, F, V."
+      }
+    ],
+    "ground_truth_list": [
+      "T",
+      "G",
+      "D",
+      "F",
+      "V"
+    ],
+    "ground_truth_values": [
+      35,
+      34,
+      30,
+      28,
+      23
+    ]
+  },
+  {
+    "id": "test_chart_00162",
+    "image": "test_chart_00162.png",
+    "conversations": [
+      {
+        "from": "human",
+        "value": "<image>\nAnalyze the scatter plot. Identify the value and color of each point associated with the letters, then sort the letters based on their values from highest to lowest."
+      },
+      {
+        "from": "gpt",
+        "value": "The sorted order is: A, E, S, G, M."
+      }
+    ],
+    "ground_truth_list": [
+      "A",
+      "E",
+      "S",
+      "G",
+      "M"
+    ],
+    "ground_truth_values": [
+      76,
+      74,
+      72,
+      63,
+      59
+    ]
+  },
+  {
+    "id": "test_chart_00163",
+    "image": "test_chart_00163.png",
+    "conversations": [
+      {
+        "from": "human",
+        "value": "<image>\nAnalyze the scatter plot. Identify the value and color of each point associated with the letters, then sort the letters based on their values from highest to lowest."
+      },
+      {
+        "from": "gpt",
+        "value": "The sorted order is: Q, L, Y, N, H."
+      }
+    ],
+    "ground_truth_list": [
+      "Q",
+      "L",
+      "Y",
+      "N",
+      "H"
+    ],
+    "ground_truth_values": [
+      97,
+      46,
+      33,
+      30,
+      13
+    ]
+  },
+  {
+    "id": "test_chart_00164",
+    "image": "test_chart_00164.png",
+    "conversations": [
+      {
+        "from": "human",
+        "value": "<image>\nAnalyze the scatter plot. Identify the value and color of each point associated with the letters, then sort the letters based on their values from highest to lowest."
+      },
+      {
+        "from": "gpt",
+        "value": "The sorted order is: Q, G, N, Z, B, M."
+      }
+    ],
+    "ground_truth_list": [
+      "Q",
+      "G",
+      "N",
+      "Z",
+      "B",
+      "M"
+    ],
+    "ground_truth_values": [
+      98,
+      88,
+      83,
+      52,
+      33,
+      11
+    ]
+  },
+  {
+    "id": "test_chart_00165",
+    "image": "test_chart_00165.png",
+    "conversations": [
+      {
+        "from": "human",
+        "value": "<image>\nAnalyze the scatter plot. Identify the value and color of each point associated with the letters, then sort the letters based on their values from highest to lowest."
+      },
+      {
+        "from": "gpt",
+        "value": "The sorted order is: R, Q, Z, U, S, H, L."
+      }
+    ],
+    "ground_truth_list": [
+      "R",
+      "Q",
+      "Z",
+      "U",
+      "S",
+      "H",
+      "L"
+    ],
+    "ground_truth_values": [
+      71,
+      63,
+      61,
+      59,
+      57,
+      56,
+      54
+    ]
+  },
+  {
+    "id": "test_chart_00166",
+    "image": "test_chart_00166.png",
+    "conversations": [
+      {
+        "from": "human",
+        "value": "<image>\nAnalyze the scatter plot. Identify the value and color of each point associated with the letters, then sort the letters based on their values from highest to lowest."
+      },
+      {
+        "from": "gpt",
+        "value": "The sorted order is: D, T, X."
+      }
+    ],
+    "ground_truth_list": [
+      "D",
+      "T",
+      "X"
+    ],
+    "ground_truth_values": [
+      93,
+      59,
+      46
+    ]
+  },
+  {
+    "id": "test_chart_00167",
+    "image": "test_chart_00167.png",
+    "conversations": [
+      {
+        "from": "human",
+        "value": "<image>\nAnalyze the scatter plot. Identify the value and color of each point associated with the letters, then sort the letters based on their values from highest to lowest."
+      },
+      {
+        "from": "gpt",
+        "value": "The sorted order is: F, V, K, J."
+      }
+    ],
+    "ground_truth_list": [
+      "F",
+      "V",
+      "K",
+      "J"
+    ],
+    "ground_truth_values": [
+      74,
+      71,
+      70,
+      60
+    ]
+  },
+  {
+    "id": "test_chart_00168",
+    "image": "test_chart_00168.png",
+    "conversations": [
+      {
+        "from": "human",
+        "value": "<image>\nAnalyze the scatter plot. Identify the value and color of each point associated with the letters, then sort the letters based on their values from highest to lowest."
+      },
+      {
+        "from": "gpt",
+        "value": "The sorted order is: H, T, G, B, D."
+      }
+    ],
+    "ground_truth_list": [
+      "H",
+      "T",
+      "G",
+      "B",
+      "D"
+    ],
+    "ground_truth_values": [
+      98,
+      72,
+      45,
+      24,
+      15
+    ]
+  },
+  {
+    "id": "test_chart_00169",
+    "image": "test_chart_00169.png",
+    "conversations": [
+      {
+        "from": "human",
+        "value": "<image>\nAnalyze the scatter plot. Identify the value and color of each point associated with the letters, then sort the letters based on their values from highest to lowest."
+      },
+      {
+        "from": "gpt",
+        "value": "The sorted order is: R, D, H, U, Z."
+      }
+    ],
+    "ground_truth_list": [
+      "R",
+      "D",
+      "H",
+      "U",
+      "Z"
+    ],
+    "ground_truth_values": [
+      63,
+      61,
+      59,
+      58,
+      55
+    ]
+  },
+  {
+    "id": "test_chart_00170",
+    "image": "test_chart_00170.png",
+    "conversations": [
+      {
+        "from": "human",
+        "value": "<image>\nAnalyze the scatter plot. Identify the value and color of each point associated with the letters, then sort the letters based on their values from highest to lowest."
+      },
+      {
+        "from": "gpt",
+        "value": "The sorted order is: W, M, B, A, R."
+      }
+    ],
+    "ground_truth_list": [
+      "W",
+      "M",
+      "B",
+      "A",
+      "R"
+    ],
+    "ground_truth_values": [
+      46,
+      43,
+      41,
+      39,
+      29
+    ]
+  },
+  {
+    "id": "test_chart_00171",
+    "image": "test_chart_00171.png",
+    "conversations": [
+      {
+        "from": "human",
+        "value": "<image>\nAnalyze the scatter plot. Identify the value and color of each point associated with the letters, then sort the letters based on their values from highest to lowest."
+      },
+      {
+        "from": "gpt",
+        "value": "The sorted order is: W, B, F, L, R, M, Y, U."
+      }
+    ],
+    "ground_truth_list": [
+      "W",
+      "B",
+      "F",
+      "L",
+      "R",
+      "M",
+      "Y",
+      "U"
+    ],
+    "ground_truth_values": [
+      39,
+      33,
+      32,
+      30,
+      27,
+      26,
+      23,
+      21
+    ]
+  },
+  {
+    "id": "test_chart_00172",
+    "image": "test_chart_00172.png",
+    "conversations": [
+      {
+        "from": "human",
+        "value": "<image>\nAnalyze the scatter plot. Identify the value and color of each point associated with the letters, then sort the letters based on their values from highest to lowest."
+      },
+      {
+        "from": "gpt",
+        "value": "The sorted order is: N, A, W, Q, U, G."
+      }
+    ],
+    "ground_truth_list": [
+      "N",
+      "A",
+      "W",
+      "Q",
+      "U",
+      "G"
+    ],
+    "ground_truth_values": [
+      55,
+      53,
+      47,
+      46,
+      43,
+      41
+    ]
+  },
+  {
+    "id": "test_chart_00173",
+    "image": "test_chart_00173.png",
+    "conversations": [
+      {
+        "from": "human",
+        "value": "<image>\nAnalyze the scatter plot. Identify the value and color of each point associated with the letters, then sort the letters based on their values from highest to lowest."
+      },
+      {
+        "from": "gpt",
+        "value": "The sorted order is: U, H, Q, G, B, J."
+      }
+    ],
+    "ground_truth_list": [
+      "U",
+      "H",
+      "Q",
+      "G",
+      "B",
+      "J"
+    ],
+    "ground_truth_values": [
+      74,
+      71,
+      68,
+      67,
+      66,
+      57
+    ]
+  },
+  {
+    "id": "test_chart_00174",
+    "image": "test_chart_00174.png",
+    "conversations": [
+      {
+        "from": "human",
+        "value": "<image>\nAnalyze the scatter plot. Identify the value and color of each point associated with the letters, then sort the letters based on their values from highest to lowest."
+      },
+      {
+        "from": "gpt",
+        "value": "The sorted order is: B, P, M, Y, C, G, A, U."
+      }
+    ],
+    "ground_truth_list": [
+      "B",
+      "P",
+      "M",
+      "Y",
+      "C",
+      "G",
+      "A",
+      "U"
+    ],
+    "ground_truth_values": [
+      97,
+      87,
+      67,
+      53,
+      35,
+      29,
+      27,
+      19
+    ]
+  },
+  {
+    "id": "test_chart_00175",
+    "image": "test_chart_00175.png",
+    "conversations": [
+      {
+        "from": "human",
+        "value": "<image>\nAnalyze the scatter plot. Identify the value and color of each point associated with the letters, then sort the letters based on their values from highest to lowest."
+      },
+      {
+        "from": "gpt",
+        "value": "The sorted order is: Y, Q, C, T, F, R, B, H."
+      }
+    ],
+    "ground_truth_list": [
+      "Y",
+      "Q",
+      "C",
+      "T",
+      "F",
+      "R",
+      "B",
+      "H"
+    ],
+    "ground_truth_values": [
+      64,
+      63,
+      62,
+      61,
+      60,
+      59,
+      47,
+      45
+    ]
+  },
+  {
+    "id": "test_chart_00176",
+    "image": "test_chart_00176.png",
+    "conversations": [
+      {
+        "from": "human",
+        "value": "<image>\nAnalyze the scatter plot. Identify the value and color of each point associated with the letters, then sort the letters based on their values from highest to lowest."
+      },
+      {
+        "from": "gpt",
+        "value": "The sorted order is: B, H, S, W, T."
+      }
+    ],
+    "ground_truth_list": [
+      "B",
+      "H",
+      "S",
+      "W",
+      "T"
+    ],
+    "ground_truth_values": [
+      37,
+      35,
+      34,
+      27,
+      23
+    ]
+  },
+  {
+    "id": "test_chart_00177",
+    "image": "test_chart_00177.png",
+    "conversations": [
+      {
+        "from": "human",
+        "value": "<image>\nAnalyze the scatter plot. Identify the value and color of each point associated with the letters, then sort the letters based on their values from highest to lowest."
+      },
+      {
+        "from": "gpt",
+        "value": "The sorted order is: V, R, F."
+      }
+    ],
+    "ground_truth_list": [
+      "V",
+      "R",
+      "F"
+    ],
+    "ground_truth_values": [
+      92,
+      90,
+      26
+    ]
+  },
+  {
+    "id": "test_chart_00178",
+    "image": "test_chart_00178.png",
+    "conversations": [
+      {
+        "from": "human",
+        "value": "<image>\nAnalyze the scatter plot. Identify the value and color of each point associated with the letters, then sort the letters based on their values from highest to lowest."
+      },
+      {
+        "from": "gpt",
+        "value": "The sorted order is: K, S, H, D, M, N, R."
+      }
+    ],
+    "ground_truth_list": [
+      "K",
+      "S",
+      "H",
+      "D",
+      "M",
+      "N",
+      "R"
+    ],
+    "ground_truth_values": [
+      55,
+      54,
+      53,
+      52,
+      46,
+      43,
+      42
+    ]
+  },
+  {
+    "id": "test_chart_00179",
+    "image": "test_chart_00179.png",
+    "conversations": [
+      {
+        "from": "human",
+        "value": "<image>\nAnalyze the scatter plot. Identify the value and color of each point associated with the letters, then sort the letters based on their values from highest to lowest."
+      },
+      {
+        "from": "gpt",
+        "value": "The sorted order is: E, F, Q, L, R, C, K."
+      }
+    ],
+    "ground_truth_list": [
+      "E",
+      "F",
+      "Q",
+      "L",
+      "R",
+      "C",
+      "K"
+    ],
+    "ground_truth_values": [
+      93,
+      89,
+      87,
+      71,
+      59,
+      32,
+      23
+    ]
+  },
+  {
+    "id": "test_chart_00180",
+    "image": "test_chart_00180.png",
+    "conversations": [
+      {
+        "from": "human",
+        "value": "<image>\nAnalyze the scatter plot. Identify the value and color of each point associated with the letters, then sort the letters based on their values from highest to lowest."
+      },
+      {
+        "from": "gpt",
+        "value": "The sorted order is: S, V, Y, R, K."
+      }
+    ],
+    "ground_truth_list": [
+      "S",
+      "V",
+      "Y",
+      "R",
+      "K"
+    ],
+    "ground_truth_values": [
+      72,
+      67,
+      65,
+      54,
+      53
+    ]
+  },
+  {
+    "id": "test_chart_00181",
+    "image": "test_chart_00181.png",
+    "conversations": [
+      {
+        "from": "human",
+        "value": "<image>\nAnalyze the scatter plot. Identify the value and color of each point associated with the letters, then sort the letters based on their values from highest to lowest."
+      },
+      {
+        "from": "gpt",
+        "value": "The sorted order is: U, F, H."
+      }
+    ],
+    "ground_truth_list": [
+      "U",
+      "F",
+      "H"
+    ],
+    "ground_truth_values": [
+      69,
+      67,
+      51
+    ]
+  },
+  {
+    "id": "test_chart_00182",
+    "image": "test_chart_00182.png",
+    "conversations": [
+      {
+        "from": "human",
+        "value": "<image>\nAnalyze the scatter plot. Identify the value and color of each point associated with the letters, then sort the letters based on their values from highest to lowest."
+      },
+      {
+        "from": "gpt",
+        "value": "The sorted order is: J, H, V, E, Y, X, G, L."
+      }
+    ],
+    "ground_truth_list": [
+      "J",
+      "H",
+      "V",
+      "E",
+      "Y",
+      "X",
+      "G",
+      "L"
+    ],
+    "ground_truth_values": [
+      38,
+      35,
+      30,
+      29,
+      27,
+      25,
+      22,
+      21
+    ]
+  },
+  {
+    "id": "test_chart_00183",
+    "image": "test_chart_00183.png",
+    "conversations": [
+      {
+        "from": "human",
+        "value": "<image>\nAnalyze the scatter plot. Identify the value and color of each point associated with the letters, then sort the letters based on their values from highest to lowest."
+      },
+      {
+        "from": "gpt",
+        "value": "The sorted order is: L, U, S, G, M, A, X, K."
+      }
+    ],
+    "ground_truth_list": [
+      "L",
+      "U",
+      "S",
+      "G",
+      "M",
+      "A",
+      "X",
+      "K"
+    ],
+    "ground_truth_values": [
+      84,
+      82,
+      78,
+      69,
+      65,
+      45,
+      21,
+      13
+    ]
+  },
+  {
+    "id": "test_chart_00184",
+    "image": "test_chart_00184.png",
+    "conversations": [
+      {
+        "from": "human",
+        "value": "<image>\nAnalyze the scatter plot. Identify the value and color of each point associated with the letters, then sort the letters based on their values from highest to lowest."
+      },
+      {
+        "from": "gpt",
+        "value": "The sorted order is: D, K, A."
+      }
+    ],
+    "ground_truth_list": [
+      "D",
+      "K",
+      "A"
+    ],
+    "ground_truth_values": [
+      79,
+      68,
+      64
+    ]
+  },
+  {
+    "id": "test_chart_00185",
+    "image": "test_chart_00185.png",
+    "conversations": [
+      {
+        "from": "human",
+        "value": "<image>\nAnalyze the scatter plot. Identify the value and color of each point associated with the letters, then sort the letters based on their values from highest to lowest."
+      },
+      {
+        "from": "gpt",
+        "value": "The sorted order is: P, C, S, V, L, N, T."
+      }
+    ],
+    "ground_truth_list": [
+      "P",
+      "C",
+      "S",
+      "V",
+      "L",
+      "N",
+      "T"
+    ],
+    "ground_truth_values": [
+      88,
+      81,
+      75,
+      74,
+      41,
+      38,
+      23
+    ]
+  },
+  {
+    "id": "test_chart_00186",
+    "image": "test_chart_00186.png",
+    "conversations": [
+      {
+        "from": "human",
+        "value": "<image>\nAnalyze the scatter plot. Identify the value and color of each point associated with the letters, then sort the letters based on their values from highest to lowest."
+      },
+      {
+        "from": "gpt",
+        "value": "The sorted order is: X, K, E, P."
+      }
+    ],
+    "ground_truth_list": [
+      "X",
+      "K",
+      "E",
+      "P"
+    ],
+    "ground_truth_values": [
+      93,
+      88,
+      47,
+      43
+    ]
+  },
+  {
+    "id": "test_chart_00187",
+    "image": "test_chart_00187.png",
+    "conversations": [
+      {
+        "from": "human",
+        "value": "<image>\nAnalyze the scatter plot. Identify the value and color of each point associated with the letters, then sort the letters based on their values from highest to lowest."
+      },
+      {
+        "from": "gpt",
+        "value": "The sorted order is: A, N, W."
+      }
+    ],
+    "ground_truth_list": [
+      "A",
+      "N",
+      "W"
+    ],
+    "ground_truth_values": [
+      49,
+      41,
+      37
+    ]
+  },
+  {
+    "id": "test_chart_00188",
+    "image": "test_chart_00188.png",
+    "conversations": [
+      {
+        "from": "human",
+        "value": "<image>\nAnalyze the scatter plot. Identify the value and color of each point associated with the letters, then sort the letters based on their values from highest to lowest."
+      },
+      {
+        "from": "gpt",
+        "value": "The sorted order is: E, T, Y, Z, U, N, V, H."
+      }
+    ],
+    "ground_truth_list": [
+      "E",
+      "T",
+      "Y",
+      "Z",
+      "U",
+      "N",
+      "V",
+      "H"
+    ],
+    "ground_truth_values": [
+      98,
+      76,
+      69,
+      60,
+      57,
+      54,
+      42,
+      10
+    ]
+  },
+  {
+    "id": "test_chart_00189",
+    "image": "test_chart_00189.png",
+    "conversations": [
+      {
+        "from": "human",
+        "value": "<image>\nAnalyze the scatter plot. Identify the value and color of each point associated with the letters, then sort the letters based on their values from highest to lowest."
+      },
+      {
+        "from": "gpt",
+        "value": "The sorted order is: C, D, Y, A, T, G, M, U."
+      }
+    ],
+    "ground_truth_list": [
+      "C",
+      "D",
+      "Y",
+      "A",
+      "T",
+      "G",
+      "M",
+      "U"
+    ],
+    "ground_truth_values": [
+      94,
+      88,
+      62,
+      57,
+      55,
+      30,
+      29,
+      13
+    ]
+  },
+  {
+    "id": "test_chart_00190",
+    "image": "test_chart_00190.png",
+    "conversations": [
+      {
+        "from": "human",
+        "value": "<image>\nAnalyze the scatter plot. Identify the value and color of each point associated with the letters, then sort the letters based on their values from highest to lowest."
+      },
+      {
+        "from": "gpt",
+        "value": "The sorted order is: R, L, U, M, G, Y, Q, K."
+      }
+    ],
+    "ground_truth_list": [
+      "R",
+      "L",
+      "U",
+      "M",
+      "G",
+      "Y",
+      "Q",
+      "K"
+    ],
+    "ground_truth_values": [
+      98,
+      89,
+      88,
+      82,
+      72,
+      48,
+      47,
+      22
+    ]
+  },
+  {
+    "id": "test_chart_00191",
+    "image": "test_chart_00191.png",
+    "conversations": [
+      {
+        "from": "human",
+        "value": "<image>\nAnalyze the scatter plot. Identify the value and color of each point associated with the letters, then sort the letters based on their values from highest to lowest."
+      },
+      {
+        "from": "gpt",
+        "value": "The sorted order is: L, R, X, Q, U, C, B, E."
+      }
+    ],
+    "ground_truth_list": [
+      "L",
+      "R",
+      "X",
+      "Q",
+      "U",
+      "C",
+      "B",
+      "E"
+    ],
+    "ground_truth_values": [
+      99,
+      86,
+      73,
+      63,
+      58,
+      56,
+      36,
+      19
+    ]
+  },
+  {
+    "id": "test_chart_00192",
+    "image": "test_chart_00192.png",
+    "conversations": [
+      {
+        "from": "human",
+        "value": "<image>\nAnalyze the scatter plot. Identify the value and color of each point associated with the letters, then sort the letters based on their values from highest to lowest."
+      },
+      {
+        "from": "gpt",
+        "value": "The sorted order is: E, F, U."
+      }
+    ],
+    "ground_truth_list": [
+      "E",
+      "F",
+      "U"
+    ],
+    "ground_truth_values": [
+      91,
+      70,
+      33
+    ]
+  },
+  {
+    "id": "test_chart_00193",
+    "image": "test_chart_00193.png",
+    "conversations": [
+      {
+        "from": "human",
+        "value": "<image>\nAnalyze the scatter plot. Identify the value and color of each point associated with the letters, then sort the letters based on their values from highest to lowest."
+      },
+      {
+        "from": "gpt",
+        "value": "The sorted order is: T, Z, E."
+      }
+    ],
+    "ground_truth_list": [
+      "T",
+      "Z",
+      "E"
+    ],
+    "ground_truth_values": [
+      69,
+      62,
+      56
+    ]
+  },
+  {
+    "id": "test_chart_00194",
+    "image": "test_chart_00194.png",
+    "conversations": [
+      {
+        "from": "human",
+        "value": "<image>\nAnalyze the scatter plot. Identify the value and color of each point associated with the letters, then sort the letters based on their values from highest to lowest."
+      },
+      {
+        "from": "gpt",
+        "value": "The sorted order is: L, D, W, V, B, A, J, M."
+      }
+    ],
+    "ground_truth_list": [
+      "L",
+      "D",
+      "W",
+      "V",
+      "B",
+      "A",
+      "J",
+      "M"
+    ],
+    "ground_truth_values": [
+      98,
+      83,
+      80,
+      73,
+      58,
+      57,
+      44,
+      20
+    ]
+  },
+  {
+    "id": "test_chart_00195",
+    "image": "test_chart_00195.png",
+    "conversations": [
+      {
+        "from": "human",
+        "value": "<image>\nAnalyze the scatter plot. Identify the value and color of each point associated with the letters, then sort the letters based on their values from highest to lowest."
+      },
+      {
+        "from": "gpt",
+        "value": "The sorted order is: T, E, W, D."
+      }
+    ],
+    "ground_truth_list": [
+      "T",
+      "E",
+      "W",
+      "D"
+    ],
+    "ground_truth_values": [
+      99,
+      79,
+      58,
+      29
+    ]
+  },
+  {
+    "id": "test_chart_00196",
+    "image": "test_chart_00196.png",
+    "conversations": [
+      {
+        "from": "human",
+        "value": "<image>\nAnalyze the scatter plot. Identify the value and color of each point associated with the letters, then sort the letters based on their values from highest to lowest."
+      },
+      {
+        "from": "gpt",
+        "value": "The sorted order is: R, K, N, L, S, Y, W, H."
+      }
+    ],
+    "ground_truth_list": [
+      "R",
+      "K",
+      "N",
+      "L",
+      "S",
+      "Y",
+      "W",
+      "H"
+    ],
+    "ground_truth_values": [
+      61,
+      59,
+      46,
+      17,
+      16,
+      14,
+      13,
+      11
+    ]
+  },
+  {
+    "id": "test_chart_00197",
+    "image": "test_chart_00197.png",
+    "conversations": [
+      {
+        "from": "human",
+        "value": "<image>\nAnalyze the scatter plot. Identify the value and color of each point associated with the letters, then sort the letters based on their values from highest to lowest."
+      },
+      {
+        "from": "gpt",
+        "value": "The sorted order is: U, D, E, S, G."
+      }
+    ],
+    "ground_truth_list": [
+      "U",
+      "D",
+      "E",
+      "S",
+      "G"
+    ],
+    "ground_truth_values": [
+      99,
+      94,
+      79,
+      28,
+      18
+    ]
+  },
+  {
+    "id": "test_chart_00198",
+    "image": "test_chart_00198.png",
+    "conversations": [
+      {
+        "from": "human",
+        "value": "<image>\nAnalyze the scatter plot. Identify the value and color of each point associated with the letters, then sort the letters based on their values from highest to lowest."
+      },
+      {
+        "from": "gpt",
+        "value": "The sorted order is: Z, E, U."
+      }
+    ],
+    "ground_truth_list": [
+      "Z",
+      "E",
+      "U"
+    ],
+    "ground_truth_values": [
+      66,
+      24,
+      17
+    ]
+  },
+  {
+    "id": "test_chart_00199",
+    "image": "test_chart_00199.png",
+    "conversations": [
+      {
+        "from": "human",
+        "value": "<image>\nAnalyze the scatter plot. Identify the value and color of each point associated with the letters, then sort the letters based on their values from highest to lowest."
+      },
+      {
+        "from": "gpt",
+        "value": "The sorted order is: L, T, N, K."
+      }
+    ],
+    "ground_truth_list": [
+      "L",
+      "T",
+      "N",
+      "K"
+    ],
+    "ground_truth_values": [
+      53,
+      51,
+      47,
+      41
+    ]
+  }
+]

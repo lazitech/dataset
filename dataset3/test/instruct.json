@@ -1,0 +1,2018 @@
+[
+  {
+    "id": "ishihara_test_0_115",
+    "image": "0/0_DejaVuSansCondensed-Obliquetheme_2 type_2.png",
+    "conversations": [
+      {
+        "from": "human",
+        "value": "Can you discern the digit represented by the chromatic difference in the dots?"
+      },
+      {
+        "from": "gpt",
+        "value": "0"
+      }
+    ]
+  },
+  {
+    "id": "ishihara_test_0_116",
+    "image": "0/0_DejaVuSerifCondensed-Italictheme_2 type_2.png",
+    "conversations": [
+      {
+        "from": "human",
+        "value": "This image consists of colored dots. What digit creates the pattern?"
+      },
+      {
+        "from": "gpt",
+        "value": "0"
+      }
+    ]
+  },
+  {
+    "id": "ishihara_test_0_117",
+    "image": "0/0_DejaVuSansCondensed-Obliquetheme_4 type_3.png",
+    "conversations": [
+      {
+        "from": "human",
+        "value": "Analyze the contrast between the colored bubbles. What number do they form?"
+      },
+      {
+        "from": "gpt",
+        "value": "0"
+      }
+    ]
+  },
+  {
+    "id": "ishihara_test_0_118",
+    "image": "0/0_Ramaraja-Regulartheme_4 type_3.png",
+    "conversations": [
+      {
+        "from": "human",
+        "value": "This image consists of colored dots. What digit creates the pattern?"
+      },
+      {
+        "from": "gpt",
+        "value": "0"
+      }
+    ]
+  },
+  {
+    "id": "ishihara_test_0_119",
+    "image": "0/0_CormorantGaramond-Lighttheme_2 type_2.png",
+    "conversations": [
+      {
+        "from": "human",
+        "value": "This image consists of colored dots. What digit creates the pattern?"
+      },
+      {
+        "from": "gpt",
+        "value": "0"
+      }
+    ]
+  },
+  {
+    "id": "ishihara_test_0_120",
+    "image": "0/0_ExpletusSans-Italictheme_2 type_2.png",
+    "conversations": [
+      {
+        "from": "human",
+        "value": "Can you discern the digit represented by the chromatic difference in the dots?"
+      },
+      {
+        "from": "gpt",
+        "value": "0"
+      }
+    ]
+  },
+  {
+    "id": "ishihara_test_0_121",
+    "image": "0/0_FreeSerifBoldItalictheme_3 type_3.png",
+    "conversations": [
+      {
+        "from": "human",
+        "value": "What number is hidden in this Ishihara color vision test plate?"
+      },
+      {
+        "from": "gpt",
+        "value": "0"
+      }
+    ]
+  },
+  {
+    "id": "ishihara_test_0_122",
+    "image": "0/0_K2D-Lighttheme_3 type_3.png",
+    "conversations": [
+      {
+        "from": "human",
+        "value": "This image consists of colored dots. What digit creates the pattern?"
+      },
+      {
+        "from": "gpt",
+        "value": "0"
+      }
+    ]
+  },
+  {
+    "id": "ishihara_test_0_123",
+    "image": "0/0_TlwgTypisttheme_2 type_2.png",
+    "conversations": [
+      {
+        "from": "human",
+        "value": "Please recognize the number embedded in the mosaic of dots."
+      },
+      {
+        "from": "gpt",
+        "value": "0"
+      }
+    ]
+  },
+  {
+    "id": "ishihara_test_0_124",
+    "image": "0/0_ChangaOne-Regulartheme_1 type_1.png",
+    "conversations": [
+      {
+        "from": "human",
+        "value": "Can you discern the digit represented by the chromatic difference in the dots?"
+      },
+      {
+        "from": "gpt",
+        "value": "0"
+      }
+    ]
+  },
+  {
+    "id": "ishihara_test_0_125",
+    "image": "0/0_DejaVuSanstheme_2 type_2.png",
+    "conversations": [
+      {
+        "from": "human",
+        "value": "Analyze the contrast between the colored bubbles. What number do they form?"
+      },
+      {
+        "from": "gpt",
+        "value": "0"
+      }
+    ]
+  },
+  {
+    "id": "ishihara_test_0_126",
+    "image": "0/0_Changa-Boldtheme_1 type_1.png",
+    "conversations": [
+      {
+        "from": "human",
+        "value": "Perform a color vision test reading on this image. What is the result?"
+      },
+      {
+        "from": "gpt",
+        "value": "0"
+      }
+    ]
+  },
+  {
+    "id": "ishihara_test_0_127",
+    "image": "0/0_K2D-Lighttheme_1 type_1.png",
+    "conversations": [
+      {
+        "from": "human",
+        "value": "This image consists of colored dots. What digit creates the pattern?"
+      },
+      {
+        "from": "gpt",
+        "value": "0"
+      }
+    ]
+  },
+  {
+    "id": "ishihara_test_1_254",
+    "image": "1/1_CormorantGaramond-Lighttheme_2 type_2.png",
+    "conversations": [
+      {
+        "from": "human",
+        "value": "Locate the number formed by the dots of a distinct color against the background."
+      },
+      {
+        "from": "gpt",
+        "value": "1"
+      }
+    ]
+  },
+  {
+    "id": "ishihara_test_1_255",
+    "image": "1/1_PlayfairDisplaySC-Italictheme_2 type_2.png",
+    "conversations": [
+      {
+        "from": "human",
+        "value": "Perform a color vision test reading on this image. What is the result?"
+      },
+      {
+        "from": "gpt",
+        "value": "1"
+      }
+    ]
+  },
+  {
+    "id": "ishihara_test_1_256",
+    "image": "1/1_Domine-Boldtheme_4 type_3.png",
+    "conversations": [
+      {
+        "from": "human",
+        "value": "What number is hidden in this Ishihara color vision test plate?"
+      },
+      {
+        "from": "gpt",
+        "value": "1"
+      }
+    ]
+  },
+  {
+    "id": "ishihara_test_1_257",
+    "image": "1/1_Exo-BlackItalictheme_2 type_2.png",
+    "conversations": [
+      {
+        "from": "human",
+        "value": "Analyze the contrast between the colored bubbles. What number do they form?"
+      },
+      {
+        "from": "gpt",
+        "value": "1"
+      }
+    ]
+  },
+  {
+    "id": "ishihara_test_1_258",
+    "image": "1/1_Chilanka-Regulartheme_4 type_3.png",
+    "conversations": [
+      {
+        "from": "human",
+        "value": "Perform a color vision test reading on this image. What is the result?"
+      },
+      {
+        "from": "gpt",
+        "value": "1"
+      }
+    ]
+  },
+  {
+    "id": "ishihara_test_1_259",
+    "image": "1/1_VeraMoBItheme_3 type_3.png",
+    "conversations": [
+      {
+        "from": "human",
+        "value": "Perform a color vision test reading on this image. What is the result?"
+      },
+      {
+        "from": "gpt",
+        "value": "1"
+      }
+    ]
+  },
+  {
+    "id": "ishihara_test_1_260",
+    "image": "1/1_LikhanNormaltheme_3 type_3.png",
+    "conversations": [
+      {
+        "from": "human",
+        "value": "Locate the number formed by the dots of a distinct color against the background."
+      },
+      {
+        "from": "gpt",
+        "value": "1"
+      }
+    ]
+  },
+  {
+    "id": "ishihara_test_1_261",
+    "image": "1/1_Varela-Regulartheme_3 type_3.png",
+    "conversations": [
+      {
+        "from": "human",
+        "value": "Identify the digit visible in this color blindness test image."
+      },
+      {
+        "from": "gpt",
+        "value": "1"
+      }
+    ]
+  },
+  {
+    "id": "ishihara_test_1_262",
+    "image": "1/1_FreeSerifBoldItalictheme_1 type_1.png",
+    "conversations": [
+      {
+        "from": "human",
+        "value": "Analyze the contrast between the colored bubbles. What number do they form?"
+      },
+      {
+        "from": "gpt",
+        "value": "1"
+      }
+    ]
+  },
+  {
+    "id": "ishihara_test_1_263",
+    "image": "1/1_Spectral-Mediumtheme_2 type_2.png",
+    "conversations": [
+      {
+        "from": "human",
+        "value": "Perform a color vision test reading on this image. What is the result?"
+      },
+      {
+        "from": "gpt",
+        "value": "1"
+      }
+    ]
+  },
+  {
+    "id": "ishihara_test_1_264",
+    "image": "1/1_DejaVuSerifCondensed-Italictheme_2 type_2.png",
+    "conversations": [
+      {
+        "from": "human",
+        "value": "Analyze the contrast between the colored bubbles. What number do they form?"
+      },
+      {
+        "from": "gpt",
+        "value": "1"
+      }
+    ]
+  },
+  {
+    "id": "ishihara_test_1_265",
+    "image": "1/1_Varela-Regulartheme_4 type_3.png",
+    "conversations": [
+      {
+        "from": "human",
+        "value": "Can you discern the digit represented by the chromatic difference in the dots?"
+      },
+      {
+        "from": "gpt",
+        "value": "1"
+      }
+    ]
+  },
+  {
+    "id": "ishihara_test_1_266",
+    "image": "1/1_SpectralSC-ExtraBoldItalictheme_2 type_2.png",
+    "conversations": [
+      {
+        "from": "human",
+        "value": "Identify the digit visible in this color blindness test image."
+      },
+      {
+        "from": "gpt",
+        "value": "1"
+      }
+    ]
+  },
+  {
+    "id": "ishihara_test_1_267",
+    "image": "1/1_VeraMoBItheme_1 type_1.png",
+    "conversations": [
+      {
+        "from": "human",
+        "value": "Analyze the contrast between the colored bubbles. What number do they form?"
+      },
+      {
+        "from": "gpt",
+        "value": "1"
+      }
+    ]
+  },
+  {
+    "id": "ishihara_test_2_397",
+    "image": "2/2_Oldenburg-Regulartheme_2 type_2.png",
+    "conversations": [
+      {
+        "from": "human",
+        "value": "Locate the number formed by the dots of a distinct color against the background."
+      },
+      {
+        "from": "gpt",
+        "value": "2"
+      }
+    ]
+  },
+  {
+    "id": "ishihara_test_2_398",
+    "image": "2/2_Changa-Boldtheme_1 type_1.png",
+    "conversations": [
+      {
+        "from": "human",
+        "value": "Can you discern the digit represented by the chromatic difference in the dots?"
+      },
+      {
+        "from": "gpt",
+        "value": "2"
+      }
+    ]
+  },
+  {
+    "id": "ishihara_test_2_399",
+    "image": "2/2_CormorantGaramond-Lighttheme_3 type_3.png",
+    "conversations": [
+      {
+        "from": "human",
+        "value": "Can you discern the digit represented by the chromatic difference in the dots?"
+      },
+      {
+        "from": "gpt",
+        "value": "2"
+      }
+    ]
+  },
+  {
+    "id": "ishihara_test_2_400",
+    "image": "2/2_Phetsarath_OTtheme_2 type_2.png",
+    "conversations": [
+      {
+        "from": "human",
+        "value": "Identify the digit visible in this color blindness test image."
+      },
+      {
+        "from": "gpt",
+        "value": "2"
+      }
+    ]
+  },
+  {
+    "id": "ishihara_test_2_401",
+    "image": "2/2_DejaVuSanstheme_4 type_3.png",
+    "conversations": [
+      {
+        "from": "human",
+        "value": "Locate the number formed by the dots of a distinct color against the background."
+      },
+      {
+        "from": "gpt",
+        "value": "2"
+      }
+    ]
+  },
+  {
+    "id": "ishihara_test_2_402",
+    "image": "2/2_Asap-MediumItalictheme_2 type_2.png",
+    "conversations": [
+      {
+        "from": "human",
+        "value": "Locate the number formed by the dots of a distinct color against the background."
+      },
+      {
+        "from": "gpt",
+        "value": "2"
+      }
+    ]
+  },
+  {
+    "id": "ishihara_test_2_403",
+    "image": "2/2_AveriaLibre-LightItalictheme_3 type_3.png",
+    "conversations": [
+      {
+        "from": "human",
+        "value": "Identify the digit visible in this color blindness test image."
+      },
+      {
+        "from": "gpt",
+        "value": "2"
+      }
+    ]
+  },
+  {
+    "id": "ishihara_test_2_404",
+    "image": "2/2_Spectral-Mediumtheme_1 type_1.png",
+    "conversations": [
+      {
+        "from": "human",
+        "value": "Identify the digit visible in this color blindness test image."
+      },
+      {
+        "from": "gpt",
+        "value": "2"
+      }
+    ]
+  },
+  {
+    "id": "ishihara_test_2_405",
+    "image": "2/2_Chilanka-Regulartheme_3 type_3.png",
+    "conversations": [
+      {
+        "from": "human",
+        "value": "Please recognize the number embedded in the mosaic of dots."
+      },
+      {
+        "from": "gpt",
+        "value": "2"
+      }
+    ]
+  },
+  {
+    "id": "ishihara_test_2_406",
+    "image": "2/2_Ramaraja-Regulartheme_1 type_1.png",
+    "conversations": [
+      {
+        "from": "human",
+        "value": "This image consists of colored dots. What digit creates the pattern?"
+      },
+      {
+        "from": "gpt",
+        "value": "2"
+      }
+    ]
+  },
+  {
+    "id": "ishihara_test_2_407",
+    "image": "2/2_EncodeSans-Lighttheme_3 type_3.png",
+    "conversations": [
+      {
+        "from": "human",
+        "value": "Identify the digit visible in this color blindness test image."
+      },
+      {
+        "from": "gpt",
+        "value": "2"
+      }
+    ]
+  },
+  {
+    "id": "ishihara_test_2_408",
+    "image": "2/2_BalooThambi-Regulartheme_2 type_2.png",
+    "conversations": [
+      {
+        "from": "human",
+        "value": "This image consists of colored dots. What digit creates the pattern?"
+      },
+      {
+        "from": "gpt",
+        "value": "2"
+      }
+    ]
+  },
+  {
+    "id": "ishihara_test_2_409",
+    "image": "2/2_DejaVuSerifCondensed-Italictheme_4 type_3.png",
+    "conversations": [
+      {
+        "from": "human",
+        "value": "Perform a color vision test reading on this image. What is the result?"
+      },
+      {
+        "from": "gpt",
+        "value": "2"
+      }
+    ]
+  },
+  {
+    "id": "ishihara_test_2_410",
+    "image": "2/2_EagleLake-Regulartheme_4 type_3.png",
+    "conversations": [
+      {
+        "from": "human",
+        "value": "Please recognize the number embedded in the mosaic of dots."
+      },
+      {
+        "from": "gpt",
+        "value": "2"
+      }
+    ]
+  },
+  {
+    "id": "ishihara_test_2_411",
+    "image": "2/2_Domine-Boldtheme_3 type_3.png",
+    "conversations": [
+      {
+        "from": "human",
+        "value": "Can you discern the digit represented by the chromatic difference in the dots?"
+      },
+      {
+        "from": "gpt",
+        "value": "2"
+      }
+    ]
+  },
+  {
+    "id": "ishihara_test_3_548",
+    "image": "3/3_Mate-Regulartheme_3 type_3.png",
+    "conversations": [
+      {
+        "from": "human",
+        "value": "Please recognize the number embedded in the mosaic of dots."
+      },
+      {
+        "from": "gpt",
+        "value": "3"
+      }
+    ]
+  },
+  {
+    "id": "ishihara_test_3_549",
+    "image": "3/3_K2D-Lighttheme_1 type_1.png",
+    "conversations": [
+      {
+        "from": "human",
+        "value": "Perform a color vision test reading on this image. What is the result?"
+      },
+      {
+        "from": "gpt",
+        "value": "3"
+      }
+    ]
+  },
+  {
+    "id": "ishihara_test_3_550",
+    "image": "3/3_Oldenburg-Regulartheme_4 type_3.png",
+    "conversations": [
+      {
+        "from": "human",
+        "value": "Can you discern the digit represented by the chromatic difference in the dots?"
+      },
+      {
+        "from": "gpt",
+        "value": "3"
+      }
+    ]
+  },
+  {
+    "id": "ishihara_test_3_551",
+    "image": "3/3_Ramaraja-Regulartheme_2 type_2.png",
+    "conversations": [
+      {
+        "from": "human",
+        "value": "Locate the number formed by the dots of a distinct color against the background."
+      },
+      {
+        "from": "gpt",
+        "value": "3"
+      }
+    ]
+  },
+  {
+    "id": "ishihara_test_3_552",
+    "image": "3/3_Asap-MediumItalictheme_3 type_3.png",
+    "conversations": [
+      {
+        "from": "human",
+        "value": "Perform a color vision test reading on this image. What is the result?"
+      },
+      {
+        "from": "gpt",
+        "value": "3"
+      }
+    ]
+  },
+  {
+    "id": "ishihara_test_3_553",
+    "image": "3/3_Changa-Boldtheme_1 type_1.png",
+    "conversations": [
+      {
+        "from": "human",
+        "value": "What number is hidden in this Ishihara color vision test plate?"
+      },
+      {
+        "from": "gpt",
+        "value": "3"
+      }
+    ]
+  },
+  {
+    "id": "ishihara_test_3_554",
+    "image": "3/3_SpectralSC-ExtraBoldItalictheme_2 type_2.png",
+    "conversations": [
+      {
+        "from": "human",
+        "value": "Analyze the contrast between the colored bubbles. What number do they form?"
+      },
+      {
+        "from": "gpt",
+        "value": "3"
+      }
+    ]
+  },
+  {
+    "id": "ishihara_test_3_555",
+    "image": "3/3_CormorantGaramond-Lighttheme_4 type_3.png",
+    "conversations": [
+      {
+        "from": "human",
+        "value": "Perform a color vision test reading on this image. What is the result?"
+      },
+      {
+        "from": "gpt",
+        "value": "3"
+      }
+    ]
+  },
+  {
+    "id": "ishihara_test_3_556",
+    "image": "3/3_Waree-Obliquetheme_2 type_2.png",
+    "conversations": [
+      {
+        "from": "human",
+        "value": "Please recognize the number embedded in the mosaic of dots."
+      },
+      {
+        "from": "gpt",
+        "value": "3"
+      }
+    ]
+  },
+  {
+    "id": "ishihara_test_3_557",
+    "image": "3/3_TitilliumWeb-SemiBoldItalictheme_4 type_3.png",
+    "conversations": [
+      {
+        "from": "human",
+        "value": "What number is hidden in this Ishihara color vision test plate?"
+      },
+      {
+        "from": "gpt",
+        "value": "3"
+      }
+    ]
+  },
+  {
+    "id": "ishihara_test_3_558",
+    "image": "3/3_Ramaraja-Regulartheme_4 type_3.png",
+    "conversations": [
+      {
+        "from": "human",
+        "value": "Please recognize the number embedded in the mosaic of dots."
+      },
+      {
+        "from": "gpt",
+        "value": "3"
+      }
+    ]
+  },
+  {
+    "id": "ishihara_test_3_559",
+    "image": "3/3_AveriaSerifLibre-Regulartheme_3 type_3.png",
+    "conversations": [
+      {
+        "from": "human",
+        "value": "Perform a color vision test reading on this image. What is the result?"
+      },
+      {
+        "from": "gpt",
+        "value": "3"
+      }
+    ]
+  },
+  {
+    "id": "ishihara_test_3_560",
+    "image": "3/3_TlwgTypisttheme_3 type_3.png",
+    "conversations": [
+      {
+        "from": "human",
+        "value": "Identify the digit visible in this color blindness test image."
+      },
+      {
+        "from": "gpt",
+        "value": "3"
+      }
+    ]
+  },
+  {
+    "id": "ishihara_test_3_561",
+    "image": "3/3_Spectral-Mediumtheme_2 type_2.png",
+    "conversations": [
+      {
+        "from": "human",
+        "value": "Please recognize the number embedded in the mosaic of dots."
+      },
+      {
+        "from": "gpt",
+        "value": "3"
+      }
+    ]
+  },
+  {
+    "id": "ishihara_test_3_562",
+    "image": "3/3_PortLligatSlab-Regulartheme_2 type_2.png",
+    "conversations": [
+      {
+        "from": "human",
+        "value": "Can you discern the digit represented by the chromatic difference in the dots?"
+      },
+      {
+        "from": "gpt",
+        "value": "3"
+      }
+    ]
+  },
+  {
+    "id": "ishihara_test_3_563",
+    "image": "3/3_Oldenburg-Regulartheme_1 type_1.png",
+    "conversations": [
+      {
+        "from": "human",
+        "value": "Can you discern the digit represented by the chromatic difference in the dots?"
+      },
+      {
+        "from": "gpt",
+        "value": "3"
+      }
+    ]
+  },
+  {
+    "id": "ishihara_test_4_682",
+    "image": "4/4_Mate-Regulartheme_4 type_3.png",
+    "conversations": [
+      {
+        "from": "human",
+        "value": "Analyze the contrast between the colored bubbles. What number do they form?"
+      },
+      {
+        "from": "gpt",
+        "value": "4"
+      }
+    ]
+  },
+  {
+    "id": "ishihara_test_4_683",
+    "image": "4/4_Umpush-LightObliquetheme_1 type_1.png",
+    "conversations": [
+      {
+        "from": "human",
+        "value": "Analyze the contrast between the colored bubbles. What number do they form?"
+      },
+      {
+        "from": "gpt",
+        "value": "4"
+      }
+    ]
+  },
+  {
+    "id": "ishihara_test_4_684",
+    "image": "4/4_PlayfairDisplaySC-Italictheme_1 type_1.png",
+    "conversations": [
+      {
+        "from": "human",
+        "value": "What number is hidden in this Ishihara color vision test plate?"
+      },
+      {
+        "from": "gpt",
+        "value": "4"
+      }
+    ]
+  },
+  {
+    "id": "ishihara_test_4_685",
+    "image": "4/4_HindGuntur-Boldtheme_3 type_3.png",
+    "conversations": [
+      {
+        "from": "human",
+        "value": "Analyze the contrast between the colored bubbles. What number do they form?"
+      },
+      {
+        "from": "gpt",
+        "value": "4"
+      }
+    ]
+  },
+  {
+    "id": "ishihara_test_4_686",
+    "image": "4/4_CormorantGaramond-Lighttheme_1 type_1.png",
+    "conversations": [
+      {
+        "from": "human",
+        "value": "Analyze the contrast between the colored bubbles. What number do they form?"
+      },
+      {
+        "from": "gpt",
+        "value": "4"
+      }
+    ]
+  },
+  {
+    "id": "ishihara_test_4_687",
+    "image": "4/4_PlayfairDisplaySC-Italictheme_2 type_2.png",
+    "conversations": [
+      {
+        "from": "human",
+        "value": "What number is hidden in this Ishihara color vision test plate?"
+      },
+      {
+        "from": "gpt",
+        "value": "4"
+      }
+    ]
+  },
+  {
+    "id": "ishihara_test_4_688",
+    "image": "4/4_Chilanka-Regulartheme_4 type_3.png",
+    "conversations": [
+      {
+        "from": "human",
+        "value": "Identify the digit visible in this color blindness test image."
+      },
+      {
+        "from": "gpt",
+        "value": "4"
+      }
+    ]
+  },
+  {
+    "id": "ishihara_test_4_689",
+    "image": "4/4_BalooThambi-Regulartheme_1 type_1.png",
+    "conversations": [
+      {
+        "from": "human",
+        "value": "Can you discern the digit represented by the chromatic difference in the dots?"
+      },
+      {
+        "from": "gpt",
+        "value": "4"
+      }
+    ]
+  },
+  {
+    "id": "ishihara_test_4_690",
+    "image": "4/4_DejaVuSerifCondensed-Italictheme_2 type_2.png",
+    "conversations": [
+      {
+        "from": "human",
+        "value": "Please recognize the number embedded in the mosaic of dots."
+      },
+      {
+        "from": "gpt",
+        "value": "4"
+      }
+    ]
+  },
+  {
+    "id": "ishihara_test_4_691",
+    "image": "4/4_SpectralSC-ExtraBoldItalictheme_3 type_3.png",
+    "conversations": [
+      {
+        "from": "human",
+        "value": "Locate the number formed by the dots of a distinct color against the background."
+      },
+      {
+        "from": "gpt",
+        "value": "4"
+      }
+    ]
+  },
+  {
+    "id": "ishihara_test_4_692",
+    "image": "4/4_DejaVuSansCondensed-Obliquetheme_2 type_2.png",
+    "conversations": [
+      {
+        "from": "human",
+        "value": "Identify the digit visible in this color blindness test image."
+      },
+      {
+        "from": "gpt",
+        "value": "4"
+      }
+    ]
+  },
+  {
+    "id": "ishihara_test_4_693",
+    "image": "4/4_Umpush-LightObliquetheme_3 type_3.png",
+    "conversations": [
+      {
+        "from": "human",
+        "value": "This image consists of colored dots. What digit creates the pattern?"
+      },
+      {
+        "from": "gpt",
+        "value": "4"
+      }
+    ]
+  },
+  {
+    "id": "ishihara_test_4_694",
+    "image": "4/4_HindGuntur-Boldtheme_4 type_3.png",
+    "conversations": [
+      {
+        "from": "human",
+        "value": "What number is hidden in this Ishihara color vision test plate?"
+      },
+      {
+        "from": "gpt",
+        "value": "4"
+      }
+    ]
+  },
+  {
+    "id": "ishihara_test_4_695",
+    "image": "4/4_Mate-Regulartheme_1 type_1.png",
+    "conversations": [
+      {
+        "from": "human",
+        "value": "This image consists of colored dots. What digit creates the pattern?"
+      },
+      {
+        "from": "gpt",
+        "value": "4"
+      }
+    ]
+  },
+  {
+    "id": "ishihara_test_5_836",
+    "image": "5/5_VeraMoBItheme_2 type_2.png",
+    "conversations": [
+      {
+        "from": "human",
+        "value": "Identify the digit visible in this color blindness test image."
+      },
+      {
+        "from": "gpt",
+        "value": "5"
+      }
+    ]
+  },
+  {
+    "id": "ishihara_test_5_837",
+    "image": "5/5_SpectralSC-ExtraBoldItalictheme_2 type_2.png",
+    "conversations": [
+      {
+        "from": "human",
+        "value": "Identify the digit visible in this color blindness test image."
+      },
+      {
+        "from": "gpt",
+        "value": "5"
+      }
+    ]
+  },
+  {
+    "id": "ishihara_test_5_838",
+    "image": "5/5_ExpletusSans-Italictheme_4 type_3.png",
+    "conversations": [
+      {
+        "from": "human",
+        "value": "Perform a color vision test reading on this image. What is the result?"
+      },
+      {
+        "from": "gpt",
+        "value": "5"
+      }
+    ]
+  },
+  {
+    "id": "ishihara_test_5_839",
+    "image": "5/5_EncodeSans-Lighttheme_3 type_3.png",
+    "conversations": [
+      {
+        "from": "human",
+        "value": "This image consists of colored dots. What digit creates the pattern?"
+      },
+      {
+        "from": "gpt",
+        "value": "5"
+      }
+    ]
+  },
+  {
+    "id": "ishihara_test_5_840",
+    "image": "5/5_Tillana-Boldtheme_2 type_2.png",
+    "conversations": [
+      {
+        "from": "human",
+        "value": "Can you discern the digit represented by the chromatic difference in the dots?"
+      },
+      {
+        "from": "gpt",
+        "value": "5"
+      }
+    ]
+  },
+  {
+    "id": "ishihara_test_5_841",
+    "image": "5/5_VeraMoBItheme_1 type_1.png",
+    "conversations": [
+      {
+        "from": "human",
+        "value": "This image consists of colored dots. What digit creates the pattern?"
+      },
+      {
+        "from": "gpt",
+        "value": "5"
+      }
+    ]
+  },
+  {
+    "id": "ishihara_test_5_842",
+    "image": "5/5_FreeSerifBoldItalictheme_4 type_3.png",
+    "conversations": [
+      {
+        "from": "human",
+        "value": "Can you discern the digit represented by the chromatic difference in the dots?"
+      },
+      {
+        "from": "gpt",
+        "value": "5"
+      }
+    ]
+  },
+  {
+    "id": "ishihara_test_5_843",
+    "image": "5/5_LikhanNormaltheme_1 type_1.png",
+    "conversations": [
+      {
+        "from": "human",
+        "value": "Please recognize the number embedded in the mosaic of dots."
+      },
+      {
+        "from": "gpt",
+        "value": "5"
+      }
+    ]
+  },
+  {
+    "id": "ishihara_test_5_844",
+    "image": "5/5_Chilanka-Regulartheme_4 type_3.png",
+    "conversations": [
+      {
+        "from": "human",
+        "value": "Please recognize the number embedded in the mosaic of dots."
+      },
+      {
+        "from": "gpt",
+        "value": "5"
+      }
+    ]
+  },
+  {
+    "id": "ishihara_test_5_845",
+    "image": "5/5_Asap-MediumItalictheme_3 type_3.png",
+    "conversations": [
+      {
+        "from": "human",
+        "value": "Identify the digit visible in this color blindness test image."
+      },
+      {
+        "from": "gpt",
+        "value": "5"
+      }
+    ]
+  },
+  {
+    "id": "ishihara_test_5_846",
+    "image": "5/5_Changa-Boldtheme_4 type_3.png",
+    "conversations": [
+      {
+        "from": "human",
+        "value": "Identify the digit visible in this color blindness test image."
+      },
+      {
+        "from": "gpt",
+        "value": "5"
+      }
+    ]
+  },
+  {
+    "id": "ishihara_test_5_847",
+    "image": "5/5_PlayfairDisplaySC-Italictheme_1 type_1.png",
+    "conversations": [
+      {
+        "from": "human",
+        "value": "What number is hidden in this Ishihara color vision test plate?"
+      },
+      {
+        "from": "gpt",
+        "value": "5"
+      }
+    ]
+  },
+  {
+    "id": "ishihara_test_5_848",
+    "image": "5/5_HindGuntur-Boldtheme_1 type_1.png",
+    "conversations": [
+      {
+        "from": "human",
+        "value": "Perform a color vision test reading on this image. What is the result?"
+      },
+      {
+        "from": "gpt",
+        "value": "5"
+      }
+    ]
+  },
+  {
+    "id": "ishihara_test_5_849",
+    "image": "5/5_DejaVuSanstheme_4 type_3.png",
+    "conversations": [
+      {
+        "from": "human",
+        "value": "Locate the number formed by the dots of a distinct color against the background."
+      },
+      {
+        "from": "gpt",
+        "value": "5"
+      }
+    ]
+  },
+  {
+    "id": "ishihara_test_5_850",
+    "image": "5/5_CormorantGaramond-Lighttheme_1 type_1.png",
+    "conversations": [
+      {
+        "from": "human",
+        "value": "Please recognize the number embedded in the mosaic of dots."
+      },
+      {
+        "from": "gpt",
+        "value": "5"
+      }
+    ]
+  },
+  {
+    "id": "ishihara_test_5_851",
+    "image": "5/5_EncodeSans-Lighttheme_1 type_1.png",
+    "conversations": [
+      {
+        "from": "human",
+        "value": "Perform a color vision test reading on this image. What is the result?"
+      },
+      {
+        "from": "gpt",
+        "value": "5"
+      }
+    ]
+  },
+  {
+    "id": "ishihara_test_6_970",
+    "image": "6/6_LiberationMono-Boldtheme_3 type_3.png",
+    "conversations": [
+      {
+        "from": "human",
+        "value": "This image consists of colored dots. What digit creates the pattern?"
+      },
+      {
+        "from": "gpt",
+        "value": "6"
+      }
+    ]
+  },
+  {
+    "id": "ishihara_test_6_971",
+    "image": "6/6_DejaVuSansCondensed-Obliquetheme_1 type_1.png",
+    "conversations": [
+      {
+        "from": "human",
+        "value": "What number is hidden in this Ishihara color vision test plate?"
+      },
+      {
+        "from": "gpt",
+        "value": "6"
+      }
+    ]
+  },
+  {
+    "id": "ishihara_test_6_972",
+    "image": "6/6_Exo-BlackItalictheme_1 type_1.png",
+    "conversations": [
+      {
+        "from": "human",
+        "value": "Can you discern the digit represented by the chromatic difference in the dots?"
+      },
+      {
+        "from": "gpt",
+        "value": "6"
+      }
+    ]
+  },
+  {
+    "id": "ishihara_test_6_973",
+    "image": "6/6_Chilanka-Regulartheme_1 type_1.png",
+    "conversations": [
+      {
+        "from": "human",
+        "value": "Perform a color vision test reading on this image. What is the result?"
+      },
+      {
+        "from": "gpt",
+        "value": "6"
+      }
+    ]
+  },
+  {
+    "id": "ishihara_test_6_974",
+    "image": "6/6_Ramaraja-Regulartheme_1 type_1.png",
+    "conversations": [
+      {
+        "from": "human",
+        "value": "Analyze the contrast between the colored bubbles. What number do they form?"
+      },
+      {
+        "from": "gpt",
+        "value": "6"
+      }
+    ]
+  },
+  {
+    "id": "ishihara_test_6_975",
+    "image": "6/6_BalooThambi-Regulartheme_2 type_2.png",
+    "conversations": [
+      {
+        "from": "human",
+        "value": "Can you discern the digit represented by the chromatic difference in the dots?"
+      },
+      {
+        "from": "gpt",
+        "value": "6"
+      }
+    ]
+  },
+  {
+    "id": "ishihara_test_6_976",
+    "image": "6/6_Domine-Boldtheme_4 type_3.png",
+    "conversations": [
+      {
+        "from": "human",
+        "value": "Identify the digit visible in this color blindness test image."
+      },
+      {
+        "from": "gpt",
+        "value": "6"
+      }
+    ]
+  },
+  {
+    "id": "ishihara_test_6_977",
+    "image": "6/6_PlayfairDisplaySC-Italictheme_2 type_2.png",
+    "conversations": [
+      {
+        "from": "human",
+        "value": "Identify the digit visible in this color blindness test image."
+      },
+      {
+        "from": "gpt",
+        "value": "6"
+      }
+    ]
+  },
+  {
+    "id": "ishihara_test_6_978",
+    "image": "6/6_Ramaraja-Regulartheme_4 type_3.png",
+    "conversations": [
+      {
+        "from": "human",
+        "value": "What number is hidden in this Ishihara color vision test plate?"
+      },
+      {
+        "from": "gpt",
+        "value": "6"
+      }
+    ]
+  },
+  {
+    "id": "ishihara_test_6_979",
+    "image": "6/6_BalooThambi-Regulartheme_1 type_1.png",
+    "conversations": [
+      {
+        "from": "human",
+        "value": "Analyze the contrast between the colored bubbles. What number do they form?"
+      },
+      {
+        "from": "gpt",
+        "value": "6"
+      }
+    ]
+  },
+  {
+    "id": "ishihara_test_6_980",
+    "image": "6/6_SpectralSC-ExtraBoldItalictheme_4 type_3.png",
+    "conversations": [
+      {
+        "from": "human",
+        "value": "Locate the number formed by the dots of a distinct color against the background."
+      },
+      {
+        "from": "gpt",
+        "value": "6"
+      }
+    ]
+  },
+  {
+    "id": "ishihara_test_6_981",
+    "image": "6/6_VeraMoBItheme_1 type_1.png",
+    "conversations": [
+      {
+        "from": "human",
+        "value": "Identify the digit visible in this color blindness test image."
+      },
+      {
+        "from": "gpt",
+        "value": "6"
+      }
+    ]
+  },
+  {
+    "id": "ishihara_test_6_982",
+    "image": "6/6_Exo-BlackItalictheme_3 type_3.png",
+    "conversations": [
+      {
+        "from": "human",
+        "value": "This image consists of colored dots. What digit creates the pattern?"
+      },
+      {
+        "from": "gpt",
+        "value": "6"
+      }
+    ]
+  },
+  {
+    "id": "ishihara_test_6_983",
+    "image": "6/6_Changa-Boldtheme_1 type_1.png",
+    "conversations": [
+      {
+        "from": "human",
+        "value": "Analyze the contrast between the colored bubbles. What number do they form?"
+      },
+      {
+        "from": "gpt",
+        "value": "6"
+      }
+    ]
+  },
+  {
+    "id": "ishihara_test_7_1110",
+    "image": "7/7_Oldenburg-Regulartheme_3 type_3.png",
+    "conversations": [
+      {
+        "from": "human",
+        "value": "Analyze the contrast between the colored bubbles. What number do they form?"
+      },
+      {
+        "from": "gpt",
+        "value": "7"
+      }
+    ]
+  },
+  {
+    "id": "ishihara_test_7_1111",
+    "image": "7/7_EagleLake-Regulartheme_4 type_3.png",
+    "conversations": [
+      {
+        "from": "human",
+        "value": "Locate the number formed by the dots of a distinct color against the background."
+      },
+      {
+        "from": "gpt",
+        "value": "7"
+      }
+    ]
+  },
+  {
+    "id": "ishihara_test_7_1112",
+    "image": "7/7_Domine-Boldtheme_1 type_1.png",
+    "conversations": [
+      {
+        "from": "human",
+        "value": "Perform a color vision test reading on this image. What is the result?"
+      },
+      {
+        "from": "gpt",
+        "value": "7"
+      }
+    ]
+  },
+  {
+    "id": "ishihara_test_7_1113",
+    "image": "7/7_HindGuntur-Boldtheme_2 type_2.png",
+    "conversations": [
+      {
+        "from": "human",
+        "value": "This image consists of colored dots. What digit creates the pattern?"
+      },
+      {
+        "from": "gpt",
+        "value": "7"
+      }
+    ]
+  },
+  {
+    "id": "ishihara_test_7_1114",
+    "image": "7/7_VeraMoBItheme_3 type_3.png",
+    "conversations": [
+      {
+        "from": "human",
+        "value": "Locate the number formed by the dots of a distinct color against the background."
+      },
+      {
+        "from": "gpt",
+        "value": "7"
+      }
+    ]
+  },
+  {
+    "id": "ishihara_test_7_1115",
+    "image": "7/7_Waree-Obliquetheme_1 type_1.png",
+    "conversations": [
+      {
+        "from": "human",
+        "value": "What number is hidden in this Ishihara color vision test plate?"
+      },
+      {
+        "from": "gpt",
+        "value": "7"
+      }
+    ]
+  },
+  {
+    "id": "ishihara_test_7_1116",
+    "image": "7/7_SpectralSC-ExtraBoldItalictheme_1 type_1.png",
+    "conversations": [
+      {
+        "from": "human",
+        "value": "Identify the digit visible in this color blindness test image."
+      },
+      {
+        "from": "gpt",
+        "value": "7"
+      }
+    ]
+  },
+  {
+    "id": "ishihara_test_7_1117",
+    "image": "7/7_CormorantGaramond-Lighttheme_4 type_3.png",
+    "conversations": [
+      {
+        "from": "human",
+        "value": "What number is hidden in this Ishihara color vision test plate?"
+      },
+      {
+        "from": "gpt",
+        "value": "7"
+      }
+    ]
+  },
+  {
+    "id": "ishihara_test_7_1118",
+    "image": "7/7_AveriaSerifLibre-Regulartheme_2 type_2.png",
+    "conversations": [
+      {
+        "from": "human",
+        "value": "Analyze the contrast between the colored bubbles. What number do they form?"
+      },
+      {
+        "from": "gpt",
+        "value": "7"
+      }
+    ]
+  },
+  {
+    "id": "ishihara_test_7_1119",
+    "image": "7/7_HindGuntur-Boldtheme_4 type_3.png",
+    "conversations": [
+      {
+        "from": "human",
+        "value": "Analyze the contrast between the colored bubbles. What number do they form?"
+      },
+      {
+        "from": "gpt",
+        "value": "7"
+      }
+    ]
+  },
+  {
+    "id": "ishihara_test_7_1120",
+    "image": "7/7_Fahkwang-SemiBoldItalictheme_3 type_3.png",
+    "conversations": [
+      {
+        "from": "human",
+        "value": "What number is hidden in this Ishihara color vision test plate?"
+      },
+      {
+        "from": "gpt",
+        "value": "7"
+      }
+    ]
+  },
+  {
+    "id": "ishihara_test_7_1121",
+    "image": "7/7_Mate-Regulartheme_1 type_1.png",
+    "conversations": [
+      {
+        "from": "human",
+        "value": "Locate the number formed by the dots of a distinct color against the background."
+      },
+      {
+        "from": "gpt",
+        "value": "7"
+      }
+    ]
+  },
+  {
+    "id": "ishihara_test_7_1122",
+    "image": "7/7_FreeSerifBoldItalictheme_2 type_2.png",
+    "conversations": [
+      {
+        "from": "human",
+        "value": "What number is hidden in this Ishihara color vision test plate?"
+      },
+      {
+        "from": "gpt",
+        "value": "7"
+      }
+    ]
+  },
+  {
+    "id": "ishihara_test_7_1123",
+    "image": "7/7_Oldenburg-Regulartheme_4 type_3.png",
+    "conversations": [
+      {
+        "from": "human",
+        "value": "Please recognize the number embedded in the mosaic of dots."
+      },
+      {
+        "from": "gpt",
+        "value": "7"
+      }
+    ]
+  },
+  {
+    "id": "ishihara_test_8_1257",
+    "image": "8/8_EncodeSans-Lighttheme_4 type_3.png",
+    "conversations": [
+      {
+        "from": "human",
+        "value": "Perform a color vision test reading on this image. What is the result?"
+      },
+      {
+        "from": "gpt",
+        "value": "8"
+      }
+    ]
+  },
+  {
+    "id": "ishihara_test_8_1258",
+    "image": "8/8_Waree-Obliquetheme_4 type_3.png",
+    "conversations": [
+      {
+        "from": "human",
+        "value": "Analyze the contrast between the colored bubbles. What number do they form?"
+      },
+      {
+        "from": "gpt",
+        "value": "8"
+      }
+    ]
+  },
+  {
+    "id": "ishihara_test_8_1259",
+    "image": "8/8_TlwgTypewriter-Obliquetheme_3 type_3.png",
+    "conversations": [
+      {
+        "from": "human",
+        "value": "This image consists of colored dots. What digit creates the pattern?"
+      },
+      {
+        "from": "gpt",
+        "value": "8"
+      }
+    ]
+  },
+  {
+    "id": "ishihara_test_8_1260",
+    "image": "8/8_Fahkwang-SemiBoldItalictheme_3 type_3.png",
+    "conversations": [
+      {
+        "from": "human",
+        "value": "This image consists of colored dots. What digit creates the pattern?"
+      },
+      {
+        "from": "gpt",
+        "value": "8"
+      }
+    ]
+  },
+  {
+    "id": "ishihara_test_8_1261",
+    "image": "8/8_FreeSerifBoldItalictheme_4 type_3.png",
+    "conversations": [
+      {
+        "from": "human",
+        "value": "Locate the number formed by the dots of a distinct color against the background."
+      },
+      {
+        "from": "gpt",
+        "value": "8"
+      }
+    ]
+  },
+  {
+    "id": "ishihara_test_8_1262",
+    "image": "8/8_EagleLake-Regulartheme_2 type_2.png",
+    "conversations": [
+      {
+        "from": "human",
+        "value": "Identify the digit visible in this color blindness test image."
+      },
+      {
+        "from": "gpt",
+        "value": "8"
+      }
+    ]
+  },
+  {
+    "id": "ishihara_test_8_1263",
+    "image": "8/8_Umpush-LightObliquetheme_4 type_3.png",
+    "conversations": [
+      {
+        "from": "human",
+        "value": "This image consists of colored dots. What digit creates the pattern?"
+      },
+      {
+        "from": "gpt",
+        "value": "8"
+      }
+    ]
+  },
+  {
+    "id": "ishihara_test_8_1264",
+    "image": "8/8_Domine-Boldtheme_1 type_1.png",
+    "conversations": [
+      {
+        "from": "human",
+        "value": "Can you discern the digit represented by the chromatic difference in the dots?"
+      },
+      {
+        "from": "gpt",
+        "value": "8"
+      }
+    ]
+  },
+  {
+    "id": "ishihara_test_8_1265",
+    "image": "8/8_DejaVuSansCondensed-Obliquetheme_4 type_3.png",
+    "conversations": [
+      {
+        "from": "human",
+        "value": "Can you discern the digit represented by the chromatic difference in the dots?"
+      },
+      {
+        "from": "gpt",
+        "value": "8"
+      }
+    ]
+  },
+  {
+    "id": "ishihara_test_8_1266",
+    "image": "8/8_Waree-Obliquetheme_2 type_2.png",
+    "conversations": [
+      {
+        "from": "human",
+        "value": "Can you discern the digit represented by the chromatic difference in the dots?"
+      },
+      {
+        "from": "gpt",
+        "value": "8"
+      }
+    ]
+  },
+  {
+    "id": "ishihara_test_8_1267",
+    "image": "8/8_Varela-Regulartheme_1 type_1.png",
+    "conversations": [
+      {
+        "from": "human",
+        "value": "Can you discern the digit represented by the chromatic difference in the dots?"
+      },
+      {
+        "from": "gpt",
+        "value": "8"
+      }
+    ]
+  },
+  {
+    "id": "ishihara_test_8_1268",
+    "image": "8/8_Phetsarath_OTtheme_2 type_2.png",
+    "conversations": [
+      {
+        "from": "human",
+        "value": "Locate the number formed by the dots of a distinct color against the background."
+      },
+      {
+        "from": "gpt",
+        "value": "8"
+      }
+    ]
+  },
+  {
+    "id": "ishihara_test_8_1269",
+    "image": "8/8_EncodeSans-Lighttheme_2 type_2.png",
+    "conversations": [
+      {
+        "from": "human",
+        "value": "Can you discern the digit represented by the chromatic difference in the dots?"
+      },
+      {
+        "from": "gpt",
+        "value": "8"
+      }
+    ]
+  },
+  {
+    "id": "ishihara_test_8_1270",
+    "image": "8/8_Oldenburg-Regulartheme_1 type_1.png",
+    "conversations": [
+      {
+        "from": "human",
+        "value": "What number is hidden in this Ishihara color vision test plate?"
+      },
+      {
+        "from": "gpt",
+        "value": "8"
+      }
+    ]
+  },
+  {
+    "id": "ishihara_test_8_1271",
+    "image": "8/8_PortLligatSlab-Regulartheme_3 type_3.png",
+    "conversations": [
+      {
+        "from": "human",
+        "value": "What number is hidden in this Ishihara color vision test plate?"
+      },
+      {
+        "from": "gpt",
+        "value": "8"
+      }
+    ]
+  },
+  {
+    "id": "ishihara_test_9_1387",
+    "image": "9/9_LiberationMono-Boldtheme_4 type_3.png",
+    "conversations": [
+      {
+        "from": "human",
+        "value": "Please recognize the number embedded in the mosaic of dots."
+      },
+      {
+        "from": "gpt",
+        "value": "9"
+      }
+    ]
+  },
+  {
+    "id": "ishihara_test_9_1388",
+    "image": "9/9_Chilanka-Regulartheme_4 type_3.png",
+    "conversations": [
+      {
+        "from": "human",
+        "value": "What number is hidden in this Ishihara color vision test plate?"
+      },
+      {
+        "from": "gpt",
+        "value": "9"
+      }
+    ]
+  },
+  {
+    "id": "ishihara_test_9_1389",
+    "image": "9/9_Asap-MediumItalictheme_1 type_1.png",
+    "conversations": [
+      {
+        "from": "human",
+        "value": "What number is hidden in this Ishihara color vision test plate?"
+      },
+      {
+        "from": "gpt",
+        "value": "9"
+      }
+    ]
+  },
+  {
+    "id": "ishihara_test_9_1390",
+    "image": "9/9_K2D-Lighttheme_2 type_2.png",
+    "conversations": [
+      {
+        "from": "human",
+        "value": "Perform a color vision test reading on this image. What is the result?"
+      },
+      {
+        "from": "gpt",
+        "value": "9"
+      }
+    ]
+  },
+  {
+    "id": "ishihara_test_9_1391",
+    "image": "9/9_HindGuntur-Boldtheme_1 type_1.png",
+    "conversations": [
+      {
+        "from": "human",
+        "value": "Analyze the contrast between the colored bubbles. What number do they form?"
+      },
+      {
+        "from": "gpt",
+        "value": "9"
+      }
+    ]
+  },
+  {
+    "id": "ishihara_test_9_1392",
+    "image": "9/9_EagleLake-Regulartheme_4 type_3.png",
+    "conversations": [
+      {
+        "from": "human",
+        "value": "Locate the number formed by the dots of a distinct color against the background."
+      },
+      {
+        "from": "gpt",
+        "value": "9"
+      }
+    ]
+  },
+  {
+    "id": "ishihara_test_9_1393",
+    "image": "9/9_Phetsarath_OTtheme_4 type_3.png",
+    "conversations": [
+      {
+        "from": "human",
+        "value": "Analyze the contrast between the colored bubbles. What number do they form?"
+      },
+      {
+        "from": "gpt",
+        "value": "9"
+      }
+    ]
+  },
+  {
+    "id": "ishihara_test_9_1394",
+    "image": "9/9_DejaVuSanstheme_2 type_2.png",
+    "conversations": [
+      {
+        "from": "human",
+        "value": "Please recognize the number embedded in the mosaic of dots."
+      },
+      {
+        "from": "gpt",
+        "value": "9"
+      }
+    ]
+  },
+  {
+    "id": "ishihara_test_9_1395",
+    "image": "9/9_Tillana-Boldtheme_4 type_3.png",
+    "conversations": [
+      {
+        "from": "human",
+        "value": "Analyze the contrast between the colored bubbles. What number do they form?"
+      },
+      {
+        "from": "gpt",
+        "value": "9"
+      }
+    ]
+  },
+  {
+    "id": "ishihara_test_9_1396",
+    "image": "9/9_AveriaSerifLibre-Regulartheme_3 type_3.png",
+    "conversations": [
+      {
+        "from": "human",
+        "value": "Analyze the contrast between the colored bubbles. What number do they form?"
+      },
+      {
+        "from": "gpt",
+        "value": "9"
+      }
+    ]
+  },
+  {
+    "id": "ishihara_test_9_1397",
+    "image": "9/9_ChangaOne-Regulartheme_4 type_3.png",
+    "conversations": [
+      {
+        "from": "human",
+        "value": "Perform a color vision test reading on this image. What is the result?"
+      },
+      {
+        "from": "gpt",
+        "value": "9"
+      }
+    ]
+  },
+  {
+    "id": "ishihara_test_9_1398",
+    "image": "9/9_PlayfairDisplaySC-Italictheme_2 type_2.png",
+    "conversations": [
+      {
+        "from": "human",
+        "value": "Locate the number formed by the dots of a distinct color against the background."
+      },
+      {
+        "from": "gpt",
+        "value": "9"
+      }
+    ]
+  },
+  {
+    "id": "ishihara_test_9_1399",
+    "image": "9/9_EagleLake-Regulartheme_1 type_1.png",
+    "conversations": [
+      {
+        "from": "human",
+        "value": "This image consists of colored dots. What digit creates the pattern?"
+      },
+      {
+        "from": "gpt",
+        "value": "9"
+      }
+    ]
+  }
+]
