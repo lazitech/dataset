@@ -28,6 +28,6 @@ chartQA数据集请使用：https://huggingface.co/datasets/HuggingFaceM4/ChartQ
 
 同时将qwen2.5vl的回答和Qwen/Qwen2.5-7B-Instruct的评判结果保存到csv文件，每个数据集分别保存，最后我来检查一遍。（相当于完成这一部分需要填写对应的表格，然后每人给我五份csv文件）
 
-如遇到任何问题请在群里交流！
+总体来说时间还是有点紧的，如遇到任何问题请立刻在群里交流，谢谢！
 
 这一部分ddl为14号中午之前，各位辛苦了！！！
