@@ -17,7 +17,7 @@ import json
 from tqdm import tqdm
 from typing import Dict, List, Any
 
-BASE_DIR = "./dataset4"
+BASE_DIR = "./"
 
 TRAIN_IMG_DIR = os.path.join(BASE_DIR, "train/images")
 TRAIN_JSON_FILE = os.path.join(BASE_DIR, "train/train_dataset.json")
@@ -40,7 +40,6 @@ COLOR_MAP: Dict[str, str] = {
     "cyan": "#17becf",
     "yellow": "#bcbd22",
     "black": "#000000",
-    "white": "#ffffff",
     "navy": "#000080",
     "teal": "#008080",
     "maroon": "#800000",
@@ -106,7 +105,7 @@ def generate_one_sample(index, output_dir, mode="train", num_points=5, difficult
 
     entry = {
         "id": f"{prefix}_chart_{index:05d}",
-        "image": filename,
+        "image": f"./images/{filename}",
     }
 
     question_text = "<image>\nAnalyze the scatter plot. Identify the value and color of each point associated with the letters, then sort the letters based on their values from highest to lowest."
