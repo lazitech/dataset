@@ -1,6 +1,7 @@
 import requests
+import json
 
-def getprompt(query, ground_truth, prediction):
+def get_judge_prompt_v2(query, ground_truth, prediction):
     return f"""
 You are an intelligent evaluator for a Visual Question Answering (VQA) task.
 Your goal is to determine if the Model Prediction matches the Ground Truth.
@@ -11,67 +12,71 @@ Input:
 - Model Prediction: {prediction}
 
 Evaluation Criteria:
-1. **Numerical Accuracy (Conditional Rule)**:
-   - **Case A: Integer Ground Truth** (e.g., "42", "2020", "100"): 
-     The numeric value in the prediction MUST match the Ground Truth **EXACTLY**. No deviation is allowed.
-     (e.g., GT="2020", Pred="2019" -> WRONG; GT="50", Pred="50" -> CORRECT).
-   - **Case B: Decimal Ground Truth** (e.g., "42.5", "0.123", "1.5"): 
-     Allow a relative error of up to **5%**.
-     (e.g., GT="12.5", Pred="12.4" -> CORRECT).
+1. **Core Information Focus (CRITICAL)**:
+   - Your primary job is to check if the *answer to the question* is correct.
+   - **Ignore Extra Details**: If the Ground Truth is simple (e.g., "Purple") and the Prediction is detailed (e.g., "Purple with small darker dots"), this is **CORRECT**. The model sees the actual image; the Ground Truth might be simplified.
+   - **No Penalty for Specificity**: Do NOT penalize the model for describing shapes (e.g., "letter X") or textures (e.g., "noise", "dots") that are not in the Ground Truth, provided the core attribute (color/object) is correct.
 
-2. **Unit & Format Flexibility**: 
-   - Ignore missing or extra units/symbols if the number adheres to Rule 1.
-   - Example: GT="50" vs Pred="50%" -> CORRECT.
-   - Example: GT="$100" vs Pred="100 dollars" -> CORRECT.
+2. **Color Flexibility**:
+   - Treat visually similar colors as matches.
+   - **Cyan / Teal / Turquoise** -> MATCH.
+   - **Purple / Violet / Lavender** -> MATCH.
+   - **Green / Olive / Lime** -> MATCH.
 
-3. **Verbose Answers**: 
-   - Extract the core answer from full sentences.
-   - Example: GT="Blue" vs Pred="The bar color is Blue" -> CORRECT.
+3. **Numerical Accuracy (Conditional)**:
+   - **Integer GT**: Exact match required (e.g., GT="2020", Pred="2019" -> WRONG).
+   - **Decimal GT**: Allow 5% relative error.
 
-4. **Synonyms**: 
-   - Accept common synonyms (e.g., GT="Rose" vs Pred="Increased" -> CORRECT).
+4. **Unit & Format**: 
+   - Ignore missing/extra units or symbols (e.g., "%", "$").
 
 Output Format:
-Return a valid JSON object(Just the JSON not ```json and not anything else) with the following structure:
+Return a valid JSON object ONLY:
 {{
     "correct": boolean,
-    "reason": "Brief explanation (e.g., 'Integer match exact' or 'Decimal within 5% range')"
+    "reason": "Brief explanation focused on semantic matching."
 }}
 """
 
+def judge_answer(query, gt, pred, api_key):
+    url = "https://api.siliconflow.cn/v1/chat/completions"
+    
+    payload = {
+        "model": "Qwen/Qwen2.5-14B-Instruct", 
+        "messages": [
+            {
+                "role": "user",
+                "content": get_judge_prompt_v2(query, gt, pred)
+            }
+        ],
+        "temperature": 0.0,
+        "max_tokens": 512,
+        "response_format": { "type": "json_object" } 
+    }
+    headers = {
+        "Authorization": f"Bearer {api_key}",
+        "Content-Type": "application/json"
+    }
 
-url = "https://api.siliconflow.cn/v1/chat/completions"
+    try:
+        response = requests.post(url, json=payload, headers=headers)
+        data = response.json()
+        if "choices" in data:
+            content = data["choices"][0]["message"]["content"]
+            return json.loads(content)
+        else:
+            return {"correct": False, "reason": f"API Error: {data}"}
+    except Exception as e:
+        return {"correct": False, "reason": str(e)}
 
-payload = {
-    "model": "Qwen/Qwen2.5-7B-Instruct",
-    "messages": [
-        {
-            "role": "user",
-            "content": getprompt('Which retailers have a Highest sum of social media presence in the United Kingdom?','[\'Facebook users\']','Online shoppers')
-        }
-    ],
-    "stream": False,
-    "max_tokens": 4096,
-    "thinking_budget": 4096,
-    "min_p": 0.05,
-    "stop": [],
-    "temperature": 0.7,
-    "top_p": 0.7,
-    "top_k": 50,
-    "frequency_penalty": 0.5,
-    "n": 1,
-    "response_format": { "type": "text" },
-    "tool_choice": "none"
-}
-headers = {
-    "Authorization": "Bearer sk-hmkocpctxwanyoczcaqktrmrfnbrzzbrjufgvvfatutlsdre",
-    "Content-Type": "application/json"
-}
+# 使用示例
+if __name__ == "__main__":
 
-response = requests.post(url, json=payload, headers=headers)
-
-data = response.json()
-answer = data["choices"][0]["message"]["content"]
-print(answer)
-
-
+    q = "Identify the background color behind the brown character 'B'."
+    gt = "The background is cyan."
+    pred = "The background color behind the brown character 'B' is teal."
+    
+    MY_API_KEY = "sk-hmkocpctxwanyoczcaqktrmrfnbrzzbrjufgvvfatutlsdre" 
+    
+    result = judge_answer(q, gt, pred, MY_API_KEY)
+    print(f"Test Result: {result}")
